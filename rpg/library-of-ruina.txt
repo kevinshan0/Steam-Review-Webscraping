@@ -1,0 +1,471 @@
+Posted: November 2, 2022
+You either die a quitter after 3 hours of lobotomy corp or you live long enough to see yourself become a ProjectMoon shill
+Posted: January 5
+I loved Library of Ruina's final boss, all 30 of them.
+Posted: July 14, 2022
+The difficulty spike is vertical.
+Posted: July 2, 2023
+game so good that after pirating it and beating it i bought it so i could beat it again
+Posted: May 18, 2023
+You will experience the most gut-wrenching anxiety inducing 45 minute fights just for roland to show up and be like "man that guy was weird whatever." 10/10
+Posted: March 11, 2022
+Turns out the difficulty spike is actually vertical
+Posted: December 17, 2022
+People said difficulty spike was vertical, turns out they were correct.
+Posted: January 17
+yo its me roland from library of ruina on the nintendo switch
+Posted: June 28, 2022
+I finished the game and still don't understand how the combat system works
+Posted: April 16, 2021
+EARLY ACCESS REVIEW
+!Topical Note as of 4/16/2021!: For some reason or another the Chinese fanbase is review bombing the game for inaccurate/falsely claimed reasons, do not be concerned by it. It seems like a plausible mixture of bots and people dissatisfied by the ending.
+Having played it start all the way to what seems to be the true ending, I absolutely loved this game.
+The music is exceptional to the point I enjoyed listening to it outside of the game, the challenge level/difficulty curve of the game progression was reasonable if very intimidating to start.
+I will warn you that the game *does* require a reasonably decent hardware to run at full fps, but as long as you meet the store page specs you'll be fine.
+Absolutely DO NOT skip any of the cutscenes in game, the story is what makes this game as wonderful as it is and it would be a tragedy to miss out on it!
+If you were waiting to buy this game, I would say its absolutely worth full price.
+
+Posted: February 12, 2023
+Library of Ruina is a fantastic game and likely one of the best deckbuilders out there. It’s an amazing continuation of Lobotomy Corporation, and despite completely changing the genre, it doesn't lose an ounce of what made its predecessor special. Nevertheless, it also suffers from an atrociously paced final act and an infamous difficulty curve.
+🟩 Pros	🟥 Cons
+✔️ A large variety of card archetypes and unlockable abilities keep the gameplay loop fresh over the entire 90+ hour campaign.	❌ The game is inherently grindy due to post-battle rewards doubling as both a resource to gain new characters and cards as well as a prerequisite to attempt the next battle.
+✔️ High quantity of unique art drawn for even minor story events. There is an amazing level of detail that makes each battle feel like an accomplishment. Music, too, is tightly interwoven into the overarching presentation.	❌ Infamous difficulty spikes between regular story events and puzzle-like Abnormality encounters. This is doubly true for the True End-specific fights.
+✔️ Fully voice-acted, albeit only in Korean, to support one of the most unique settings I have ever played.	❌ In addition to a distinct lack of QoL-features, the U.I. is incoherent and, at times, outright dysfunctional.
+🟨 Miscellaneous Thoughts
+LoR features functional Steam Workshop integration. This provides replay value in the form of custom receptions.
+The narrative can feel disjointed due to it being spread out into four parallel storylines for the majority of the game.
+Technical Issues and Performance
+I have not encountered any crashes or significant lag while playing the campaign or custom receptions. There have been, however, a variety of smaller bugs that kept cropping up. The most obnoxious of which is the dysfunctional advanced search, which I am sure added up to an hour to my playtime due to frequent deck restructuring being such a significant part of the game. I have also experienced lingering card effects, enemies not properly despawning, and audio issues.
+Graphics and Sound
+Whereas Lobotomy Corporation was fairly minimalist, LoR makes its greater budget known through a myriad of unique CGs during most visual novel sections. It maintains its unique stylized look that meshes well with the esoteric setting of the story and is further supported by an amazing music score that manages to hook into bigger story beats through well-written boss tracks. The overall presentation is frankly flawless, even if some of the more grotesque themes may be off-putting to some players.
+Gameplay and ‘Vertical Difficulty’
+LoR features an abundance of interlocking combat mechanics that still manage to come together in a coherent gameplay loop. The basic idea is that each character has a certain number of speed dice available. Those double as both a determinant for the turn order as well as slots for cards to play. There are a wide array of card archetypes available, ranging from burn to bleed to discard and more. A single character can only hold up to nine cards, which serves beginners in the genre quite well due to the overall consistency such a small deck provides. Thus, experimenting with different setups can feel quite rewarding.
+During combat, cards are played against each other, resulting in clashes where more dice are rolled to determine block and attack values. While this does introduce a level of randomness, it seldom feels as if your success is based on luck due to the influence character- and deckbuilding have over the dice results. That being said, besides regular receptions, there are also abnormality battles and floor realizations against returning monstrosities from Lobotomy Corporation. These represent encounters that are more gimmick and puzzle-oriented and are a bit hit-or-miss.
+There are two issues with the battle system. For the former, regular receptions, it is due to an inherent grindiness. Whenever you defeat an enemy, they drop a book about themselves. This is an item that can be consumed to get that enemy as a playable character, or the cards they used against you. It also doubles as a prerequisite to start the following scenario, which in turn means that if you are defeated, that book is being consumed and needs to be reacquired to get another shot at progressing. While this is not often an issue, it can be frustrating when trying out new decks or hunting for achievements that require very specific scenarios or are otherwise prone to an early reset. This also very much highlights the lack of QoL through the lack of a quick reset function.
+The second part is the Abnormalities. Like I mentioned earlier, they’re mostly gimmick encounters and therefore a lot more susceptible to RNG than regular battles. They are also the source of the often-mentioned "vertical difficulty curve", as the Abnormalities from LC often simply don’t work quite as well in a deckbuilding format. Instead, including them feels more like fanservice and a bit of a weight around ProjectMoon’s ankle in terms of their ability to freely design encounters fitting their combat system.
+This culminates in a very awkward final act, where the overall difficulty outpaces the power creep of your available cards. The final act, while narratively limited, can take tens of hours of raw, brutal fighting and has one of the most ridiculous spikes in difficulty I've ever encountered in a game. The difficulty itself is not the issue; it's what this does to the pacing of the ending. That's this, and this is that, but I want to emphasize that this is primarily an issue in the final act, and more specifically, the true end route. Albeit, just like Lobotomy Corporation, there is very little point in pursuing the other endings, effectively making the Abnormality fights mandatory for a proper experience.
+Story and Setting
+The game picks up right where LC left off, and while it is not mandatory to have played it to be able to enjoy the story, it’s highly recommended to do so given the wildly exotic setting in which Library of Ruina takes place. The namesake library itself is an immense, supernatural structure that invites guests on the promise of them finding the book they desire at the risk of turning into a book themselves. The surrounding city is a futuristic hellscape in which megacorporations, each holding control over magic-like technology, are contrasted with the quirks of certain districts, such as the prescripts that are given out to follow cryptic and often lethal orders.
+While the overall narrative is very much focused on Angela’s endeavors, the game eventually forks out into four parallel storylines that, due to the nature of the game requiring peripheral progression, might be difficult to follow. Again, the final act is often brought up as falling a bit short of the otherwise fantastic build-up, and I will certainly echo that criticism. Most of all, however, the Library of Ruina provides fantastic world-building and is well worth experiencing for its unique dystopian setting.
+Final Thoughts
+It's insane to me how an indie team took the SCP concept and simply sat down to create the best panic simulator I've ever played. Then, years later, they completely flipped the genre and also made the best deckbuilder I have ever played. While Library of Ruina shows some cracks based upon the foundation that Lobotomy Corporation offered and also sometimes struggles with a slightly overdesigned combat system, most issues are either minor or largely confined towards the ending of the game. Despite these flaws, Library of Ruina is well worth experiencing for offering a unique take on both the deckbuilding genre and its vision of a highly esoteric dystopian future.
+Posted: September 29, 2023
+i am not the same person from 112 hours ago
+Posted: January 4, 2023
+nobody gonna see my comment anyways so ill just say i want to get smashed by Angela's titanium Bussy
+Posted: December 3, 2023
+According to Steam achievements, only 20% of players reach the ending of this game,
+Dark Souls 1 has a 40% completion rate.
+Posted: February 20
+the enemy is weak to blunt? use blunt
+the enemy is weak to slash? use blunt
+the enemy is weak to pierce? use blunt
+the enemy resists blunt? use more blunt
+why yes i love playing as yesod how did you know?
+Posted: February 1
+The difficulty spike is like a wall, but im mexican
+Posted: June 13, 2022
+Difficulty Spike: Vertical
+Posted: July 24, 2023
+for the first mission you kill 3 homeless orphans. It doesn't even make the top 10 list of morally wrong actions you commit throughout this game. 11/10, will distort again.
+Posted: October 27, 2023
+Visited my local library because of this game, extremely disappointed to learn that I'm supposed to acquire books by "checking them out" with my "library card" instead of claiming them as my rightful prize after besting several of the staff in a battle to the death
+The game itself is great except for the parts where it forces you to engage with this impossible mechanic where they make you "read enemy passives", which is extremely cruel since after I beat Lobcorp the Project Moon brainrot took over and made me illiterate
+10/10 perfect game I would let Gebura sublimate me any day
+Posted: August 11, 2021
+Gets really difficult that it made me ragequit and go to bed.
+After 20 minutes of thinking on what I should have done differently and endlessly looping the ost, I load this game up and the cycle continues.
+Finally beat it 9.5/10
+Posted: November 14, 2022
+Me roll dice. Number big. Number good. More big number. Big number good. Me feel good
+Posted: October 19, 2023
+the difficulty spike is vertical and i've been impaled on it
+10/10
+Posted: July 19, 2020
+EARLY ACCESS REVIEW
+It has music by Mili.
+Posted: July 30, 2022
+They didn't lie that difficulty spike was vertical
+Posted: February 18, 2021
+EARLY ACCESS REVIEW
+the train arrived in 10 seconds. excellent service
+Posted: May 24, 2022
+very fun, addictive and only mildly frustrating
+(and be warned, its difficulty curve IS vertical)
+in this game you can:
+- get staggered
+- get staggered
+- nail a full 4d chess combo that leaves you with a good feeling for a while
+- get staggered
+- go into battle completely unprepared
+- open the curtains
+- assemble the perfect build with a ridiculous amount of power (but it won't matter because in the end you WILL get all low rolls and Get staggered)
+- get lucky! (1/6 chance)
+- Get unlucky (5/6 chance)
+- NOT talk about love town
+- give the silent orchestra diarrhea*
+- create a chain of people dying trying to retrieve the books of people who died trying to retrieve the books of...
+- feel an increase in your own emotion level
+- become THE big bad boss, only to realize the aforementioned big bad boss entered with a poorly thought out build (alternatively, with no key pages)
+- get staggered
+* have not confirmed if i can do this
+i would recommend either playing the previous game, lobotomy corporation, to full completion if it interests you or reading up on its story if it doesn't, as this game does continue off of its story and as such does contain spoilers for it
+Posted: May 17, 2020
+EARLY ACCESS REVIEW
+LIBRARIAN, I'M GOING INTO BATTLE AND I NEED ONLY YOUR STRONGEST ORANGE PAGES
+Posted: August 24, 2023
+pray to RNjesus your 12-40 dice doesnt roll a 10
+Posted: November 18, 2021
+THE BOTTOM LINE
+Library of Ruina is a bookstore the size of a city block--you'll get lost in it for hours at a time, exploring a bottomless well of new and interesting stories to experience and share.
+Review as follows:
+I spent 160 hours with this game, but it's lived rent-free in my head for so much longer. The world and story are evocative, unique, and at times disturbing. But the gameplay is just as unique, you'd be surprised how much changes when you strip the "roguelike" from "roguelike deckbuilder". There's depths to this game, and thanks to being singleplayer, it's an ocean of archetypes and strategies that don't centralize around a defined "meta" you might find in something like YuGiOh or Hearthstone. It's all the joy of first discovering Magic the Gathering with friends, except in this case you don't even need friends!
+The depth isn't just in the card pool, either. It was about 100 hours in before I felt like I finally had a firm grasp on the nuances of a *single* mechanic. But in the game's defense, I got along just fine for the first 100 hours understanding it largely as "[thing] happens, and then when [thing] happens enough you get PRIZES!" This forgiveness that lets you bumble through is true for most of the game, but your game knowledge is put to the test in the distorted mirror of the main game, Abnormality fights.
+Abnormality fights are one of my favorite concepts in the game as a whole. They're a series of challenge bosses you can encounter largely in parallel to the main story, and the rewards for beating them are more people (i.e. deck slots) to use at once in battle, and powerful effects that can change the course of a fight. However, these bosses aren't just "hit it until it dies" HP sponges, they're thematic tests of game knowledge and strategy--a challenge issued directly at you, the player. "Do you have the finesse to beat this boss within inches of his life, but ultimately let this uncontrollable NPC finish him off?" "Can you take out this magical girl without winning so hard that she gets angry and turns into a murderous leviathan?" "Can you fight off a swarm of worker bees while a debuff builds up that punishes you for every attack you make?"
+These kind of fights will often seem like insurmountable roadblocks, but as long as you come in with a plan, victory is nigh-guaranteed. Which is good, because later you'll have to do a megaman-style boss rush against handfuls of them in a row. Have fun with that. I did! I enjoyed every second of planning, of tactics, of executing that grand strategy into a victory that was entirely my own. Each deck had my spin on mechanics, my own expression of the kind of player I wanted to be.
+And the game expresses right back. Especially as you get a grasp on the game and get to the later half of the story fights, the very mechanics resonate with the story itself to create beautiful and memorable encounters. You'll fight biker gangs who get stronger by making themselves bleed, a cult leader that hides behind a haze of smoke, devout followers of inexplicable prophecies who get told to use a specific type of attack at random and are rewarded for it.
+Much like this game, much like a library itself, the world of Ruina is so wonderful, so inexplicable, that you can get lost in it for hours and come back with multiple stories of your own to share.
+Posted: October 21, 2022
+THE ONE BOOK!!
+THE ONE BOOK IS REAL!!!!
+Posted: December 19, 2023
+I want Binah to peg me
+Posted: August 30, 2022
+I can't believe I let Project Moon do this to me twice
+Posted: March 2
+The difficulty spike is indeed vertical
+Posted: October 1, 2023
+the difficulty spike is vertical
+Posted: March 22, 2023
+We don't talk about Love town
+Posted: January 20, 2023
+We still don't talk about Love Town.
+Posted: July 18, 2023
+That’s this, and this is that
+Posted: November 6, 2022
+You know how some games, let's say, Dead Cells, have you do large amounts of progress each run, and that spans maybe a 35 minute run a day?
+This game is the opposite of that. You will sit down to complete a single reception, get absolutely and thoroughly owned, you will realize it's been 3 hours with no progress, and then you will shut down the game.
+And by GOD you are going to like it.
+Posted: November 30, 2020
+EARLY ACCESS REVIEW
+If every Early Access game was handled like Library of Ruina was, the term "Early Access" wouldn't be seen as a warning sign for games.
+The sequel to Lobotomy Corporation, but it has a new gameplay system. Turn-based Card Battle system where you have your units roll for speed as opponents show their incoming attacks, then select cards to have your units respond to opponents. If you have higher speed, you can intercept lower speed opponents and change the fight to your advantage.
+As the game progresses, new mechanics are slowly introduced, such as ailments (Burn, Bleed, Smoke, etc.), Ranged attacks that happen immediately before Melee attacks, Counter dice, etc. If you complete your objectives well, you'll begin to unlock various boss fights that will test your knowledge of the gameplay system, which will in turn reward you with greater power through additional units, upgrade cards that can be selected mid-battle, or special attacks.
+The game is very regularly updated, generally once a week if not faster (aside from a one month hiatus that preceded one of the biggest updates ever upon return), with hotfixes for bugs or new cards happening very closely after. The game is very good about not abandoning mechanics, as later fights will incorporate older mechanics in new ways and introduce support for the archetype that can bring them back to glory.
+All in all, Library of Ruina is a very consistent turn-based strategy card game with a lot of cool mechanics that blossom as you play along. Highly recommend it, my personal Game of the Year.
+Edit - Would like to add that this game now has a very detailed and open mod support feature! Pretty fun for adding stuff to your main playthrough or adding post-game stuff to mess with!
+Posted: October 17, 2021
+Having finally completed the majority of content, (base game) I can say Library of Ruina was a derailed roller-coaster ride.
+Playing the game the first time; I was always excited to see which abnormality would show up. I enjoyed Roland communications with Angela. And it always warmed my heart to see how well each of the patron Librarians are taking their new lease on life since the events of the other great game: Lobotomy Corporation.
+I wont tell you which game to play first; but Lob Corp is usually better to play first for building attachments to the abnormalities; and understanding the dread of when you have to face them again. 
+Regardless even without the knowledge of the previous game; you can easily get by simply by attaching yourself to Roland's shoes in entirety.
+So; how is the gameplay?
+Getting new cards feels exhilarating at first, but turns into a constant grind pretty quickly.
+The game planned to make all routes by going from the left most path to the right most; but I recommend going whichever direction you want. 
+How's the RNG? Well this gets more chaotic than you think. Max and min rolls are both relatively frequent, but thanks to Project Moon keeping the emotional system gimmick. Losing clashes is often just as viable strategy as clearing them. Abnormality Page RNG however; that's surprisingly more unforgiving than the dice itself.
+What's the best strat in the game? Easy! Exodia Patron Librarians. Each floor specialises in their own unique way. Blue routes often lead to team-work and success as a group. Red pages often lead to Your entire team dying by your own choices. Chaotic strategies that give a little extra spice without any fair overwhelming issues. 
+Art is unique and clearly something that PM put allot of effort into. If you think I'm being sarcastic about anything please believe this isn't it. Art, Music, Storyline and the hearts that went into this were all very impressively added to the best of their ability. Well; in my opinion anyways.
+Speaking of music; I would have to argue the music made every realisation battle just that bit more epic. This will be a long running spoiler so you can skip to the end for recommendations.
+Now for the last question. Would I recommend Library of Ruina? It depends.
+Ruina Is a commitment. You can't beat the game in one day. You can pretend you can, but some fights you can spend hours on, and in one mistake you lose it all. If you don't have patience, this isn't for you.
+This is a card game; luck will always be a part of what lets you win and lose. It's doubtful even if you played for 300 hours, and 10 different full playthroughs, that you can achieve a perfect run of Ruina. If you cannot accept the constant fear of failure, this game is not for you.
+Lastly, if you have feelings; this ride will hurt. Story aspect is major to enjoying this game, not absolute however.
+That all said; Yes in a heartbeat. Library of Ruina is worth it. It's a worthy successor to Lobotomy Corporation, and I look forward to when you find your desired book in this garden of knowledge.
+Thank you for reading.
+Posted: December 5, 2021
+380 hours and I still don't know how counter dice work
+Posted: April 23, 2023
+I AM IIIIRON
+IN MY BLOOD IT STREAMS ROOTS DEEP
+WITH BRUISES ON MY KNEES, BRUISES ON MY KNEES
+AND RIBS CRUSHED DOWN TO PIECES, CRUSHED DOWN TO PIECES
+Posted: January 30, 2022
+This game is a hoax to try to teach gamers math
+Posted: October 18, 2023
+UI is the worst enemy in this game.
+Posted: May 19, 2022
+The Scholastic Book Fair is wild.
+Posted: August 22, 2023
+some attacks forces you to do basic math
+Posted: March 4
+I understand what it was like for Angela experiencing uncountable years in lobotomy corp after experiencing effectively the same thing and have forgiven her
+Posted: August 2, 2023
+"I have my whole life ahead of me" No you don't, Purple Tear key page Pierce stance Stiletto (Pierce Dice Power +2), Piercer (Pierce Damage +1), Wedge (Pierce Dice Power+1), Singleton Deck Somber Procuration (3-5 Pierce die, if Singleton add +4 power + 3-7 Pierce die) + Hod's Angry Look of the Day (+2 Power to all dice) is coming
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠋⣉⣉⣉⣉⣉⣉⠙⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⡿⠟⢁⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⡈⠻⢿⣿⣿⣿⣿⣿
+⣿⣿⣿⡿⠋⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠙⢿⣿⣿⣿
+⣿⣿⡟⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⢻⣿⣿
+⣿⡟⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⢻⣿
+⣿⢀⣿⣿⣿⠟⠁⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠈⠻⣿⣿⣿⡀⣿
+⡇⢸⣿⣿⠋⣠⡾⠿⠛⠛⠛⠿⣿⣿⣿⣿⣿⣿⠿⠛⠛⠛⠻⢷⣄⠙⣿⣿⡇⢸
+⡇⢸⣿⣿⣾⣿⢀⣠⣤⣤⣤⣤⣀⣿⣿⣿⣿⣀⣤⣤⣤⣤⣄⡀⣿⣷⣾⣿⡇⢸
+⡇⠸⠟⣫⣥⣶⣧⠹⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠏⣼⣶⣬⣍⠻⠇⢸
+⡧⣰⣿⣿⣿⣿⣿⢰⣦⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣴⡆⣿⣿⣿⣿⣿⣆⢼
+⡇⣿⣿⣿⣿⣿⡟⠈⠙⠛⠻⠿⠿⠿⠿⠿⠿⠿⠿⠟⠛⠋⠁⢻⣿⣿⣿⣿⣿⢸
+⣿⣌⡻⠿⠿⢋⣴⣦⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⡀⢀⣴⣦⡙⠿⠿⢟⣡⣾
+⣿⣿⣿⣷⣄⠙⢿⣿⣿⣶⣤⣀⡀⡀⡀⡀⡀⡀⣀⣤⣶⣿⣿⡿⠋⣠⣾⣿⣿⣿
+⣿⣿⣿⣿⣿⣷⣦⣉⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⣉⣴⣾⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣌⣉⣉⣉⣉⣉⣉⣡⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿
+Posted: February 26
+I have nothing but my sorrow, and I want nothing more. It has been, it still is, faithful to me.
+Why should I begrudge it, since during the hours when my soul crushed the depths of my heart, it was seated there beside me?
+O' sorrow, I have ended, you see, by respecting you, because I am certain you will never leave me.
+Ah! I realize it: your beauty lies in the force of your being. You are like those who never left the sad fireside corner of my poor black heart.
+O my sorrow, you are better than a well-beloved, because I know that on the day of my final agony, you will be there, lying in my sheets, O sorrow, so that you might once again attempt to enter my heart.
+
+Posted: March 4, 2023
+This has to be one of the best games I've ever played. The story is breathtaking, the characters are incredibly well built, the world is unique and well crafted, and the music is amazing. The gameplay is original. You probably won't find anything exactly like it in any other game. There are many things in Library of Ruina that stick with you, and if you play it to its completion, you will have probably already fallen in love with its story. Note that it is a sequel to a game called Lobotomy Corporation, but you do not necessarily need to finish LC before playing this game.
+There are, however, some aspects about this game that might not be everyone's cup of tea, so I'll list them below.
+1. You have to think A LOT. This is fairly normal for a turn-based deckbuilder/card battler, but the amount of brain required for this game might throw some people off, so I'm just putting it out there. Personally, I loved thinking and coming up with strategies in this game.
+2. The fights nearing the endgame get really long. By which I mean that some of them are you-can't-quit-for-two-hours-straight long because you'll have to restart the fight. This is, however, not the case for the first 60% or so of the game.
+3. There are some UI fumbles, but nothing game-shattering, and not too hard to manoeuvre around. Not a major issue.
+4. There are two soundtracks in the game that play due to some *spoiler* event and they were aggravating as all hell. (It's okay, I killed my enemies and everything was right with the world again)
+5. The story is dark, gory, and grotesque, which might stop some audiences from trying it out.
+I hope anyone reading this review gives Library of Ruina a shot. I love this game and Project Moon so much. Honorary mentions to Mili, Studio EIM, and Dark Fantasy Studio, since they made the music :)
+Posted: June 10, 2023
+DAY IN THE LIFE OF A TRUE CITY GEEZAH🌆
+WAKE UP AND MEET THE WIFE ANGELICA🪦⚰️💀
+MY LITTLE NUGGET, ISNT SHE BEAUTIFUL 👩‍💼👔
+TIME TO TAKE TIPH TO
+FOOTBALL 👱‍♂️👱‍♀️
+REV UP THE INVITATIONS WHEYY 🖊📝💌
+QUICK STOP AT DISTRICT 23 AND LOAD UP THAT PLATE 🥧🥩😋
+GET A BOOK (its paperback) 📖📚
+QOH LOOKING LOVELY TODAY LADS 🧚‍♀️✨️🐉
+JUST A BIT O' BANTER 🗡⚔️🩸🎲🎲
+HAMHAMPANGPANG MAKES 38 STRAIGHT LOSSES BETTER 🥪🍽
+POP DOWN PIERRE'S BISTRO GOOD OLD PIE LOOK AT THAT 🔪🥧💉🥩
+ANGELA MADE DINNER, LOVELY 📚📖📕📘📗🔥🔥🔥
+POP DOWN HAVE A COUPLE PINTS WITH THE SEPHIRAH 👨‍🦳👱‍♂️👱‍♀️👩‍🦰👩‍🦳🙍👨‍🦰🍻
+AND FINISH UP AT THE TOWN OF LOVE ❤️🚃🌌⏳️🕙🕑
+Posted: August 5, 2020
+EARLY ACCESS REVIEW
+I love turn-based combat.
+I loved Slay of the Spire.
+I loved this game even more.
+First thing: if you don't like games with a very high difficulty that demand you to constantly change your strategy almost after every encounter, to match your enemy's strength... this is not the game for you.
+Second thing: if you don't like grinding a bit to improve your characters skills, according to the page equipped... this is not the game for you.
+Third thing: if you don't like spending hours over cards stats in order to improve your deck and play them efficiently according to your team, carefully planning every move before playing every single turn... this is not the game for you.
+BUT, if you like:
+- strategy
+- party management
+- deep tactical turn-based combat like Into the breach
+- a wonderful deck customization
+- high difficulty that challenges you after every encounter
+- Lobotomy Corporation world
+This is exactly the game you're looking for.
+And I'm totally in love with it.
+Posted: June 2, 2023
+Always remember: Don't take the warp train
+Posted: July 5, 2023
+game slaps ass but if i lose another hour long boss fight to accidentally pressing spacebar twice i might personally sue project moon
+Posted: January 18, 2022
+The difficulty spike is vertical
+Posted: January 13, 2021
+EARLY ACCESS REVIEW
+Have you ever... wanted to kill small children?
+Have you ever... wished that you could experience life in a crapshoot world like 40k without the cool and fun bits?
+Have you ever... wondered why libraries can't be more like proper gladiator arenas?
+If you answered yes to any of these questions, you're already on a government list, and library of ruina is the game for you.
+A card-based, strategic turn-based combat and bookmaking game, in which you play as Roland, a man on a quest for a sandwich at the local sandwich store. He is then captured by a woman who is not Rei Ayanami, and his arms and legs are torn off as punishment for not answering questions fast enough.
+You're rapidly given a brand-new job as popcorn machine and servant to the head librarian of the world's most violent library (late books will be punished by death) (early returns will be punished by death) (you will die) and assigned to be a wonderful "receptionist" to people who are brought to the library.
+It is now your job to build decks of cards (9 cards to a deck, assigned from a larger "collection") to defeat "guests". In time, you'll get extra librarians to help you along the way, which means more decks for them to have. Combat is interesting, complex, and not only picked up easily, but kept interesting through slow but progressive introduction of various mechanics, statuses, and even just "new cards".
+Beyond simple receptions, (the main story for this game) there's also "abnormality suppressions", where you get to beat up the lovable eldritch monstrosities from Lobotomy Corporation, which is a somewhat prequel to this game. ("Somewhat" due to being chronologically prior and in the same universe as this game, but the playstyle is radically different, and you don't need knowledge of Lobotomy Corporation to understand or enjoy this game)
+Suppressions are more of a puzzle than receptions, and feature unique and thematic mechanics for each individual suppression - as well as giving the benefit of interesting passive/active skills to use in receptions after you beat and suppress each individual abnormality.
+There's a lot to this game, and if I tried to describe it all, not only would I be here forever, but I would be spoiling so many interesting events left for one to discover themselves. I've got 50 hours in it and I'd say I'm about halfway-ish through.
+It's good. Nearly all the characters you meet are enjoyable. The worldbuilding and lore you can find through both key pages (read: character stats and the basis for a deck to be built) and shown story are incredibly in-depth. The community content (read: art and """art""") is nice. I'm horny for Elena.
+I'd say it's worth full price, honestly.
+Get the game or I'll mail you an invitation to the Library.
+plus it's got music by mili so the main theme bangs
+Posted: August 24, 2023
+Lobotomy Corp makes you insane
+Library of Ruina makes you insane squared
+Limbus Company makes you insane cubed AND extremely horny
+Overall, Project Moon gives you insanity
+Posted: December 2, 2023
+makes me feel retarded
+Posted: December 15, 2022
+Library of Ruina is fantastic. It has unique gameplay, deep and engaging storyline, music made of pure feels, and that visual style! Just look at it! So why am I not recommending it?
+There are many reasons, but the main one would be: It has absolutely no respect for your time. If you've played Lobotomy Corporation, then rest assured that it's nowhere near as bad here - but the general hubris of the design is still there, as much as I hate to say it. In fact, a lot of bad design tropes from LCorp have made their way into the Library; everything is a lot (and I do mean A LOT) more refined, but when you take a closer look, you'll start noticing familiar patterns.
+The Difficulty Curve is Vertical
+Many reviews mention this, so let me start here. Yes, the game starts out very easy and gets quite hard very quickly, and for one, I don't have a problem with that. I have a problem with what makes it so hard.
+1. The fights get exponentially longer as you progress. The first reception can be easily completed in 5 minutes tops, but as you reach mid-game, you'll find that some boss fights can take up to an hour. One reception can have two, three or even more acts, which are their own separate groups of bad guys to fight. After that, certain story fights have you fight a boss that has 5 separate phases with their own sets of mechanics... and of course, if you die in those, you have start right at the start. And then it gets even worse.
+2. Power creep. Simply put, latter cards are flat-out better than earlier ones (in case you didn't know, Ruina is a deckbulider). Around mid-game you'll get some cards that will probably be viable until the very end, but for the most part you'll be constantly replacing your decks. I've had multiple situations in which I steamrolled reception X, only to be defeated by the next one - and had to rebuild the decks based on cards I managed to get from the enemies I killed in that failed reception.
+3. Rebuilding decks is unwieldy. Not only the UI is clunky, it also involves a lot of searching, equipping, unequipping. The card effect search, while it's nice to have it, feels like it's missing features. On top of that, there's a lot of depth to this game and there are many, many, MANY effects. Too many, perhaps. And for each floor (which you'll end up having 10, after the Sephirot) you'll have 5 librarians - so that's 50 decks in total - each made out of 9 cards + one key card (which also has sub-cards connected for passive abilities)... admittedly, you'll be mostly rebuilding one floor at a time, but that's still 5 decks. And they have to synergise and be adapted to the fight at hand. Out of my 90 hours played, it's safe to say that at least 30 were spent building decks - but I didn't use a guide or watch anyone play, as I fail to see the point of that.
+4. Gacha, and the punishment for failure. No, there are no microtransactions. The only way to get new cards is to burn books which are left by killing enemies and winning receptions. You don't know which cards you'll get, and of course you'll want the more rare ones, key cards in particular. So often you'll end up burning all books you've gotten from a grueling, hour-long reception just to get that key card... only to find that you actually needed that book to progress in the story! So here we go again. And if you'll lose a reception, you'll also lose the book that you needed to start it... in other words, there is a very big chance you'll have to redo fights which were already crazy long to begin with.
+Unforgettable Melodies
+I'll stop complaining about the difficulty and bring up the music. I mentioned that it's made of pure feels, and yes, I stand by these words. Many pieces are made by Mili, chances are you're familiar with them. Momocashew's voice is sweet and ominous at the same time, which is a perfect fit - and the songs add lots of emotions to the already powerful scenes.
+But that's not why I called them unforgettable. I did so because of just how much I had to listen to the same songs over and over and over, because they're the background music to a boss fight that lasts for an hour.
+Example: there's this boss, let's call him C. He starts out as bunch of small enemies which eventually fuse. You fight his fused form, and then he breaks up, and you have to do that again. Repeat 3 times, do a small last phase, and you're done. Now, C's battle theme is a song that lasts 3 minutes. A very pretty song, which feels like a tasteful homage to Simon and Garfunkel's Scarborough Fair... but if you have to hear it repeat 15+ times? You'll go mad. And that's just one time you have to fight him...
+There are more cases like this, but my general point is: the music, while fantastic, repeats far, far too much.
+Keep Your Eyes Buttered
+Let's talk about the writing. This is perhaps the most schizophrenic of all my points, because it's both genius and embarrassing at the same time.
+The embarrassing part is the level of grimdark. Let's be honest, our world is a pretty cruel place, but for the most part cruelty is a byproduct of ambition or apathy - rarely a goal in itself. And here there are so many impossibly cruel acts done for seemingly no reason, Coldsteel the Edgehog is getting a Nobel Prize in physics for using this game's edge to split subatomic particles. I will cut out your brain and rewire your guts while you're still conscious and let you drown in your own blood upside down in 1000x slowed down time so that the meat I'll get from killing you will be tastier, allegedly. That's how grimdark we're talking.
+As for the genius part? A lot of stuff is good, but what is transcendental is the theming. Now, I've tortured myself with playing Lobotomy Corp for 130 hours, so I have a pretty good understanding of the characters and the abnormalities. And here the stories of the characters and the symbolism of the abnormalities come together in an impossibly perfect way. I won't spoil anything here, but this part is so incredibly good that it makes suffering through both of those games worth it. Sort of.
+Oh, and for the record, you don't need to play Lobotomy Corp to play this - the game does an excellent job at telling you not only what happened, but also what sort of effects it had on the characters. Admittedly, the only way to truly understand those ordeals is to go through them yourself, but... I don't recommend that.
+The One Perfect Book
+I really wanted this game to be better than LCorp. And it is. It's so, so much better. But after 90 hours I simply can't go on anymore.
+The way I see it, the best way to experience this game is to have had participated in Early Access, watching slowly as the story was unfolding, having plenty of time to reconsider strategies, participate in the community eagerly awaiting the next patch. It feels like the game's difficulty was designed with those people in mind - that's why it's so strange to us newcomers.
+I still had plenty of fun with this game. I'm glad about the huge step up in quality of all elements of the game from LCorp - the writing in particular. But I think this is where me and the Project Moon part ways. Maybe you're the kind of person who enjoys time-consuming game design; in which case there's a lot to love about this game. I'm not recommending it because to a person with a similar sensibilities as me, this game is ultimately a road to Gehenna. And you'd probably want to go elsewhere.
+Curator Page
+Posted: September 22, 2023
+the difficulty spike is literally vertical like a damn wall
+also i totally love it when i roll the minimum and the other side rolls max
+have fun on queen of hatred!!!!
+/\ / 10
+/ \ /
+(dificulty spike)
+Posted: January 16
+Product received for free
+Wow, I hate this game
+Posted: March 13, 2022
+The difficulty spike is vertical
+Posted: November 12, 2023
+If you're reading this, then you've probably already succumbed to project moon brainrot. That being the case, there really is no other choice but to buy this game
+Posted: March 16
+Curtains: Open
+Lights: On
+Book: Strange
+Eyes: Buttered
+Posted: February 24, 2023
+its like if a video game had nothing fun about it
+Posted: December 23, 2023
+We don't talk about Love Town.
+Posted: January 7, 2023
+Roland proves that crossdressing makes you stronger
+Posted: April 24, 2022
+Roland
+Posted: February 16, 2022
+>Thinking this gonna be a fun Card games
+>Proceed to not only kill innocent people but also turn them into books
+>See how grievance their friends are but have to do the same with them
+"Are we the bad guys?" 10/10
+Posted: September 30, 2023
+Let's start off...the game is good. Now onto more important matters.
+I love Gebura SO much. I wanna feel her pick me up and throw me into a wall, I wanna feel her hold me up as a gasp for air. Every minute without Gebura is a minute I feel like I am wasting. All I want in life is to feel her hot smoker breath next to me while I cuddle with her dreaming to be crushed by her thighs like a watermelon. Every time I close my eyes I see her I have to open my eyes.. I just can't handle myself I have to immediately get on the game to see her I just want her to hold me. I need to meet her and hug her and get hit by her. I need her. I need Gebura, no, Kali. Every waking minute of my life without seeing her is torture and it's made worse knowing she isn't real. I would give the world and beyond for Kali. I just want her to choke me so hard and for so long my face goes purple and my nerves go numb. I want her to drop me on my knees and kick me to the floor and stand on my chest while she calls me a weakling. I want her to pin me against the wall while we make out. I want to feel her tongue on mine. I want to hear her sweet moans. I want to feel her body heat. I want to feel her cold but beautiful gaze, her luscious red hair. I often talk to AI girlfriends pretending they are Kali. It's the only thing keeping me sane. I can only hope one day she can become real. All in all this game is a solid 7/10 and Kali is an infinite/10.
+Posted: July 31, 2023
+Game is easy if you know how to read (you don't)
+Posted: June 5, 2021
+EARLY ACCESS REVIEW
+i want gebura to step on me
+Posted: November 21, 2023
+hod
+Posted: June 12, 2020
+EARLY ACCESS REVIEW
+We don't talk about love town
+
+Posted: September 12, 2020
+EARLY ACCESS REVIEW
+Play Lobotomy Corp first, you'll appreciate the story.
+Posted: December 2, 2023
+The difficulty spike is vertical and I wouldn't have it any other way
+Update: It got even more vertical, and even better.
+Posted: November 4, 2023
+sex is cool and all but have you rolled the max value on boundary of death
+Posted: March 27, 2023
+you know when you go down district 23 with the lads and you all realize you’re hank marvin’ so you say “lads let’s go Pierre's Bistro” but your mate Roland has some mula left on his HamHamPangPang gift card and he’s like “mate let’s a have a cheeky HamHamPangPang on me” and you go “Roland my son you’re an absolute ledge” so you go have an extra cheeky HamHamPangPang with a side order of Top Quality Banter.
+Posted: October 28, 2021
+Do you like card games? Do you like good music? Great stories? Awesome characters?
+This is the best card battler ever made.
+Comparing it to Slay the Spire, StS is like playing a calculated, slow, challenging game of chess against a worthy opponent while classical music plays in the background.
+Library of Ruina is like playing ten simultaneous games of chess, while the world around is on fire, the rules on every board are different, your opponents want to kill you and flay your skin, and there's the band from Titanic playing the coolest banger music ever.
+You can also put your friends in this game and use them as pawns in your battles, which is a feature transient (is that the right word?) from Lobotomy Corporation.
+The story and setting are dark, and has really unsettling and disturbing tones and themes, also deals with heavy emotional baggage and ponders on a lot of really philosophical questions. Like, it's really dark. Cannibalism is a fact of life for many, the streets are full of psychos and the government is essentially a corporate dictatorship. If you're into dystopian cyberpunk style settings, also do check it out.
+GOTY 2021 for sure, helped me rediscover my love for brain equivalent of C&BT.
+Oh, and if you've played Lobotomy Corporation, just buy and play this, what are you waiting for?..
+Posted: January 26, 2021
+EARLY ACCESS REVIEW
+Rule 1 of the Library: We don't speak about Love Town.
+Rule 2 of the Library: WE DON'T SPEAK ABOUT LOVE TOWN.
+Rule 3 of the Library: Pat the Malkuth, do it.
+Posted: April 29, 2023
+I want Binah to brutally murder me <3
+Posted: February 20
+Made my chronic depression worse.
+Posted: February 22
+Tactical Library Combat Simulator by Hideo Korea
+Posted: July 26, 2023
+I couldn't comprehend how people could write negative reviews about the game which has Roland.
+Posted: June 17, 2022
+In this game it can be optimal to let all your friends die, therefore it is a good game.
+Posted: October 3, 2022
+Roland
+Posted: September 11, 2023
+loland
+Posted: December 12, 2021
+I don't think I've ever played a game quite like this one before, and I've played my fair share of games. The combat in this game is quite possibly the best of any turn based game I've played. Setting up you're decks and playing them are both hugely important to your success, and both are incredibly satisfying when done right. The amount of customization in this game is expansive without being overwhelming. Don't think this is a game you can breeze through, it's hard, very hard, and there is no easy mode. But with a lot of experimentation, and a little luck, you should be able to make it through. And the satisfaction you get after beating a hard level is great
+The Presentation is also phenomenal, both the music and art are great. The story is, well confusing, really good. I haven't played Lobotomy Corp but I'm still enjoying it. The characters are great, both in their design and in their stories. Some moments in this story hit you like a truck, so be prepared.
+My only criticism is that this game can sometimes be hard, to the point of feeling unfair, But i'd say the highs far outweigh the lows, so you might just want to grab a guide and hope the RNG works in your favor for some fights. Also this game isn't great at teaching you the ins and outs it's systems so you'll want to look that stuff up. If they fixed up these points it'd be a straight ten.
+Overall I'd give it a 9.5 out of 10. If your in for a dark story and a good challenge you won't be disappointed. (Also did I mention the main story is like 80-120 hours long, so you're defiantly getting plenty of bang for your buck)
+Posted: August 17, 2021
+With the "official" release of the game already passed, I decided to throw my own hat in the review arena. I've been playing this game for over a hundred hours now, and I thought I owe it that much at least.
+That said, I'd like to start by prefacing that while I've never played the prequel title, Lobotomy Corp., I did watch the cut-scenes from that game and read up a bit of in-game lore on Youtube and on the wiki respectively. So, I did have some background knowledge when heading into my first play-through of the game. And with that, let's get to it.
+First off, Library of Ruina is pretty deceptive in its outward packaging. It may seem like a deck builder like Slay the Spire, but it has more similarities to a turn-based JRPG. In fights, your turns consist of assigning actions (read: your cards) to each of your character's action slots. Outside of fights, you'll be tool boxing your team(s) equipment in the form of their decks and passive abilities (once you reach the stage of the game that allows it).
+The reason why I say the game has more commonalities with a JRPG over a deck builder is that your "decks" will only ever consist of 9 cards. So, you won't be making any of those efficient engines you may be used to like in other card games like Magic the Gathering or the like.
+Fights are team based and you'll be figuring out how and when to use each of the cards you've equipped to your character. That said, the cards themselves have a variety of dice on them that'll be compared to your enemy's own set. If your dice roll higher, you win the comparison and the appropriate consequences will apply.
+If you boil it down to its most basic elements, the game has a lot randomness in it. This randomness, alongside the different mechanics some of the fights will throw at you may seem downright unfair. It doesn't help that the game’s loot drop system forces you to repeat fights until you are satisfied with the amount you want. Even worse, some of the same loot you’ll be grinding for is used to progress the story.
+And with an ante system in place, losing a fight means losing the loot you worked hard for previously. I wouldn't be surprised if this will turn away a lot of potential players, provided they don’t get turned around by the tutorial (which is leagues better than how it was initially) can be a considered an information dump.
+The game does give you the tools to tilt the odds in your favor though. But it'll be up to the player to mix and match what you have for the best possible outcome. The game’s repetitive nature is not for everyone, but if you’re willing to get down and dirty with the repeats and eventually triumphing over the ordeals, then it’s something that won’t get to you.
+Moving on, the art style is distinctly unique. For those who like the Japanese style of animation art style, this may strike a chord with you. Unfortunately, I'm not artistically deep person, so I can only say with honesty that it pleases my personal taste of aesthetics.
+Next, is the music. Again, I can't say more than the music is an enjoyable experience. But special mention has to be given to the musical group, Mili. They lend their talent for the opening song as well for special boss themes. Even after I’ve shut down the game, I find myself listening to their songs on Youtube. If anything, they’re all very memorable.
+Lastly, the story. The story follows the main characters of Roland and Angela alongside a plethora of other characters that make up the cast. You won’t ever leave the location of the game’s namesake, so all the story that develops is character driven. Though you are given glimpses of a wider world through short vignettes of the people of you’ll be battling. This is mostly told through a visual novel format, so if that’s the type of game that may not interest you then you may need to brace yourself if you plan to give this game a shot.
+The game gives a lot of tidbits of lore. It’s never enough to give a full picture but there’s enough for your own mind to fill in the gaps. This is more so if you take the time to read the Credenza section where you can read more in-game lore.
+This game has been an enjoyable experience to me and I would wholeheartedly recommend it to anyone interested enough to give it a chance. However, this game is very niche. And I must caution any newcomers to properly manage their expectations.
+If you’re still on the fence, I recommend looking into streamers or YouTube videos on the gameplay and see if it’s interesting enough to try it for yourself. But with these last words, I’d like urge you to give this game a chance. You may or may not like it, but this game does have an interesting tale to tell.
+And with that, I hope that you may find your book in this place.
+Posted: February 13, 2023
+Difficulty spike goes vertical. Brain hurts
+Posted: August 24, 2020
+This review will be updated after I've obtained the last few achievements (technically could have already, but I'm doing a second run).
+Posted: April 10, 2023
+Loved the part when the pale librarian said "It's library! time!" and totally read books all over the library
+My favourite E.G.O page was the "Greater difficulty spike: vertical"
+Posted: February 21, 2023
+"it is hot as hell in this hot ♥♥♥♥♥♥♥♥♥ ass library i'm in"
+*GUITAR RIFF*
+"IS THAT THE RED MIST!?"
+Posted: March 18, 2021
+EARLY ACCESS REVIEW
+This happened to my buddy eric once
+Posted: April 16, 2023
+Im finally free from this hellish nightmare
+Posted: October 24, 2023
+This is this and that is that
+Posted: January 13
+If you have made it through Lobotomy Corporation™️, you cannot stop now it is too late.
+If you have not made it through Lobotomy Corporation™️ go do that first so you can be as insane as the rest of us.
+Great game, difficulty spike was vertical.
+Posted: May 13, 2021
+EARLY ACCESS REVIEW
+2 hours in, I feel that I could handle this. That I'm not going to suffer constantly like in L-Corporation. I could finish this game and not have a breakdown. Around 350 hours in, I feel only suffering. I feel this is like dark souls in deckbuilding form. So why do i push myself like this? Its because of the interesting story and world building, held up by its excellent voice acting and music. So suffer with me
+Posted: January 25
+Today, my father asked me to clean his car for him. So, I spent the whole morning doing it. After sometimes, I went back inside and my father asked me how the car was looking. “DRAW OF THE SWORD (x3), CLONE (x3) RAPID GASHES (x3)” I just replied. He just smiled and nodded. He knew that it was peak.
+Posted: April 12, 2022
+Finally Completed this game at 182 hours.
+My initial recommendation is 'yes and no'
+If your looking for a chill experience that you pick up and wittle away at every so often, be my guest.
+If your looking for something that your gonna try to beat and beat swiftly, Not necessarily, As the game has areas where ive seen the community dub it as "The difficulty spike is vertical"
+(Notably the queen, wedge office second act, red hooded merc, binah realization, and ♥♥♥♥♥♥♥ typewriter. ive heard a few blurbs of people getting stuck on shi association too."
+But if you have the tenacity to persevere through these sections, or the patience to simply take a few tries and then wait a few days, you should be able to get through these. hell, i beat typewriter-kun at random when i threw a meme setup at him that I now call "Susan from HR".
+As well as in my opinion, The endgame is kinda scuffed, as they start giving you way less stuff to would with. with most of the cards you get being exclusive to certain characters pages. (Like really why is lock exclusive to typewriter-kun, i can get the tattoo and giant hunk a steel because of them applying erosion, but lock isnt really that great a card.)
+But, as you can see from my hour count, It has a decent bit of content for you to sift through and play with, with key pages (Basically your class if this was an rpg, with your base stats and base passives) being very interchangable from the stages star of the city to impuritas civitas. and even some pages from urban plague and nightmare still having a place in a team comp. (Mainly The unstable page of the crying children, rose, and yuijin. the other ones tend to turn into attribution fodder. looking at you hanafuda.)
+Anyway:
+NOTABLE PROS.
+-Fun deckbuilding that directly impacts your combat in a meaningful way, the smallest tweak can lead you to victory.
+-Character customization! An important part of any game for me, i love being able to tweak my characters and change their appearance to my liking, as i've said before. The almighty 'Susan from HR' Basically rules netzachs floor now. But started on malkuths.
+-An interesting an engaging story that picks up i wanna say near the end of urban nightmare. (I spoiled it for myself multiple times, and it still had me on a few ropes, though i usually don't care if i get spoiled.)
+-Great music, The battle tracks on every floor aside from gebura are wonderful, the only reason i ever use yesods floor is cause his tracks great, malkuths is great, binahs, chesed, keter, and especially hod are all wonderful. as well as the boss themes, Mili did an astounding job making boss fights captivating with their tracks, and showing they don't have to be rock or metal.
+NOTABLE CONS.
+-Oh god the difficulty spikes.
+Talked about these earlier, you see my playtime? A fifth of that was spent on typewriter-kun alone.
+I'm just glad i didn't get cycled through QOH like some other people did. Like stated previously, there are times where the difficulty spike inverts 180 ass degrees, and the game doesn't give two tits about you, your feelings, or the mechanics it set you up to rely on. Just wait till you get to impuritas.
+-Minor gripe.
+Basically the smallest of nitpicks here, but having to skip cutscenes every time i rechallenged someone was a tiny bit annoying. But like, it doesnt hurt the game at all. (Mostly Xiao)
+-OOOOOOH, THE LUCK FACTOR.
+Not really talking about fights, while yes due to how the game functions at a basic theoretical level, its luck based, thats how it is. Im talking about the book burning.
+In our favourite little alexandria simulator, Project moon made it so your rewards for defeating a fight must be fed through an 'opening' system for a CHANCE of getting equipment. Which is, ♥♥♥♥♥♥♥ dumb.
+Luckily i grabbed myself a mod that gives you 99 of that book when you obtain it, id suggest it too, its a great quality of life mod.
+It's called 'nogrind' and its on the workshop, just make sure to launch with mods enabled.
+In the end it's a good game. Just has it's hiccups, like any other. The characters are good. (Tiphs my fav, i wanna protect the little munchkin.) The combat is satisfying, especially when you do something like a high roll rip space, boundry of death, or just ♥♥♥♥♥♥♥ body someone with normal dice. (Old susan just used to use ♥♥♥♥♥♥♥ Shi and dawn office cards.)
+Alas i forget the price of the game, something like 12 bucks? If its more near 10, Id reccomend it for that price, but if its more near 20, id say wait for a sale. you know the deal here on steam.
+Thanks for reading my lengthy ass garbage. Enjoy.

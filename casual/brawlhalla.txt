@@ -1,0 +1,903 @@
+Posted: June 21, 2017
+EDIT:
+Overall, Brawlhalla has changed drastically since the release of this review. A lot of the information here is no longer correct and there are new gameplay features, dash being the most important. I certainly still feel that it is far too easy to avoid and/or delay interaction between yourself and the opponent, but it would be disingenuous of me to pretend the specifics of this review are still accurate.
+Although I am giving this game a positive review, I must say that it comes with a massive disclaimer. If you just play Brawlhalla with your friends and never take it seriously, you will likely enjoy yourself. However, if you ever get good at this game and play at a decently high level, Brawlhalla's glaring failures as a fighting game will become so unignorable that your desire to play it will steadily decline till you're on the subreddit crying about the passive float meta like everyone else. All of the reviews - including the negative ones - are ignoring the real problems with this game, and it's something I have thought about for a long time. So, I'll try to explain my reasoning as best as I can and briefly include the reasons why I still consider it worth downloading despite its enormous flaws.
+On the surface, Brawlhalla is an entertaining party game, provided you have some friends to play it with. So, if the only thing you're looking for is a simple game to kill some time (read: 1500 hours) with, download it. It is very easy to play and you are practically guaranteed to pick it up quickly regardless of your fighting game experience. Aside from being easy to play, it is also free to play and only cosmetic items cost money, so it is easy to get into as well. There are a good number of modes for you to play with your friends to prevent it from getting stale. You can level up your characters and unlock new colors for each few levels, so there is some degree of progression and playing a lot of one character can feel slightly rewarding. It also helps that a potato could likely run this game.
+While I do consider this game's positives enough to make it worth downloading, that’s just about all the positivity I have to share. As someone who has played and seen this game played at a very high level for many hours, I can confidently say that Brawlhalla is a fundamentally flawed mess. I'm not going to complain about the toxic community, or the netcode, or matchmaking, or any of the stuff you see other reviews complaining about. I'm only going to talk about the game's core mechanics and why it fails competitively.
+Brawlhalla has a dodge mechanic that grants virtually instant invincibility and makes you unhittable for nearly half a second. Dodging has very low risk because it has only 0.97 seconds of downtime and it is difficult to punish unless your opponent can predict exactly where you will dodge. You can dodge in 8 directions at any given time, and if you are running you can dodge twice in succession. When the iframes from the dodge end, you are able to jump or attack almost immediately, which is one of the main reasons why it’s so ridiculously safe. You can also jump in any direction 3 times, and once you're in the air you can quickly fall to the ground to get all your jumps back and continue hopping around. This combination of instant invincibility on a 1 second cooldown and an insane amount of aerial freedom results in a passive, floaty meta where playing optimally means avoiding making any approaches. Usually, making the first attack means risking being punished, whereas dodging or floating away is safe and can potentially put you in a position to punish a whiffed attack. Because of this, it often feels like you’re chasing your opponent rather than fighting them. Seriously, playing this game feels like you're in space with how effortlessly you can float around and avoid your opponent. Constantly approaching will get you killed faster than a lone cripple in a collapsing, burning building. Sometimes, salty players will run away from you in ranked just to troll you and you will have a very hard time catching them. Yes, this is a problem with the community, but it shouldn’t be possible in the first place. A key reason this happens is because dodging is a stupidly easy way to escape pressure. Any time you get hit you can just dodge in one of eight directions and reset the match to the neutral phase. Brawlhalla’s neutral phase is reminiscent of two kids hopping around on a jungle gym endlessly until one kid falls and hurts themselves (in this case, hurting yourself would be equivalent to approaching).
+Another issue that ties into dodging and movement is wall camping. It’s possible to wall camp almost endlessly and force your opponent into a disadvantage if they want to approach. Players have won tournament matches by abusing this. A mechanic was introduced that stops you from getting your jumps back after touching the wall too many times, but it's rather forgiving and you only need to touch the stage for a few frames before you can resume wall camping. Once you get comfortable with movement in this game, it’s incredibly easy to dance around on the wall for as long as you want.
+If you’re reading this and you don’t play Brawlhalla, you might be thinking that all the problems I’ve listed thus far could be addressed by nerfing dodge in some capacity. Unfortunately, the entirety of Brawlhalla has already been crafted and balanced around this awful mechanic. Certain weapons are better at punishing dodges than others, with some weapons capable of dealing massive damage on a precise dodge read. A considerable dodge nerf would mean that these weapons would benefit immensely and quickly become meta. The only way I can imagine this game’s passivity problem being fixed would be a colossal rework of dodging, jumping, and probably every weapon in the game as well. Understandably, the developers don’t know what that rework should be and how to conduct it. They’re trying to fix the game’s passive float meta by applying band aid fixes that ultimately do very little to address the huge, overarching passivity problem Brawlhalla has always had.
+The other day, I told myself I was going to play ranked with the only intention being to win, which meant playing fully passive and not caring what people thought of me. I quickly reached top 50 in the world doing this. Almost nobody gged me and plenty of people complained about my playstyle in post game chat. Admittedly, although I am never toxic to anyone regardless of how they play, I don't blame a single one of those people for their anger. Brawlhalla, when played at a high level, is legitimately one of the most frustrating fighting games to play in existence. Just imagine losing to someone after they avoided approaching you, wall camped, or outright ran away from you for the entire game. Considering this, it’s no wonder why Brawlhalla’s community is a cesspool of toxicity and noxious, salty fumes.
+As much as I want to give this game a negative review, I cannot justifiably do so. Most people who play this game will stay at a basic, casual level and never even notice or be forced to encounter the serious passivity problem this game has. So, despite my frustration with Brawlhalla, I am giving it a positive review. My recommendation would be to play with your friends and avoid taking this game too seriously. However, the prevalence of the passive float meta is noticeable as early as high platinum/low diamond, so be very forewarned and prepared to deal with it if you intend to play this game for many hours.
+Posted: January 16, 2023
+Devs, please add Walter White
+Posted: February 2, 2022
+I want to jump off of a building
+Posted: August 1, 2017
+EARLY ACCESS REVIEW
+Throwing the gun gives you more range than actually firing it.
+Posted: June 16, 2020
+It's one of those games where you'll say, "I hate this game", and then immediately hop into another match.
+Posted: July 12, 2021
+non-visible form of self harm
+Posted: September 13, 2021
+>man like smash
+>man has no switch
+>man play brawlhalla
+>man satisfied
+Posted: May 27, 2022
+play if you are a masochist
+Posted: February 15
+get destroyed by spammers, become a spammer, get destroyed by good players, become good player, then get destroyed by spammers.
+Posted: February 2
+Rules of Brawlhalla
+Crappy Internet = Instant lose
+Bad at game = Lose to spammers
+Good at game = Lose to smurfs
+Unbalanced heroes = Lose
+Bad keyboard = Lose
+Bad teammate = Lose
+FFA as a platinum = Lose to noobs
+FFA as noob = Spam, but still lose
+Wins 10 in row, doesn't rank up
+Loses twice, deranks.
+Posted: October 13, 2021
+It's one of those games where you'll say, "I hate this game", and then immediately hop into another match
+Posted: April 26, 2022
+It's one of those games where you'll say, "I hate this game", and then immediately hop into another match.
+Posted: September 23, 2023
+This game has Damaged me permanently
+This game gave me:
+· Acne
+· AIDS
+· allergies
+· Alice in Wonderland Syndrome (AIWS)
+· Alzheimer's disease
+· anal abscesses
+· anal Cancer
+· anal Itching
+· anal Tear
+· anxiety disorders
+· arthritis
+· asthma
+· astigmatism
+· autism
+· autoimmune diseases
+· Auto-Brewert syndrome
+· Attention deficit hyperactivity disorder (ADHD)
+· Autistic spectrum disorder (ASD)
+· Asbestosis
+· bad breath
+· Bacterial vaginosis
+· benign prostate hyperplasia (BPH)
+· bipolar disorder
+· body odors
+· Bone cancer
+· bone placement disorder
+· Bowel cancer
+· bloating
+· brain cancer
+· brain damage
+· Brain tumours
+· Bronchitis
+· breast cancer
+· candidacies
+· cataracts
+· carpel tunnel syndrome
+· Changes in bowel movements
+· celiac disease
+· cervical cancer
+· Chest infection
+· Chest pain
+· chicken pox
+· Chlamydia
+· chronic fatigue syndrome (CFS)
+· chronic illness
+· cold sores
+· colon cancer
+· Coma
+· Congenital Insensitivity to Pain
+· Conjunctivitis
+· constipation
+· common cold
+· COPD
+· cough
+· crippling depression
+· Crohn's disease
+· Corona Virus
+· cystic fibrosis
+· Dehydration
+· dementia
+· diabetes
+· diarrhea
+· depression
+· down syndrome
+· Dry mouth
+· Earache
+· eating disorders
+· Ebola
+· eczema
+· endometriosis
+· Epilepsy
+· Erectile dysfunction
+· eye cancer
+· eye disorders
+· Fatigue
+· fibroids
+· fibromyalgia
+· Foreign Accent Syndrome
+· Farting
+· flu
+· food poisoning
+· Fungal nail infection
+· Gallbladder cancer
+· Gallstones
+· genital herpes
+· gonorrhea
+· Gum disease
+· Graves' disease
+· hallucinations
+· Hashimoto's thyroiditis
+· hay fever
+· Hearing loss
+· hepatitis A, B, C, D and E
+· herpes
+· high cholesterol
+· HIV
+· Hodgkin's disease
+· Human Werewolf Syndrome
+· Hutchinson-Gilford Progeria Syndrome
+· HPV
+· hypertension
+· Immediate bowel syndrome
+· Indigestion
+· Ingrown toenail
+· Itching
+· Itchy bottom
+· Joint abnormalities
+· Kidney cancer
+· Kidney infection
+· Kidney stones
+· Leg cramps
+· Liver cancer
+· Liver disease
+· Lung cancer
+· Measles
+· Mesothelioma
+· Mouth cancer
+· Nasal and sinus cancer
+· Nosebleed
+· Obesity
+· Osteoporosis
+· Old man syndrome
+· Pancreatic cancer
+· Panic disorder
+· Parkinson's disease
+· Personality disorder
+· Persistent Sexual Arousal Syndrome
+· Prostate cancer
+· Radiation poisoning
+· Reactive arthritis
+· Restless legs syndrome
+· Walking Corpse Syndrome
+· Shingles
+· Shortness of breath
+· Skin cancer
+· Sore throat
+· Sugar cravings
+· Sunburn
+· Stiff Person Syndrome
+· Stoneman Syndrome
+· Stomach cancer
+· Stroke
+· Sexually transmitted diseases (STD's)
+· toenail fungus
+· Tuberculosis
+· T-posing syndrome
+· Urinary track infection
+· Vomit disorder
+· Whooping cough
+· Yellow fever
+· Yeast Infection
+Posted: December 2, 2023
+pls add walter white
+Posted: February 1
+this game is not free. make sure you have enough money left over for therapy.
+Posted: July 13, 2020
+The amount of time I've spent in this game would be surprising considering the score I'm giving it, but I cannot seriously recommend Brawlhalla when there are so many better ways to use your time. There's NO community in any online game I've faced (not even other F2P games such as LoL) that is as toxic as this one is. If you don't live close to one of the servers for this game your connection is jsut utter garbage. You're always gona have some sort of input lag. If you've ever played any fighting game you'll realize this game is very unbalanced and devs just cycle through metas to hype the tournaments up basically as they know exactly what they're doing and it's not balance. There's no penalty for doing or not doing stuff here (NO Rock Paper Scissors type of design you find in literally EVERY OTHER FIGHTING GAME). The whole economy behind this game revolves around being an ♥♥♥♥♥♥♥, taunts are the best selling in-app purchase by a mile. If you don't live in the US (or one of the 1st world countries) then good luck trying to buy anything as the premium in-game currency price isn't region adjusted. The more you play and the farther you get (up to Diamond) the more passive and boring the game becomes. There's footsies, there's defensive oriented characters in other fighting games but this is ridiculous... some matches will be stalemates where your opponent will literally just run away. As a matter of a fact, running away is objectively more effective than anythign else which is an incentive to play passively. Why? Because you have more options to run away, dodge, defend, throw your weapon, etc than you have to approach. Why would I recommend a game whose population is mostly kids yet it has the most toxic players ever? Everyone is tired ofthe toxicity, of the passiveness and the overall same-ness of the game. You don't have to believe me if you don't want to, few people really talk about this but it is the truth. You can check "toxicity Brawlhalla" on Youtube...
+YouTube™ Video:  
+Views: 0
+(funny ending tho)
+YouTube™ Video:  
+Views: 0
+(this one is MUCH better at detailing the community)
+These are my issues with the way the game is being designed around (and balanced around):
+YouTube™ Video:  
+Views: 0
+https://www.youtube.com/watch?v=nZgVflTtAXM
+https://www.youtube.com/watch?v=_jUMcof1Llk
+https://www.youtube.com/watch?v=8fSapMtS0LU
+The game promotes a competitive scene, yet it lacks any balance to it. The fact they don't do anything about it yet they pour a new skin or toxic taunt every other month tells you what the developers' priorities are (its a business after all). Toxicity is a moneymaker. Even Brawlhalla's top players complain about the things mentioned and even more, yet in years those complaints have not been adressed at all. Boomie (#1-2 player depending on the year) has complained about a lot of stuff throughout the years, Sandstorm (undeniably #1) focuses on playing Smash competitively yet he absolutely DESTROYS this scene, eggsoup (ex-top 8 regular) constantly points out the problems with the community and the meta, dopameme (one of the guys who made the best exhibition combo videos) has complained and left the competitive scene due to several instances of lacking balance. These are people that have thousands of hours poured in the game and they all agree with this.
+Most Brawlhalla players will defend the game till the end as a fighting game but have never ever played other fighting games in their life. Being toxic and sending death threats and generally inappropiate slurs is the name of the meta.
+The game is addicting, not gonna lie, but I do not recommend it when you have to face an absurd amount of toxicity if you're a casual and an insanely passive and unbalanced meta if you're playing competitively.
+Posted: September 2, 2020
+Makes you angry
+Posted: January 3, 2022
+i hate every person on earth after playing this game
+10/10
+Posted: May 10, 2022
+The root of all evil. A breeding ground for mindless bigots turned racist by the brain rot you call Brawlhalla.
+The more hours you put into this game the deeper into the pit of depravity you become, with a grand total of 740 hours that i have wasted into this cesspool of brain-dead monkeys i'm past the point of no return.
+My family are becoming increasingly worried as i scream profanities even if i win. There is no worse experience than seeing a Princess Bubblegum pull a woohoo as you watch your character fall to its inevitable death.
+You will find an undescribed rage for Teros and those simelar to the point where even those around you that you thought you loved become punching bags as you find yourself having gotten 3 stocked by N-sig.
+Theres no better way to describe this as the worst game ever made that you will always come back to i strongly recommend you never play this god-forsaken game.
+Posted: August 22, 2021
+It's one of those games where you'll say, "I hate this game", and then immediately hop into another match.
+Posted: December 27, 2021
+>man like smash
+>man has no switch
+>man play brawlhalla
+>man satisfied
+Posted: March 3, 2023
+Devs please add walter white
+Posted: March 5
+I have not touched grass since playing this game
+Posted: October 26, 2020
+i wanna punch myself every time i play this game
+Posted: July 20, 2023
+I hate this game with my life
+Posted: September 6, 2022
+this game makes me want to kill myself
+Posted: September 10, 2022
+lance users dont deserve rights
+
+Posted: August 4, 2023
+Lance users deserve to be skinned alive in front of a mirror and then forced to eat their own skin.
+(as a joke lol, lmao, rolf, xdd)
+
+Posted: November 8, 2020
+this game is actual pain
+Posted: July 12, 2018
+Rules of Brawlhalla
+Crappy Internet = Instant lose
+Bad at game = Lose to spammers
+Good at game = Lose to smurfs
+Unbalanced heroes = Lose
+Bad keyboard = Lose
+Bad teammate = Lose
+FFA as a platinum = Lose to noobs
+FFA as noob = Spam, but still lose
+Wins 10 in row, doesn't rank up
+Loses twice, deranks.
+Posted: October 17, 2017
+I have played this game to death, and I love and I hate it.
+That said, there isn't a game on steam I could recommend to you more.
+I've been with the game for almost two years competing at a pro level, participating in tournaments and attending LAN events. During this time the game has seen it's ups, and its downs. Ultimately, due to its amateur but dedicated and communicative dev team "BMG", it has come out on top!
+There's definitely two sides to Brawlhalla: The casual, and the competitive.
+The former I don't have much experience with but I know that if I hop into some custom games with friends I can still have a great laugh even after all this time. The latter, oh man. The competitive community is fresh, young and enthusiastic. It's everything someone looking to get into competitive gaming / self-improvement could want.
+-The game is easy to jump right into, but has a well rounded set of fighting game dynamics.
+-It doesn't look too pretty, but it plays very cleanly (with some of the best netcode I've EVER SEEN), as well as supporting a huge variety of characters and weapons.
+-It is a young game and the meta progresses slowly, but there is more room for you as an individual to make an impact. It is NOT EVEN CLOSE to too late to get into the game.
+-L A N, the community that gathers at our offline events is one of the best, hands down. I've had some of my best experiences IN MY LIFE at these events.
+With a cosmetic-only business model (and a sweet art team), there is no reason not to at least TRY this game. If you're a competitive person but haven't found the right game for you, hop on the ranked ladder and if it doesn't get your blood boiling, doesn't do it for you, well it was free anyway!
+Now I'm going back to practice more Brawlhalla because, in case you didn't know, the world championship is on November 3rd, and has a $100,000 prize pool. :)
+Posted: December 1, 2021
+i hate the brawlhalla community.
+Posted: June 11, 2022
+Before I played Brawlhalla i had a small wee wee, no girlfriend no friends, rage and no will to live. None of these things have changed, but the game is pretty good.
+Posted: October 10, 2021
+ranked is very fun if you hate yourself
+Posted: August 29, 2021
+I got a lot of positive emotions from the game only after I removed it from my pc
+Posted: October 21, 2021
+Good game if you want to have mental breakdown and literal cancer
+Posted: December 16, 2022
+If you have anger issues, avoid this at all costs. trust me.
+Posted: March 28, 2021
+I play this game just to get thrown and juggled around, feeling the sheer helplessness and loss.
+10/10 for relatability.
+Posted: June 7, 2020
+Good game if you want to have mental breakdown and literal cancer
+Posted: December 5, 2021
+- Runs on a potato
+- Doesn't take a lot to start doing cool ♥♥♥♥ in 2v2 with your friends
+- Inputs are easy compared to any fighting game
+- You can be a casual and style or tryhard and be a competitive player
+- Take 3 minutes per game, takes 20 secs to get into a game
+
+Posted: January 14, 2017
+EARLY ACCESS REVIEW
+Heard about this game from a friend. Tried it out. 1000 hours later, I still LOVE it. A++++
+Posted: November 23, 2023
+everytime i revisit this game i exit with enough anger to kill a bull
+Posted: November 23, 2018
+im gay
+Posted: January 2, 2019
+Devs refuse to fix the broken meta, they consistently buff characters that dont need buffing, and nerf others that have been getting nerfs for 3 years now. Some characters haven't had a buff since Beta and now because of the 34 odd characters and new weapon types, there's a massive skew to 2-3 specific weapon types that they won't fix. Devs don't read their own Steam discussion with countless threads from players complaining and noting specific things wrong with the game. Very frequent lag and desync issues the devs always blame on your ISP or your router rather than their ♥♥♥♥♥♥ servers.
+Can't leave out the ranked matchmaking that often times will put you against the same person 3, 4, 5, 6 times in a row despite there being thousands of people playing in any specific ranking bracket.
+Was my favorite game for the past 3 years, but it's so ♥♥♥♥♥♥♥ broken and full of ♥♥♥♥♥♥♥♥ toxic players that I can't play this game anymore without getting angry at it.
+Get ♥♥♥♥♥♥ Blue Mammoth Games and Ubisoft. Thanks for reading, this has been my TEDtalk.
+Posted: December 17, 2022
+tesca
+Posted: October 30, 2023
+best game to absolutely lose your brain cells...
+Posted: May 17, 2021
+If nobody loves you and you're poor, this is the game for you!
+Posted: August 7, 2023
+Good game if you want to have mental breakdown and mantel illnes 🤍🤍🤍
+Posted: November 13, 2022
+I just got diamond today so I'm here to write my review.
+I recommend this game for people who want to experience the feeling of wanting to punch your monitor. You will not be good at all in the beginning. It doesn't matter who you are and what you do for a living. You will be trash for at least 200-500 Hours. This game has taken so much time from me but I still play the game like it is some type of drug.
+If you start playing this game I wish you luck and I hope your sanity is saved unlike mine.
+Posted: August 19, 2023
+I have well over 3000 hours played on this game spread over all my accounts and after nearly chopping my desk in half and sending the keys of my keyboard flying like the teeth of the guy that beat me would be if i found him, i thought it was about time i wrote a review. To start I've spent the majority of my time on this game in ranked 1s, its all i play. I have also had the full package when it comes to every rank and the types of cancerous tumours that lurk underneath. When i say do not touch any of the ranked game modes I MEAN IT. NOT ONLY WILL YOU MOST LIKELY HAVE A TERRIBLE TIME AS SOON AS YOU START LIKE ALL MY FRIENDS HAVE, BUT IT WILL ALSO SUCK YOU IN LIKE YOU'RE GETTING HEAD FROM A VACUUM CLEANER. ONCE ITS ON. ITS ON. I CAN NOT STRESS ENOUGH, NO MATTER HOW MANY CONTROLLERS HIT MY WALL, HOW MANY SHIRTS RIP, HOW MANY TIMES MY WHOLE NEIGHBOURHOOD HEARS ME YELL AND HOW MANY KEY FLY OFF MY KEYBOARDS AND NEARLY BLIND ME, I CAN NOT LET GO. EVERY DAY I WAKE UP. I THINK ABOUT BRAWLHALLA WITH THE SAME HOPE THAT I WILL NOT LOSE MY MIND (LITERAL DECAPITATION) AND WIN SOME GAMES. I HOP ON. I GET BODIED BY A DEFAULT BLUE ULGRIM AND THEN SEE THAT HES 300 ELO ABOVE ME. I THINK TO MYSELF "OK THATS A BIT UNFAIR, LETS MOVE ONTO THE NEXT MATCH" NO. NO NO NO NO NO NO NO NO NO. HE PULLS OUT THE THUMBS DOWN. THE THUMBS DOOOOOOOOOOOOOOOOOOOOWNNNNNNNNNNNNWWNNWNWNWWNWNW. WHEN I SEE THAT THING. THAT ABSOLUTE HAUNTER OF MY DREAMS. THE THING THAT COULD END ME ANY SECOND. i stand up from my chair and i tense. I literally look like im taking a fat dookie and i do it till i turn blue like a smurf and physically cant stand any longer. I fall on the bed and go to sleep hoping tomorrow devs delete lance, katars, SPEAR NAIR and anything except for cannon.
+overall, this game consumed my life, I am a shell of a the person i used to be, 10/10 would recommend, am hopping on tomorrow.
+Posted: July 29, 2023
+alt + f4 is the best combo
+Posted: March 31, 2019
+nice game but toxic community
+
+Posted: October 10, 2023
+This gotta be like top 5 worst games that i play but i cant stop because i get side effects when i stop
+Posted: March 15, 2018
+CheckboxReview™
+Original Template by Demonix
+---{Graphics}---
+☐ Masterpiece
+☐ Beautiful
+☐ Good
+☑ Decent
+☐ Will do
+☐ Bad
+☐ Awful
+☐ Paint.exe
+---{Gameplay}---
+☐ Try not to get addicted
+☐ Very good
+☑ Good
+☐ Nothing special
+☐ Ehh
+☐ Bad
+☐ Just dont
+---{Audio}---
+☐ Eargasm
+☐ Very good
+☐ Good
+☐ Decent
+☑ Not too bad
+☐ Bad
+☐ Earrape
+---{Audience}---
+☐ Kids
+☐ Teens
+☐ Adults
+☑ Everyone
+---{PC Requirements}---
+☐ Check if you can run paint
+☑ Potato
+☐ Minimum
+☐ Decent
+☐ Fast
+☐ Rich boi
+☐ Ask NASA if they have a spare computer
+---{Difficulity}---
+☐ Just press a bunch of buttons
+☐ Easy
+☐ Significant brain usage
+☑ Easy to learn / Hard to master
+☐ Not so easy
+☐ Difficult
+☐ Dark Souls
+---{Grind}---
+☐ Nothing
+☑ Only if u care about leaderboards/ranks
+☐ Isnt necessary to progress
+☐ A bit grindy sometimes
+☐ Average grind level
+☐ Too much grind
+☐ Insanity
+---{Story}---
+☑ Doesnt have
+☐ Something isnt nothing I guess
+☐ Not great
+☐ Average
+☐ Good
+☐ Lovley
+☐ Will make u cry or smile alot
+---{Game Time}---
+☐ Long enough for a cup of tea
+☐ Short
+☐ Average
+☐ Long
+☑ Depends on u
+☐ Endless
+---{Bugs}---
+☐ Never had any
+☐ Minor bugs
+☑ Few bugs
+☐ Can get annoying
+☐ Ruining the game
+☐ The game itself is a big terrarium for bugs
+~~~~Multiplayer~~~~
+☑ Why would you even play this alone?
+☐ It has multiplayer, but it's optional
+☐ Multiplayer is not recommended
+☐ Multiplayer is complete garbage
+---{Salt Level}---
+☐ Replaced with sugar
+☐ Barely anything
+☐ Balanced
+☐ A bit of salt
+☑ Salty
+☐ Salt overload
+---{Servers}---
+☐ No issues
+☐ Minor lags every few hours
+☑ Can get laggy sometimes
+☐ Oh the ping..
+☐ Unplayable
+---{Status}---
+☐ Top
+☑ Always some people around
+☐ Not so easy to find people for the party
+☐ You ll have to wait for anyone to join
+☐ Barely any soul alive
+☐ Dead like my insides
+---{Matchmaking}---
+☐ Depends on the host
+☐ Brilliant
+☐ Fair
+☑ You might see much more experienced/stronger players
+☐ Unbalanced
+☐ Completely unfair
+☐ Non-existing
+Posted: January 16
+If you ever find yourself having a good day just play this, it will ruin your entire mood and make you hate existing!
+Posted: August 25, 2018
+Chernobyl nuclear disaster aftermath had less toxicity than this game.
+Posted: April 10, 2021
+smash for broke people
+Posted: May 23, 2023
+Here I will leave the cat, friends who pass by can pet it and give it a thumbs up
+　　　 　　／＞　　フ
+　　　 　　| 　_　 _ l
+　 　　 　／` ミ＿xノ
+　　 　 /　　　 　 |
+　　　 /　 ヽ　　 ﾉ
+　 　 │　　|　|　|
+　／￣|　　 |　|　|
+　| (￣ヽ＿_ヽ_)__)
+　＼二つ
+Posted: November 4, 2022
+gave me anger issues i never knew i had
+Posted: January 3, 2016
+EARLY ACCESS REVIEW
+3, 2, 1, BRAWL!
+Great game for people who like Super Smash Bros. Every week another Champ rotation.
+You can play with 8 Friends all for one, 1on1 & 2on2 ranked.
+Its free to play, so just give it a try!
+Posted: February 14, 2016
+EARLY ACCESS REVIEW
+Although it seems unfair, it's actually amazingly balanced. In almost all ranks there is little to no difference in success with legends, all that matters is skill and practice. And even in the higher ranks where balance makes more of a difference, it's still completely possible to do well with any legend.
+Sure the community isn't that great on the lower ranks, and spamming can get really annoying, but after you get past silver theres a huge improvement. Spamming doesn't get you to diamond, and if you try you will get stopped in your tracks in gold. The community outside of bronze, like on reddit or twitch, is really great and not very toxic. Most people are just nice people that would love helping out new people or just talk about the game. If you're looking to improve, you can just head over to twitch and observe, or ask for help.
+Another great thing about this game is that there is no pay-to-win ♥♥♥♥♥♥♥♥ hidden inside. You can unlock every character without spending a cent, and theres a new free legend rotaion every week. Daily quests help people rake in more cash, and if you want you can spend money to get some cool bling to show off like skins or taunts, which have no effect to the gameplay whatsoever.
+BMG is a great company and puts a lot of love into the game, and you can really tell. Every week they have a stream where they show off things in development, and another one where they just play with viewers. There are raffles in both where you can win community colors, which is a color palette that is only obtainable through giveaways (again, no effect on the game). They really do listen to the community, and they hang out at the subreddit a lot and read most of the posts there.
+As for the gameplay, it's super fast-paced and fun, even if you don't even know what you're doing. There are a couple different game types, and you can have up to 8 players in one game for complete chaos. You can either join with a friend and play 2v2 ranked, or go alone in 1v1. It's a little floaty, but there's nothing really wrong with that. You can jump around all the time or stay on the ground, whatever you want. There are light and heavy attacks for both ground and air, so neither one has a distinct advantage. As I said before, this game is actually extremely balanced, and in pretty much anything below diamond, everything is 99% balanced.
+So in short yes I would reccomend this game.
+but bring cassidys cupcakes back 0/10 until then
+Posted: August 5, 2019
+my baby is dead
+Posted: April 9, 2022
+Please for the love of God don't get into this game it will destroy you from the inside
+Posted: June 22, 2022
+Right im going to be honestly review this game, no jokes.
+if you have anger issues i would advice against installing this game as you will 100% end up with a broken monitor.
+Secondly if you want a game with a good community, again i would say not to install the game is full of little ♥♥♥♥♥ (Queen- Nai mains) the games annoying and very ♥♥♥♥ at times and makes you want to tear your walls down. As the enemies are utter ♥♥♥♥ and it hurts you
+the game is full of un-skilled children pressing the signature button, they should all uninstall
+i personally play the game not for fun, but to destroy every sig-spammer in existence and will not stop untill they are all gone.
+This game is 10% fun and 90% aids, i hate this game in every way shape and form yet still launch the game everyday.
+WARNING, you WILL lose brain cells playing this game.
+Edit at 453 hours: I still ♥♥♥♥♥♥♥ hate this game so much please kill me
+Posted: August 25, 2022
+This game gave me:
+· AIDS
+· allergies
+· Alzheimer's disease
+· anal abscesses
+· anal Cancer
+· anal Itching
+· anal Tear
+· anxiety disorders
+· arthritis
+· asthma
+· astigmatism
+· autism
+· autoimmune diseases
+· benign prostate hyperplasia (BPH)
+· bipolar disorder
+· brain cancer
+· breast cancer
+· candidacies
+· cataracts
+· carpel tunnel syndrome
+· celiac disease
+· cervical cancer
+· chicken pox
+· Chlamydia
+· chronic fatigue syndrome (CFS)
+· chronic illness
+· cold sores
+· colon cancer
+· constipation
+· common cold
+· COPD
+· cough
+· Crohn's disease
+· cystic fibrosis
+· dementia
+· diabetes
+· diarrhea
+· depression
+· down syndrome
+· Ebola
+· eczema
+· endometriosis
+· eye disorders
+· fibroids
+· fibromyalgia
+· flu
+· food poisoning
+· Gallstones
+· genital herpes
+· gonorrhea
+· Graves' disease
+· Hashimoto's thyroiditis
+· hay fever
+· hepatitis
+· herpes
+· high cholesterol
+· HIV
+· Hodgkin's disease
+· HPV
+· hypertension
+Posted: February 24, 2021
+Product received for free
+it's a love hate relationship
+Posted: February 10, 2022
+dont play ranked. dont do it. no.
+Posted: November 18, 2020
+this game is full of tryhards
+Posted: July 1, 2022
+|^^^^^^^^^^^^^^^^ \||___
+| The Truck of Approval |||""'|""\__,_
+| _______________ l||__|__|__|)
+|(@)@)"""""""""""""""**|(@)(@)**|(@)
+Posted: August 11, 2021
+Brawlhalla is a unique 2d platform fighting game and has incomparable mechanics to other fighting games.
+This is my experience after 2300 hours poured for this game.
+Pros:
+1. Easy to learn
+2. No cheaters
+3. Not P2W
+4. It's Free
+Cons:
+1. Toxic Community
+2. Bad Server
+3. N̶e̵e̶d̷s̵ ̶g̶o̷o̴d̴ ̶I̵n̵t̸e̷r̶n̶e̷t̶
+4. W̷i̷l̷l̶ ̸r̵u̸i̵n̵ ̴y̴o̶u̶r̸ ̴l̴i̴f̸e̵
+5. G̷̨̫̳̀̚A̷͚̎M̶̡̖̑̈́Ḇ̶̅̇̿͜L̶̟̈́Ȅ̵͕̈́ ̴͓͗M̶̩͉̺̈́̓O̸̜͎̒̓Ņ̷̰̘̃̑̔E̷͂̀́͜Y̸̛̩͋͑
+6. B̵̲̜̻͐͒R̷̨̛͕̖͔̹̹͊̌̀̓E̷̡̗͚̘̬̥͑̔́͠À̷̫̤Ḱ̵̛̝̰̍̂͜͠S̵̻͇̈͌̂̈́ ̸̖̪͉̼̖̜̊̑M̶̧̧̪̖̭̓̆̒͌́͜E̵̢͓̹̼̮̦͑̃͜N̴͔̞̞͌̈́́̉̄̀̚T̸̡̖̣͇̱̗̽͊̈̅̒͌Á̵̱̙̮̯̍̉͐̈́Ļ̵̛̥͛́̍̍̂
+7. N̴̛̞͚̻̮͖̱̋̄̓̏̌̒̓͑͆͂͒̑͑̚͘̕͠ͅĘ̸͎͈͇͓̻̬̱͑̋̓̅̆͆̽̉͠ͅE̸̡̡̢̺̖͎̙͐̍̈̀͠Ḑ̸͎̣̪̞͇̰͚̮̺̳͒̓̿ ̸̢̧̣͈̥̯̤̠̪͇̖̜̅̑̅̅̿̅̀̀͆̃̀̎̎̿̅͒̎̓͒̅͌T̷̨̨̧̧̛̘̣͖̣̠̤̻̣̥̞͙͔̗͍̍̓̌Ö̵̩̀͂̈́̍̃͆͗̈̍̀̌̎̕ ̶̦̹̑̏̕S̴̢̢̢̜̫͔͙̯̞̱͈͚̪̻̜̱̠͚̏̈́̒̾̈́̒̔̏̎͋͊̌͆̀̍̾̏͛͗͗͝ͅE̴̢̧͉̗̘̱̪̲̯̱̦͕͋͂͘͜L̵̼̞͎̫͈̭̣̱̲̪̣̮̥͚͙͉͇͇̂̅̓͝͠ͅĻ̴̛̛͇̲̺͂̈́́͛̆̿͐̎̆̑̄̀͂͐̚͘͝ͅ ̴̨̖͈̥̘̤̙̲͉̰͓̣͙̦̈̏̓̽̈́͌͋̋͜͠Y̵̨̨̞̖̱͙̖̙͇̝͕̖̩̟̯̅̐̽͐̈́̿̑̚͜͜͠ͅͅO̶͕̎̓̔̈́̈̈́̐̾̈͠Ů̵̢̡̨̮̗̰̬̝͈͇̼̱̱̦̲͔̭̩̲̣̓̚ͅR̵̡̧̼̩̗̫̼̝̗̭̪͙͈̘̰͖̞̟̞̫̻̈́̓͐̍̈́͒́̂̕͝͝ ̸̧̛̗̥͙͕̘̖̪̬̭̮͇̩͋̈́͐̅̉̕͝S̵͍̬̥̥̅̅̅̓̓̚O̴̬͂͌̂̎͋͑̍̈́͒̾̎͘̚̚͝͝Ụ̵͕̹̙̲̓͆͑Ḽ̴̢̹̦͈̥͓̦̳̭̣̗̒̿̒̃̈́̌͑̄͋̈́̓͛̈́̚̚̕͝ ̶̨̛̖̩̠͔̙̬̲̹͍̱̼̋̉͆̄̿̾̽̒̎͋̏̂͐̎͝͝͠ͅͅT̷̮̭̹̖̞̖̺̄͊̇ͅƠ̸̮̹͎̯̋͋̇̆͋̔̿̑̀̉̾̊͝ͅ ̶̮̀̈́̑̃͐̈́̓̌͒͊̉̈́̐̌͐̕̚̚͝͝ͅB̵̨̧̺̙̼̞̮̙͈̫̫̠̭͇̥̩̺̓̅̊̏̽̈͂̈́̀̍̐̉̕̚͜͝E̸̦̦̟̊̓̒͒͋͊̂̽͆͐̈́̾̚͝ ̷̱͇̩͖̰͙͇̮͚̥̦̻̗̿̿̈́̑̀͛͛̂̔̋̇̕ͅG̵̨̨͎͎̪̰̜̣̻̲̣̼̣̫̯͛͜ͅO̶̒͆̐̅͜͝Ǫ̷͉̳̣͔̖̰͉͙͚̆̈̓̊͘ͅḒ̸͎̺͚̿͊͂͛͗̀̀̅͛́̽̎͂͋͐̈͝͝
+8. Smurfs in rank
+Even with all that cons, I would still recommend B̷̧͎̜̟͖͉̱̟̕r̸̯̜̮͔̜̖̄͛̒̿͆̋͘ä̷̬̩̤́̎̓̔̓̈̓̈͊̔̈́͠w̴͉͈͚̥͙̪͔͂̽͐͝l̷̤͍̳̺͖̈́̇̈́̿̎̎̇͊͘̚̕h̵̼̰̜̏̐̍̄̐̽̓̓̐̕͘ā̸̧̟̯͓͑́ḽ̶̛͙̯́̂̐̇̈͘ä̷̭͔̙͊̅̉͑̉́̽̐l̷̢̤͉̼̼̹̣͚̟̥̊͌̓ͅ. It's fun, addictive, B̶̢̛̥̜͔̖̰̰̫̈́̉r̵̡̼͚̫͔̹̪̝͎͒͒̏̈́̈́͆ȩ̴͓̙̫͓͔̿̅̾̇̋̂̆͌̅̚̕ą̴̫̙̲͐̒̽͊͆͑́̋̈̍̄k̴̛̥̖̊͂̋͆͑̔̍̚s̷̲̟̤͑͆̑̚͝͝ ̶̪͍͔͗͐̏̒͒͌̀͗̒̒͋̄y̴̡̧̛̛͔̗̦̥̯͕̯͉̾͊̔̈́͌̒̐̾o̵̺̖̮̳̝̅̂ư̵̧̡̢̳̤̪̦̜͉̮̻̜̓̈́̔̽̆͘͝͝r̶͔̱̫͈̼͎̥̍̐̿͠ ̵̤̮̉̀͌̈ṁ̶̢͚̰̼͉̮̟̞͕͋͝ẻ̸̜̳̘̞̜͉̱̈́͂̅͘͜ņ̵̡̟̳͉̪̦̱̈̏͐̔͛̃̏̔̊̉͝ţ̷̛͙͔̣͙̬́a̵̧̲̖̮̳̽͝l̶̗͖̫̲̻̜͖̘̈̓̂̏̏, Straight learning curve for a beginner.
+Just download this game and press that green play button so that
+S̸̢̝͖̟̯͛̉̒̂̀̐͜͝A̷̧̰̮̠̼̼̣̣̎́͠Ţ̸̨̛͙̫̫̗̝͎̟̙͇͖͙͈̹̖̍̽̅̑́͋̋͌͒Ã̴͖̪̬̈́̒̋̃̆̊͘ͅN̵̛̘͍͍̘̼̊s̸̢̖̰͔̫̥̒́̎̄̆̉ ̷̢̡̺̐̽̏̉̊̚K̵̩͉̤͓̘̮̈̓͗̾̆̿̀̾̍̃̽́̿͝N̴̬͇̠̝̟̈́Ơ̴̧͍̘͎̱̣̲̣͚̇́̅̕W̵̝̪͔̫̹̹̖̟̿̄̊́͋͘ ̵͈̟͓͍̭͑͂̉̋́̇̅̉̈́͑͘̕͝͝Ŷ̴̨͚̮̭̘̺͔͓͘Ơ̴̛̠̟̖̞͎͉̬͑̐̋͑̂̚̚̕͠Ų̴̧̢̯͕̦̫͎͎͎̮̜̫̤̳̓͆́͂̾̍͗̕ ̴̛̛͍͓̋͑͒̔̈́̾̏́͋̈́̄̈͝͠Ą̶̹͍̟͖͔̯̠̖̳̺̺̮̘̐̇̐́̋̀̉̈R̸̤̣̖̙͔̜̙̙̻̖͎̝̙̪̭͐̐̏͒E̸̛̛̯͍̟̗̿̓̽̉̐ ̶̡͇̪̞̯͈̜̪̇̊̓͒͘G̸͓͎̖̗͙̣̹͐̈̌̉̓̓͘͝I̷̘̙̫̳̱̳͔̗͓̗̩̖̹̳̒͆̿̒͠V̵̡̹̮̮̬̳͉̗̙̖̯͈͈̣̝̒͐̂̈́̈́̃̈̋͘͘͘Ì̷̛̦̯͕̖̣̮̲̰̙̝̖͎̜̪̠̏̆̄̆̇̍̏͛̇͋̽̽͘Ṇ̸̳̜̻̫͎̝͍̺̠̟̉͜Ģ̴̛̤͍̝̩͚͚̜͔̖̃͑̔́̓̓̈̾̅̓̈́̍͘̕̚ ̸͍͚͔͍̂̅̅͒͐̌̈̊͐̾Ỳ̴͙̞̯̗͉̯̓̏̏͂̍͂̾̅̇͐̅͠͠O̴̲͂̃̉͐̓͐̉̒̚Ụ̷͍̰̱̩̮̰̹̦̱̽́̍̎́̅̊̿̓̀̔̔͝R̴͍̽̾́̂͆̄͐̀̈́̂͝ ̵̛̛̥̇̈́̆͜S̵̢̭̠̣̻͉̥̲͉̤̣̜̝̭̟̀͌̈́̚̚͝Ỏ̴͍̖̈́́͛̉̓U̷͇͈̬̫̅͐̋̂̽͌̑̈̕͠Ľ̴̠̜̝̼͍͇̪̪̤̪͈̟̣̲̄͑͑̍̅̿̀͛͑̇͌͜͠ ̶͎̆͋͂͂͌̏̊́͊͋͒͘Ṯ̷͍̬̱͍̪͊̀̈̎̏̐̓͛͊͊̓͘Ọ̶̬͔̪̥̫̣̭̫̳̦̖̞̜̗̆̋͐͗͑̋̽̕͜ ̵̡̛̖̜̝͓̖̭̜̞͇̣̤̟̜̠̿͂̀̃͆̀͐Ḩ̵̛̛̳͓͇̻̬̩̘̫̫̟̳̘̯̠̓̿̓͆̏́̈́̉͌̂́̀͜I̵̡̢̠͚͈̳͉͈̫̖̬̜̹̱͕͆̋̊̏̌̇̔̓͒͑̊M̷̺̩̫͙͕̣͕̹̜̒͐͌͗̽͗͊͌̿̽͊͊̂͠. Good luck have fun Brawlers :D
+Posted: February 13
+Product received for free
+I HATE THIS GAME
+Posted: July 18, 2023
+this game brings me unbridled rage and hate
+
+Posted: December 8, 2023
+My gambling addict friend said if I post a review on Brawlhalla and it gets 100 likes and 30 Awards that he will buy me a case of beer and some vodka so im just gonna leave this here. help a brotha
+
+Posted: June 7, 2022
+this game is bad for your mental health
+Posted: June 24, 2023
+Nobody will read my review, so i'll just say i'm gay
+Posted: June 20, 2021
+Fun to cyberbully friends, not fun to get cyberbullied online by pros.
+Posted: June 4, 2023
+too much Mordex
+Posted: February 16, 2018
+- - -[] - - -
+☑ Kids
+☑ Everyone
+☑ Casual players
+☑ Pro players
+- - - [] - - -
+☐ Potato
+☐ Really bad
+☐ Bad
+☑ OK
+☐ Good
+☐ Beautiful
+☐ Masterpiece
+- - - [] - - -
+☑ Free
+☐ Full price
+☐ Wait for sale
+☐ Average
+☐ Refund it if you can
+☐ Don't do it
+- - - [] - - -
+☑ 90' PC
+☑ Minimum
+☐ Medium
+☐ Fast
+☐ High end
+☐ NASA computer
+- - - [] - - -
+☑ You just need 2 arms
+☐ Ez
+☑ Easy to learn / Hard to master
+☐ Hard (first few hours)
+☐ Dark Souls
+- - - [] - - -
+☐ Really short ( 0 - 2 hours)
+☐ Short ( 2 - 8 hours)
+☐ Few hours ( 8 - 12 hours)
+☐ Long ( 12+ hours)
+☑ Endless
+- - - [] - - -
+☑ It doesn't have
+☐ Still better than Twilight
+☐ Average
+☐ Good
+☐ Fantastic
+- - - [] - - -
+☐ Game itself is one big BUG
+☐ Bugs destroying the game
+☐ Lot of bugs
+☐ Few Bugs
+☐ You can use them for speedrun
+☑ Nothing (I've seen)
+- - - [] - - -
+Multiplayer: Yes
+Singleplayer: Yes? [Bots]
+Posted: July 8, 2022
+I think this game has improved a lot since my original review, while the game isn't perfect it is also free and still fun to play. The community isn't the friendliest but I'd still recommend playing and ignoring the rotten eggs you meet along the way.
+With that being said this game has performance issues, and they vary widely from user to user. I don't know exactly what causes them and I don't really care to speculate, but I have a decent machine and so do my friends, and this game will feel fine some days and others it is practically unplayable. And from what I can tell this is a platform independent problem ( I can't speak for mac ), these issues seem to appear on both Linux and Windows respectively.
+If you are one of the poor unfortunate souls experiencing these issues, you can expect things from super laggy and delayed menus, huge random frame drops, and sometimes really bad input lag. As for solutions I don't know any personally, I usually just try relaunching.
+Posted: March 7, 2021
+Product received for free
+how 2 play
+Step 1: pick yellow man that has 2 pointy weapon
+Step 2: press x --> press x --> press x --> press x
+Step 3: win
+Step 4: Realize you are just pressing button over and over again and not improving
+Step 5: quit game
+
+Posted: January 21, 2018
+===[]===
+☐ Kids
+☐ Everyone
+☑ Casual players
+☑ Pro players
+===[]===
+☐ Potato
+☐ Really bad
+☐ Bad
+☐ OK
+☑ Good
+☐ Beautiful
+☐ Masterpiece
+===[Price/quality: ]===
+☑ Full price
+☐Wait for sale
+☐ Average
+☐ Refund it if you can
+☐ Don't do it
+===[]===
+☐90' PC
+☐ Minimum
+☑ Medium
+☐ Fast
+☐ High end
+☐ NASA computer
+===[]===
+☐ You just need 2 arms
+☐ Ez
+☑ Easy to learn / Hard to master
+☐ Hard (first few hours)
+☐ Dark Souls
+===[]===
+☐ Really short ( 0 - 2 hours)
+☐ Short ( 2 - 8 hours)
+☐ Few hours ( 8 - 12 hours)
+☐ Long ( 12+ hours)
+☐ Endless
+===[] ===
+☑ It doesn't have
+☐ Still better than Twilight
+☐ Average
+☐ Good
+☐ Fantastic
+===[]===
+☐ Game itself is one big BUG
+☐ Bugs destroying the game
+☐ Lot of bugs
+☑ Few Bugs
+☐ You can use them for speedrun
+☐ Nothing
+♛ Overall: 7/10 for casul, 8/10 if you take the hours to really enjoy it.
+Posted: July 10, 2017
+Over 7000 hours , I think am ready to give my review on this game.
+Pros:
++The game is fun to play with friends
++100% based skill game with no P2W content
++Can be played with many differnet modes
++Ranked competitive gameplay with either 1v1 or 2v2
++frequent updates with more legends being added into the game almost every month
++Has good devs that listens to the community
+cons:
+- Toxic community . In fact , I think it's one of the toxic communities out there.
+-Spammers
+-The game will make you rage almost every time you lose a match in ranked
+-requires a good connection or you will lag out of the match.
+Neutral:
+~Easy to play , and hard to master
+Conclusion:
+I recommend this game . However , try not to be part of the toxic community ,and leave a gg when you finish a match.
+EDIT:
+The game has been very passive and slow the past couple of years , and sometimes the developers over buff a weapon or over Nerf a weapon which is kinda bad if you only try to focus one weapon in your play style.
+I also want to add that if you want to go pro in this game, you won't be able to enjoy it as much as you did when you first started, and your tilt levels will rise.
+Rating: My final ratting for this game is 8.0/10
+Posted: March 5, 2022
+Edit: Yes I have logged a few more hours on this game since my review but it's only to finish out the battle pass missions since I purchased it when it came out
+Honestly, this game used to be a love/hate relationship. It was an addiction for a long time, however the last 4 months. I've felt no desire to play this game anymore. I absolutely cannot stand the devs/ community. They don't care about this game nor their player base in any sort of way. They just release new skins every month to grab more of your money. I've spent a lot of money on this game and put a lot of my time into it. I'm finally quitting because no matter how many people speak up about the balance issues, things that need to be changed/ introduced. They do nothing and just release new skins. They nerf the wrong weapons, buff the weapons that were balanced. Change things that didn't need to be changed. The devs just rotate the meta around for each tournament to spice up the game play. There are so many things wrong about this game that could be improved/ fixed if they would just listen to their player-base. Like for example, the weapon throws/ reward for playing super passive ( and by passive, I don't mean playing smart and adapting to your opponents play style. I mean literally just running and waiting the entire game), etc. I know I'm not the only one that feels this way either. Would I have recommended this game in the past? Absolutely, it was different from other platform fighting games and a lot of fun. Would I recommend this game currently? no, I personally have gotten everything I wanted out of this game a long time ago and I only see it going down hill from here. It's just a big money grab. Maybe i'll revisit it in the future if things change. I doubt that will ever happen though. GG ♥♥♥♥ game
+Posted: November 5, 2023
+play the game if you want constant mental breakdowns and experience extreme rage for the first time
+Posted: December 6, 2020
+very good gam
+u can jump
+Posted: September 4, 2020
+Awesome free to play game that you can sit down with your friends and play for a countless amount of time. The characters are very good, and the artwork of the game is very nice. Would recommend!
+Posted: January 7, 2021
+My favourite combo in this game is alt+f4
+Posted: June 22, 2022
+This game will make you want to cut you penis off multiple times
+
+Posted: December 29, 2020
+⡴⠑⡄⠀⠀⠀⠀⠀⠀⠀ ⣀⣀⣤⣤⣤⣀⡀
+⠸⡇⠀⠿⡀⠀⠀⠀⣀⡴⢿⣿⣿⣿⣿⣿⣿⣿⣷⣦⡀
+⠀⠀⠀⠀⠑⢄⣠⠾⠁⣀⣄⡈⠙⣿⣿⣿⣿⣿⣿⣿⣿⣆
+⠀⠀⠀⠀⢀⡀⠁⠀⠀⠈⠙⠛⠂⠈⣿⣿⣿⣿⣿⠿⡿⢿⣆
+⠀⠀⠀⢀⡾⣁⣀⠀⠴⠂⠙⣗⡀⠀⢻⣿⣿⠭⢤⣴⣦⣤⣹⠀⠀⠀⢀⢴⣶⣆
+⠀⠀⢀⣾⣿⣿⣿⣷⣮⣽⣾⣿⣥⣴⣿⣿⡿⢂⠔⢚⡿⢿⣿⣦⣴⣾⠸⣼⡿
+⠀⢀⡞⠁⠙⠻⠿⠟⠉⠀⠛⢹⣿⣿⣿⣿⣿⣌⢤⣼⣿⣾⣿⡟⠉
+⠀⣾⣷⣶⠇⠀⠀⣤⣄⣀⡀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠉⠈⠉⠀⠀⢦⡈⢻⣿⣿⣿⣶⣶⣶⣶⣤⣽⡹⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠉⠲⣽⡻⢿⣿⣿⣿⣿⣿⣿⣷⣜⣿⣿⣿⡇
+⠀⠀ ⠀⠀⠀⠀⠀⢸⣿⣿⣷⣶⣮⣭⣽⣿⣿⣿⣿⣿⣿⣿⠇
+⠀⠀⠀⠀⠀⠀⣀⣀⣈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇
+⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃
+Posted: February 6, 2016
+Very fun. I play it from time to time and it seems to be the best way to play it (if you want to play more competitively). With friends in custom lobbies, it's endless fun. When you hit the ranked ladder, don't do it for too long or you'll tilt out of your mind, as you would in other competitive games.
+There is no game out there as accessible and fun as Brawl for me, since you can boot it up in like 30 seconds and get in a match in 10. Plus, it's free.
+Posted: August 15, 2021
+it probs looks ironic because of the amount of hours i have but i strongly recommend you do not play this ♥♥♥♥ game. this game legit is ass, i promise you it will make you reach levels of anger you've not reached before
+Posted: June 5, 2023
+MENTAL HEALTH DETERIORATING
+Posted: July 12, 2021
+- - -(Audience: ) - - -
+☐ Your Mom probably would enjoy this
+☑ Kids
+☑ Everyone
+☐ Everyone except kids
+☑ Casual players
+☑ Pro players
+☑ People who plan to take one game and make it their life
+- - - ( Graphics/Animation: ) - - -
+☐ I want to poor bleach in my eyes
+☐ MS-DOS
+☐ Bad, but playable.
+☑ Decent
+☐ Good
+☐ Beautiful
+☐ You forget what reality is
+---( Price: )---
+☑ Free
+☐ Buy now
+☐Worth the price
+☐ Wait for sale
+☐ Maybe if you have some spare money left
+☐ Do not buy it
+☐ Do not throw money into a trash can
+- - - ( Requirements: ) - - -
+☐ Check if you can run paint
+☐ 90's PC
+☑ Minimum
+☐ Medium
+☐ High end
+☐ NASA computer
+- - - ( Difficulty: ) - - -
+☐ You just need 2 arms
+☐ Easy
+☑ Easy to learn / Hard to master
+☑ Average (Depends on the difficulty set)
+☐ Significant brain usage
+☐ Dark Souls
+☐ Only the best of the best can complete this game
+---( Grind )---
+☐ Nothing
+☑ Only if you care about leaderboards/ranks
+☑ Isn't necessary to progress
+☐ Average grind level
+☐ A bit grindy...sometimes
+☐ Go back to the last village and shoot some more scarecrows
+☐ Practically a full time job
+- - - ( Story ) - - -
+☑ Only gameplay, doesn't include a story.
+☐ There is a story, but most of the game is focused on gameplay.
+☐ Better than nothing I suppose...
+☐ Average.
+☐ Decent.
+☐ Amazing!
+☐ It‘ll replace your life
+- - - ( Bugs ) - - -
+☐ Game itself is one big BUG
+☐ Ark: Survival Evolved
+☐ Lot of bugs (Can get annoying)
+☑ Few Bugs
+☐ You can use them for speedrun
+☐ Nothing (I've seen)
+---( Game Time )---
+☐ Long enough for a cup of tea
+☐ Short
+☐ Not too short
+☑ Depends on you
+☐ Long
+☐ Very Long
+☑ Endless
+- - - ( Enjoyment ) - - -
+☐ One long, tedious grind
+☐ Better than mobile
+☑ Fun at first, but gets old quick
+☐ Consistently fun
+☐ Can't stop playing, even though I should be finished. Send help
+This is a fun Super Smash spin-off which is pretty fun with 3 friends. It's a great casual game to play with your friends once in a while. It's nothing to grind countless hours on because it's mostly all the same. All Champions are similar and so if you know the basics and maybe a little more than that you will most likely play pretty good on all Chars.
+Posted: January 1
+god forbid you ever touch this trash, it's free because you pay with your soul
+Posted: January 6
+My gambling addict friend said if I post a review and it gets 250 likes and 100 Awards that he will buy me a case of beer, some vodka and 1 kg of lemon So im just gonna leave this here.
+Posted: December 9, 2023
+Before I played BRAWLHALLA i had a small wee wee, no friends, no girlfriend and absolutely no will to live. None of these things have changed, but the game is pretty good.
+Posted: July 2, 2018
+> Download game
+> Go to ranked matches
+> Press alt + F4
+Posted: June 18, 2023
+ur gonna wanna ♥♥♥
+Posted: December 8, 2020
+Hhhaaaa.
+Very good game,
+if you enjoy pain.
+Grind and play to get good at combos and plays
+But get destroyed by ada, nai, teros, artemis, and ember spammers the same
+Give up and throw the keyboard to the wall
+Continue to get disconnected in ranked and feel like giving up
+But the nice shiny skins attract you, so you open your wallet and give Brawlhalla your all
+Just to get whipped by a kid who says 'ez' in the chat
+because he knows how to press the 'k' button to spam.
+Watch good players and get depressed on how much you suck
+As tears fall down your face
+and your mental health declines
+Even though you've put months
+Into this game
+Anyways,
+Good game
+Posted: December 30, 2014
+EARLY ACCESS REVIEW
+This game is a lot like "Smash Brothers" meets 'League of Legends". This game has a great potential for an amazing ranked competitive matchmaking, while only offering cosmetics in the games cash shop for fans to buy cosmetics for their favorite brawlers. I'm happy to show support for this type of game in my community.
+I have nothing bad to say about the game, get it, love it, play it and enjoy!

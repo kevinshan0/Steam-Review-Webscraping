@@ -1,0 +1,761 @@
+Posted: January 25, 2016
+To anyone reading these reviews who is confused by the massive swings between positive and negative, you need to know one thing: Darkest Dungeon is an emotional game. To people just starting out, it can seem baffling, unfair, and deliberately obscure. To people who have been playing since Early Access, and who have seen favourite party compositions and strategies rendered obsolete, the Steam reviews page is more of an extension of Reddit than anything else - a place to air grievances (legitimate or otherwise) over a game that they have dedicated a lot of time to.
+What a lot of these reviews miss out is... y'know... the actual review part. On that front, I would say the following: the core gameplay is rock solid. At its heart, Darkest Dungeon has taken a minimalist, turn-based, four-man combat system and imbued it with massive potential for tactical thought and personal flair. Figuring out the best role for each of your heroes (chosen from a fairly generous pool of classes) and suddenly realising a unique way of getting them to synergise is immensely gratifying. Unlike a lot of games, it doesn't feel like there is a a ring-fenced area of "correct", vanilla play that only the very high-level players can get past; instead, you are encouraged and rewarded for coming up with your own strategies from the get go. The central combat system is smart, it pushes you to experiment, and there is a lot of room to come up with a playstyle that feels like your own, unique creation.
+HOWEVER! If that's all Darkest Dungeon was, it would be a neat tablet-based distraction, but ultimately sterile. It is the stuff that comes layered on top of it that is the source of its intrigue - and also the source of a lot of the frustration you'll see directed at it. As a typical RPG player, you naturally do everything you can to guarantee the safety and efficacy of your character(s), and it feels inherently uncomfortable to work in a game environment that leaves you perpetually on your toes and at risk of failure. DD refuses to let you settle into a comfortable routine, and a massive enemy critical attack, an ambush in pitch-dark while camping, or a series of misses on your part can topple you from a seemingly-unassailable position to a very desperate one. The potential for a fail-cascade is what turns off many new players, and even drives experienced ones to the occasional rage-review, but it is also vital to the fundamental risk-reward balance of the game, which is designed to punish complacency and encourage the utmost thought on your part.
+As you progress through a dungeon, you constantly need to balance a dwindling supply of light, food, sanity and health (although they can be restored in some ways), while also trying to complete objectives and collect much-needed loot with limited backpack space. Usually, this is the sort of gameplay I dislike; feeling that there is a time-limit, that I can't plough through something at my own speed in relative safety, is an uncomfortable experience after most games. However, the actual result is some very effective tension. In a normal RPG (say... Diablo), the steady drip of ever-increasing numbers is satisfying in a functional sort of way, but in DD the stakes are so high that getting a critical hit or dodging a huge attack always feels like a moment rather than just a nice bonus.
+It can initially feel punishing and unfair, since most gamers are hard-wired to see a hero death (which is permanent), a catastrophic turn-around, or a "tactical retreat" as a failure. Likewise, the element of randomness can make it feel like your hard work and smart play has not been rewarded, like you're just a random collection of atoms buzzing around in a meaningless void where there is no God or higher authority to dispense justice or distinguish right or wrong.... It takes time to realise that you were never meant to have it easy, that it's always been a gamble, and you can't expect a perfect S ranking - all you can do is make the best play you can with the information you have. It takes time to realise that the game is pushing you to accept loss and difficulty as part of the game, rather than a failure.
+Even I rage quit every now and then - but I always come back, because, as I said, Darkest Dungeon is an emotional game. You invest (real) time and (fake) money in your group of heroes, the odds are massively stacked in the House's favour, none of your guys is going to come out unscarred, you are going to face some serious setbacks, but you return because actually making it, actually landing that last hit at the last possible moment, realising you've scraped through again, is always a surprise, and an amazing one at that.
+Posted: February 18, 2021
+Remind yourself that overconfidence is a slow and insidious killer
+Posted: May 6, 2020
+The stress mechanics in game affects you in real life
+Posted: June 2, 2017
+60 hours into the game and I write this review because I've read people mentioning the most simple and constant fact about this game: that it is brutal. Don't expect to always win, or that everyone will always survive. Somebody will eventually die, somebody will eventually go insane, and after that there's just more of that. This games throws whatever it can to make you lose, and even if you win the biggest of fights you won't always be able to win in the end. Why? Because this game takes planning and thinking forward to the extreme, and it will trick you into overextending in some way just so that you will die. And that's great.
+The game itself, being an RPG, has many stats and many mechanics that interact in one way or another with everything else. Then why draw a point to it? Because you must NEVER, EVER underestimate or overestimate those values. The fact that an attack has 80% of hit chance vs a 95% hit chance is huge in the early levels, and as you go up in difficulty those rifts keep getting bigger and bigger, specially when you can find enemies in the early levels with evasion as high as 25. It means you need to plan for it. The fact that an enemy can inflict stress damage to your party, that it can protect another enemy, and that it has particular resistances to certain status can change drastically your aproach to each encounter, and the fact that depending on where you're going you will be facing a specific group of enemies plus some more generic ones. It means you need to plan for it. The fact that you can specialize certain classes to be more oriented towards a particular role (most of the time) and that you have only so much money at hand to do so, and that you need to divide it between that, buying better gear so that they won't die (and further specialize them) and keeping them sane. It means you need to plan for it. If nothing else, this game is a game about planning as carefully as you can, letting as little to chance as you can. Because the more you leave up to chance, the higher the chances something will wipe you out, or that you'll drive yourself into a corner you may not want to go into.
+But then again, as many other reviewers have said, the game gets too hard if you care too much about all of your characters. Having to take care of a roster of up to 26 someway-or-another twisted people can only get you so far, and you won't always be able to keep them safe or have enought money to do so. It is ultimately your choice if you wish to stop caring about everyone but the ones you like the most, or if you wish to go as far a you can trying to veil for both your interests and your whole party's safety.
+Also, you must learn about everything anything in the game can do, and plan accordingly to that, ALWAYS TAKING INTO ACCOUNT WHAT HAPPENS IF EVERYTHING GOES WRONG. If you knows there are enemies that aren't weak to a specific kind of ailment, don't take too many characters that rely on that kind of ailment to do their stuff. If you know an enemy can heal or deal more damage than another, priotize getting rid of either it or the next biggest threat there is besides it. If you know your characters have quirks or traits that affect them in certain scenarios, take those too into account when choosing your party and where to go, if not also how much stuff to take to that mission. If you're trying to kill a enemy that is quite devastating but it can evade everything you throw at him, don't always try to kill it with everything if you are leaving more vulnerable targets that you can kill with less effort stacking up bits of damage against you. Every action, every health, every miss, every hit, every fight and every event inside the dungeons can make a huge difference when stacked. So try to always think over what's the optimal way of doing stuff and, if you don't want to get everyone killed, when you're far enough gone that your only reasonable option is to run away. Luck can be in your favor, but never try to abuse it.
+Yes. Darkest Dungeon is unfair. Everything can kick your ass if you get caught in the wrong spot, if luck screws you over, or if you try to do more than you can. But if you really want to apreciate it, you must deal with every loss and every death, every failed resolve check and every loss, and learn from it. Try to learn how much is too much, how little is too little, what corners can be cut and what corners cannot. Learn what works with what and what doesn't. And if you really don't want to lose, don't feel bad if you need to go to the wikia to check on what will be expecting you on your next mission. Knowledge, and knowing how to use it properly, is the only thing you can rely on this game, and if you don't want the frustrating trial-and-error you need to get it, no shame in getting it from someone else. It's not as if it tells you everything, but starting from it as a basis and then piling up experience will get you to "know" the game, to really "feel" when things will go wrong, and if you can deal with a particular situation.
+In conclusion, Darkest Dungeon is really hard, but it can be a rewarding experience. It is opressive by design, since that's how Red Hook wanted it to feel like, just so that every little victory you get is ever the sweetest, and every failure, if you learn from it, a word on caution and the knowledge on how lessen the chances of it repeating itself. Only get it if you think you can deal with stuff not always going according to plan, no matter how well crafted if may be, and getting crushed by letting minuscule things piling up. Those are the bread and butter of the game until you start to get the hang of how to manage those situations, and the real enjoyment of the game (besides maybe a bit of masochism) can only be gotten after it...even if luck can screw you over.
+PD: Get mods if you can. Not all of them may be or seem good enough, but all of them add something interesting enough to the game.
+
+Posted: November 27, 2021
+its like pokemon but instead of cute little monsters you collect mental disorders
+
+Posted: March 21, 2022
+i haven't beaten the game once
+Posted: June 20, 2018
+Disclaimer: There is an ongoing issue with the Korean translation. In response to that, many players are leaving a negative review to stick it to the developer. In my humble opinion, the game itself is good. My level of information concerning the translation éclat is very superficial, but I must stress that before you believe any statements, please do the educated thing and research this topic a bit. Thanks for staying objective here, now on to the actual review.
+With age, I have come to appreciate more challenging games like the Dark Souls Series. It always takes a bit of an effort, because if you want to succeed in such games, you need to deal with the mechanics and principles behind the gameplay and deepen your knowledge. My philosophy with Dark Souls was always that it was not hard in itself as long as you listened to the game's "messages" and acted accordingly.
+Darkest Dungeon is similar at heart. But the difference is that you won't reach a state of overtraining which allows you some easy farming. Instead, your heroes will refuse to go on low level missions once they have earned their wings. The conclusion is that planning is key. You need to get a mental grip on the game really fast and then plan the development of your hamlet along with the development of your heroes. And once you have accepted that the heroes are expendable, the world won't look so grim anymore!
+The gameplay is pretty straightforward: You have a team of four heroes, each of which comes with 4 active skills and their current equipment. You go on a mission with a clear goal and with limited resources that cost you gold for each piece you chose to take along. In combat, you have a maximum of 4v4 scenario with turn based combat. The outcomes are influenced by chance, e.g. your damage range might be 5 - 10, which would make a 10 lucky and a 5 unlucky. In that regard, it is very much like a classical RPG when it comes to stats, abilities and chance.
+So if you have an idea of your heroes, the area and the game in general, you can plan ahead and even prevail if RNG is trying to ra...ttle you! It happens that you get wrecked, but if you learn from that experience, you wil know what to improve for the next try.
+With my current expertise with the game, I'd say the difficulty remains challenging and taxing even as you get stronger. There are basically 3 tiers of enemy strengths, and once your heroes reach a higher level, they need to go on higher tier missions, as previously pointed out. Gold and resources for the developtment of your hamlet are limited and you need to manage your playstyle in a way that does not leave you bankrupt after a few missions. Chosing which heroes to improve and which to let go is a part of that: Your heroes get positive and negative quirks (attribute modifiers) which can be healed or locked, as well as maladies. It's not always worth to spend your hard earned moola on a hero who has taken a wrong turn. So again, an appropriate reaction is key.
+EDIT: In radiant difficulty, you can use higher level heroes for lower level missions. Yay!
+EDIT2: But you can't take Champion level heroes (5+) on lowest level missions in radiant.
+The artstyle is neat and the sounds and music suit the theme that the game is set in. This is not a happy place game, so don't expect a cheerful tune.
+The game runs smoothly (at least for me) and I have not yet experienced any problems or crashes. I play without any mods.
+I do not own the DLCs, so I can't comment on them. But the changes to the core game that came with the DLC seem to be reasonable. The devs have their vision of Darkest Dungeon and so they do not allow cheesing, which is fine by me. So if other reviews put that down as a negative point, then i'd wager they were too lazy to play the game the way it was intended and are now out of their depths with what they have left.
+If you have read all the gibberish above, I would like to thank you for taking your time to read my thoughts. There is more to the game than I have written down here, but I don't need to make a dissertation out of it and I have faith that you get the idea of the game by looking at the pictures and watching the videos provided by the dev. I can really recommend Darkest Dungeon, provided that you can manage the above mentioned hurdles. It's not a game to relax and it can drive you up the walls, so don't play when you're already salty. ;)
+
+Posted: October 27, 2018
+For all the old D&D players out there: Darkest Dungeon is a digitally enhanced and massively prolonged interpretation of Tomb of Horrors.
+For anyone else: Darkest Dungeon is a soulcrushingly deadly dungeon crawler with absolutely fantastic gameplay, depressing art design, massive content and very polished turn-based party-of-four battles.
+One of the most (not) fun games I have played in a long while. Prepare to die a lot. Prepare to lose your most favourite characters every few missions. Prepare to watch your characters lose their minds. Prepare to abandon quests regularly. Prepare to suffer chronically from a lack of supplies, lack of equipment, lack of torches and pretty much lack of anything you would ever need to succeed in your missions.
+This game is pure bliss and at the same time the most depressing piece of software I have ever laid eyes upon. I pull my hat towards the developers for making this masterpiece.
+Posted: June 17, 2017
+"oh no, RNG screws you over! Bad game is bad"
+It also saved my ass. People tend not to notice when they get 4 crits in a row, but will when they get hit for 4 crits in a row. They won't care when they dodge 6 times, but will when the enemy dodges 6 times. The game is about minimalizing the RNG, Just note that the RNG will still be there. It is also about minimalizing the affect of a bad situation if things start going south. You can retreat from combat. You do not need to fight it out.
+Overconfidence is a slow killer that WILL get you killed in this game.
+Posted: June 20, 2017
+"The sin is not in being outmatched, but in failing to recognize it."
+"Do not ruminate on this fleeting failure - the campaign is long, and victory will come."
+Game is fun for those who like numbers, strategy, and turn-based combat. It is being hotfixed and getting adjustments to certant things regularly by the developers to make it a better experience.
+Had I gone into it blind, I may have thought that the game was unfair too. However, after watching multiple other people play this game modless on all difficulties, it is clear that skill is involved and you can improve. So with that in mind, I will continue on to improve as well.
+Thanks to these Twitch Streamers:
+Dodger @ Dexbonus for being awesome and funny, getting me interested in this game, and jealous of all the gold you aquired. (Hey Red Hook, credit goes to her. Give her a button for buying your game when she is offline!)
+Billy @ Billy1Kirby for being funny and awesome, giving tips on how to play, and making Torchless look easy.
+Posted: January 13, 2020
+Gameplay? Good
+Lore? Attractive
+Music? Dope
+Overconfidence? A slow and insidious killer
+Posted: February 22, 2021
+1) Start a campaign
+2) Get f@#&ed over by RNG
+3) RAGE QUIT
+4) Delete campaign
+5) Wait several weeks and repeat
+Posted: April 11, 2021
+I renamed all the heroes with my friends name and it didn't take long before everyone I loved had died. 10/10
+Posted: October 28, 2021
+An abusive relationship.
+You hate it sometimes,
+but you keep coming back.
+Posted: May 29, 2021
+"Remind Yourself That Overconfidence Is A Slow And Insidious Killer."
+Posted: July 5, 2015
+EARLY ACCESS REVIEW
+This is not one of those games for perfectionists. Your monument to success here is built atop a mountain of failures. And that mountain will be staggering. Your characters will die, either going down swinging valiantly or from something extremely stupid because the entire world was out to get them at that particular moment. Learn to cut and run and use the resources you gained to upgrade your various systems in town to better maintain the next batch of troops. Sometimes you're just using recruits as stepping stones to get more upgrades to maintain your main fighting force, who are still traumatized from their last incursion or who are getting their negative traits tortured out of them in a medieval sanitarium. The game is designed around this, it expects you to do this, and it will passive-aggressively chide you for doing it. You burn through more recruits than a standard game of XCOM: UFO Defense, and that's an accomplishment.
+So despite all the suffering, is the game good? Extremely. It is remarkably complex, difficult and addicting. You will almost never have an ideal scenario, so you have to learn to adapt to every scenario, learn who or what is worth investing in, and work towards that as your goal. Another body in the ground is another cobblestone on your road to success, and expect the ground to be littered with more corpses of adventurers than you will remember. To you it was the most important day in your life when you saw your companions die from a heart attack, bleed to death, and get mangled by a buzzsaw, but for me, it was Tuesday, and soon enough, it will be Tuesday for you as well.
+Grim/dark
+Posted: December 27, 2015
+I feel like I have to post a new review because all of the reviews that are pre-December, site problems that have been addressed. Red Hook released a huge bug fix and ease of use patch that was specifically designed so that players who dislike certain mechanics (like the stress for "delaying" a fight) can just turn them off. Red Hook is a company that does pay attention to the player base, the problem is that the player base is greatly divided. There is also an extremely vocal minority running a massive smear campaign on the internet, going so far as creating new steam accounts for the sole purpose of going through every positive comment and marking them unhelpful. While I don't want to get into that, if you want, you can absolutely find information about it.
+Now that the game is released, you may have seen a certain top review, I urge you to look at his time played in the last two weeks (which includes the time since the game was actually released), and notice that he has not played the game since the release, which means he cannot say whether or not the content has improved. He has been attacking the game for months, and was (as far as I can tell) initially enraged by the fact that the devs were not interested in incorporating his opinion into their artistic vision, please keep this in mind when considering your purchase.
+This game is amazing, and I've been playing since early summer. It has come incredibly far, and anyone who says otherwise is making snap judgements, or flat out lying. Darkest Dungeon has XCOM levels of difficulty. It has XCOM level "WTF" moments. Occasionally you will miss 99% chance to hit attacks, and occasionally enemies will get nigh impossible critical strings. But just like XCOM, through base building and experience, you can minimize risk and become a force to be reckoned with.
+This game is challenging, but not nearly as hard as most negative reviews would lead you to believe. Most of them say things like "The devs have been trying to remove every winning strategy" or "the game is anti-fun now", but in reality, I haven't met any players new to the game that have problems with it. This leads me to believe that throughout the development of the game, players found certain strategies that were drastically over-powered (which is why in the discussion boards, there are players that rant about the game being too easy), and the devs introduced changes which reduced the efficacy of these imbalanced strategies (which in any other game would be considered a "balance patch", but apparently in this game, people think it is intended to be "fun-killing"). One of these strategies (early on) was to get 4 of the same class, and use the exact same attack every turn until you won everything. This is no longer possible. This seems like a reasonable balance patch to me.
+I'm really disappointed that I have to write this review in this fashion. There is no reason I should be justifying the game against the recent torrent of bad reviews. This is an amazing game for anyone who likes strategy and/or Lovecraft. I have 300+ hours for a reason, you might not get that much time out of it, but for context, out of the current 3 difficulty tiers of dungeons, I didnt hit level 2 until 80ish hours. I really hope you give this game a chance.
+Edit: Due to some feedback, I would like to make something clear, this game is not XCOM. It does not have XCOM's production value or quality, and it is not worth 60 dollars. It is certainly worth it's current price tag, and buying it on sale is a no brainer.
+Release Edit: Now that the game is out, I can say that the devs really came through, they added a huge number of improvements and content with the final release. I recommend this game 100%, and it will only get better from here, as there are free content updates scheduled for the next few months.
+Posted: June 11, 2019
+Whatever that can go wrong in this game, will go wrong in this game.
+
+Posted: June 22, 2017
+You say you like hard games. You've played Dark Souls, and that's your jam. You're looking through steam titles for something new to try, and this game shows up. Let me tell you: THIS IS NOT DARK SOULS.
+I get it, you like hard games which rely on perfect timings and knowledge of the individual frames each move takes up. This isn't that sort of game. It's difficult, but it's strategically difficult. You will always have time to think over your decisions before you make them. This also means that in order to prevent there always being one perfect move, there is an element of RNG in this game. Some people enjoy it, some people hate it, some people use it as an excuse for losing. I hate to break it to you, but if you're losing you're probably making poor decisions. Just because you lowrolled an occultist heal and that caused a character to die doesn't mean you lost to RNG. Maybe you went for damage instead of throwing out a stun. Maybe you didn't bring any stuns. There are many decisions that go into every consequence in this game, and although you might think you are playing perfectly, you're probably not. I know I make mistakes quite often.
+So take a moment on this game, give it a try. Remember: an element of RNG does not mean your decisions don't matter. If you're playing correctly, you'll pull through. But you will lose characters. You will be forced to explore in the dark, as your gold runs out and stresses run high.
+If you think you play this game well but you're losing to RNG, recall these wise words: "Overconfidence is a slow and insidious killer"
+Posted: December 21, 2017
+Um... Yes.
+Yes, you're going to suffer in some way or another.
+Yes, you're going to be annoyed because it's too hard or unfair.
+And yes, you're going to love it because it's actually challenging and fun.
+Or yes, you're going to hate it if you hate turn-based party-based games.
+I thought i had it down until i got to level 5.
+I thought i had it down until i started leveling EVERY class to max level.
+Then i thought i had it down after all that, until i got into the final dungeon.
+I was wrong pretty much every time. There was always more to see, more ways to try, more ways to die.
+This game is going to make you go from :) to >:O to :D to :( and back to :) over and over.
+Bottom line is - this is a very well-made game. From artwork, to sounds and overall gameplay. But do consider starting on the easiest difficulty - it's a tiny bit more forgiving but that makes the game more tolerable. Unless you like to torture yourself, then do whatever.
+Posted: June 20, 2018
+The negative reviews are over a translation. This game is phenomenal.
+Posted: March 2, 2021
+why is there so many hentai mods for this game
+Posted: February 5, 2015
+EARLY ACCESS REVIEW
+This is a living review, I will continue to update it as my experience evolves; see comments for additional updates.
+TL; DR Overall, the game is fun and I can foresee getting many hours of solid gameplay out of it which is why I have recommended it. Be prepared to experience the consensus "cons"; which can be blisteringly frustrating in the early game. If you think those things will be enough to trump the enjoyment you would get from the things the game does well, do not purchase it.
+The most common criticisms of Darkest Dugeon are the inability to turn off combat animations, combat speed, dialogue animations causing you to be unable to interact with anything until completed, and RNG. All of these things exist in varying degrees.
+Combat animations + dialogue have the potential to draw combat out for far too long. The animations themselves, while cool, can start to feel really repetitive if you're having a bad stroke of RNG (missing a lot, despite a high chance to hit). They also are very herky-jerky (there's a zoom during an animation) that leaves me feeling like I'm rocking on a boat. If I play on an empty stomach, sometimes I feel slightly nauseous.
+The chat bubbles also leave something to be desired. They become repetitive very quickly and interupt the flow of exploration and combat. I suspect they were included to create atmosphere, but I find they actually detract from it because of how herky-jerky they become - this causes your immersion to be regularly broken up/halted. This is typically only an issue if your party is afflicted by negative quirks or your torchlight is dimming. Characters become more talkative when things are going poorly.
+RNG. I originally wrote that I didn't find this particularly irritating and chalked up the experience to most people just being unfamiliar with game mechanics (IE Chance to Hit, Resistances, etc). I've chosen to recant that. RNG is crippling, but only in the early game. Darkest Dungeon's biggest problem, in my opinion, is the early vs late game balance. Early on, resources are tight. You don't have a ton of gold that can afford you to recoup your losses if you have to abandon a mission. You don't have a town that has been upgraded to reduce the cost of removing negative quirks/high stress levels. Due to this, you often feel overwhelmed - particularly if you have a bad stroke of RNG (IE. You get crit multiple times early in a dungeon, multiple characters have very high stress levels from it, etc). Later in the game, once you've upgraded your town some, prices aren't has crippling (maybe 750-1000 gold instead of 1500) AND you're getting more money from missions. In addition, you might be able to remove quirks from 2 characters at a time, instead of just one. As the game progresses, you almost start to feel overpowered - not in the traditional sense, as things can still go terribly wrong, but when compared to your early experience where EVERY thing feels stressful.
+Getting crit increases stress by 15-20. Landing a crit reduces stress by 5-10. Therein lies many of the inherent problems in every facet of this game. When something goes wrong it is always nearly TWICE as punishing as the beneficial aspect of something going right.
+My personal biggest qualm has to be the lack of an easy way to discern combat attack order. There exists a "SPD" stat, which I assume is speed and I also assume determines attack order. Rifling through each monsters' stat in an effort to figure out what will be attacking when is not an intuitive, efficient, or easy system. It also feels like the order isn't static, as the encounter progresses the same monster isn't always attacking in the same spot (or so it seems - I could be incorrect in this claim). The reason this is problematic is because it forces you to pay astronomically close attention/have an excellent memory of when something attacked to determine whether you should disable (stun) or gamble for a kill (powerful regular attack). This becomes further complicated when trying to "combo" attacks. IE. Stun with a character so another class that has an attack with a dmg increase against stunned targets can eliminate it. Since combat positioning matters, if I stun, then my character gets pushed into a different position, and the new position renders me unable to use my bonus dmg against stunned targets attack, I have essentially wasted that initial action.
+Beyond some of these troubling mechanics, most of which I foresee being tweaked to be less punishing/better tuned, the game has some very neat features. Stress, while annoying to some, was a big selling point for me. I would like to see stress become more balanced around fight/flight. What I mean by that is, currently, it feels like the vast majority of stress mechanics are negative. Indeed, I would say upwards of 80% of the time my characters have become stressed they have suffered negative mechanics as opposed to positive. I would like to see this number brought closer to 50/50. Not to get too invested in "real life" comparisons, since this game is hardly reminscent of "real life", but stress serves a pretty strong evolutionary purpose and definitely is not something that is 80% negative (even if it has been shown to reduce your life span). The same could be said of what happens when you "gamble" on opening chests/sarcophagus. It feels, more often than not, like this is a greater risk than potential reward.
+Combat positioning and class synergy are very cool. Unfortunately, I don't think they are explained in a proficient way for new players which leaves one floundering in the dark for quite some time. This type of trial and error experience feels a little bit exhausting. Perhaps the addition of a tutorial or "practice" mode that has some examples of "combos" would be helpful. IE. a guide that says, "Try using class X ability Y following using class Z ability T".
+The town is also neat. The availability of upgrades makes it highly customizable and meaningful. Much like the class system and synergy, though, it can feel quite confusing and overwhelming. Resources are definitely finite early on and with so many different options and features to upgrade, I have often felt at a bit of a loss. Discerning what is important in the early game versus what can be ignored until resources start to become plentiful in the late game is extremely difficult.
+I've heard some argue that upgrading character abilities and weapons/armor doesn't feel worth it for the cost. I whole-heartedly disagree. Upgrades are ABSOLUTELY worth it. Sure, your damage doesn't go up astronomically, but your accuracy does. Accuracy, to me, is probably the most important stat. Also, they aren't that pricey as long as you invest in reducing cost - something that I think people aren't doing.
+Class balance could be improved. There are a few classes that just feel worthless when compared to their counterparts. I think both Plague Doctor and Leper are worthless. Jester, other than people abusing their "stress heal" mechanic, leaves a lot to be desired as well.
+Ultimately, this game is really about two phases of gameplay. Early game is soul-crushing and you feel like a victim to every mechanic. When I read negative reviews, I can see why people are frustrated. Early game can be THAT frustrating. Frustrating to the point of wanting to smash your keyboard against the wall. Most of these things are resolved by mid-late game, though. If you survive early game, Darkest Dungeon opens up and becomes incredibly fun. My hope is we will see some tuning regarding early versus late game. I suspect we will.
+If you don't think early game will be too frustrating or are willing to soldier through that frustration, pick up Darkest Dungeon. The game is done remarkably well and, despite being in an older genre, has a lot of innovation which makes it stand out from its peers.
+Posted: April 3, 2023
+Remind yourself that overconfidence is a slow and insidious killer.
+Posted: February 20, 2021
+This game killed all my guys, gave negative quirks to the lucky few who didn't die, shaved 20 years off my life due to the stress from the game, and made me lose all my gold
+10/10
+Posted: March 27, 2022
+It's a hard, skill based game with a bit of RNG, you'll like it if you're into tactical turn based games with dark fantasy Lovecraftian setting.
+PROS
+- Great narrator
+- Lots of enemies, different maps with a variation of everything from scenery, interactibles, to dungeon music
+- Bosses - each location has its own set of bosses with mechanics for all of them, they're not just reskinned and copy-pasted bullet sponges. There's also a few hidden optional bosses and minibosses that may appear in the dungeon if you fullfill certain conditions, even the ones that you'd not expect to actually matter...
+- Amazing DLC's that expand the game and add new mechanics, items, enemies, locations, so on...
+- Random events each ''week'' (so after you finish a game in a dungeon) that can influence the gameplay by e.g. blocking an activity or making committing to a certain thing more lucrative in the long run.
+- Classes - in the base game there are 16 classes, each with unique skills and specific roles for them, there are 2 additional classes that come with/as DLC and they fill their own niche quite nicely and aren't a copy pasted reskin
+- Steam workshop - there's a lot of dedicated artists and talented modders working on this game and creating amazing content, keep in mind that most of it was made by horny bastards and if you take a look at the workshop page you'll know what I mean...
+CONS
+- I read a book and got syphilis
+- I had a character suffer a mental breakdown in the dungeon from stress, to help him with it I've sent him to a brothel for some fun, f#cker went on a shag#ng spree for 3 weeks and refused to do anything else
+Posted: November 4, 2021
+Put the torch on the eldritch alter for infinite money.
+Posted: December 29, 2022
+Don't make the same mistake as the rest of us, remind yourself that overconfidence is a slow and insidious killer.
+Posted: May 31, 2015
+EARLY ACCESS REVIEW
+Imagine being stuck in a car for a fourteen hour drive. With three people you hate. While every other driver on the road is either drunk or deliberately trying to run you off the road. And you only have one sandwich left. And no head lights. Thats basically what the first few missions feel like. After that, it only gets harder because your driver has been blighted, your navigator was killed, and the other guy ate the sandwich because he had been driven insane. Eventually, after replacing a few people, you get to the point where, after a few pit stops, you manage to get rid of them and youre happily riding along with great people, and you think nothing bad is going to happen because youve got the perfect group of passengers. Then an eightteen-wheeler smashes your car killing all of you. Thats basically how this game plays. 10/10 would make that drive again.
+Posted: January 14, 2018
+You will download this game, eager to unlock its secrets.
+You will begin a new game, on the "Easy" or "Normal" difficulty, expecting to figure the game out quickly, as with most other games.
+You will finish the tutorial, eager to fill out your ranks and begin pillaging the dungeons.
+You will find the Hamlet, with a surprising lack of things to do, exclamation points show you the way, for a time...
+You will learn your basic colors; Red = Hard, Green = Easy.
+You will dash through your first dungeon, triumphant but not unscathed; your heroes fatigued and only 2 to replace them.
+You will have to make tough decisions, what to upgrade, and whom to send out.
+You will send them to their graves, one by one.
+You will be driven down, just as the survivors.
+You will feel the horrors of the underdark as they do.
+But you will learn.
+You will learn, and soon full parties make their way home, loot in tow.
+You will recover, one by one, the heirlooms and writings of your perished family.
+You will rebuild the hamlet, piece by peace.
+You will mend the minds of the distraught and cure the ales of the diseased.
+You will erect halls filled by the joys of human company, and monuments to your triumph alongside them.
+You will strategise, and soon not even the darkest horrors may withstand you.
+You will cast down the agents of evil, one by one.
+You will reclaim your home, the hamlet of a once noble estate.
+And when you climb to that peak, on the steps paved by the fallen, on the cusp of vengeance, justice, and retribution,
+You will win.
+Posted: May 22, 2015
+EARLY ACCESS REVIEW
+This game is the most frustrating, aggravating, infuriating game I have ever played. It is stacked against you. You will lose characters you spent time and gold building up, you will quit in anger, you will feel like the game will not allow you to win.
+It's fantastic.
+The whole point of the game is to see these psychological effects dungeon crawling and fighting terrors from beyond the grave would have on normal people, and it drags you down with it too. This game gets into your head and messes with you.
+I'll be trying it again tomorrow.
+Posted: February 8, 2017
+DD has something that is missing from the current generation of sandbox style games - a really satisfying loop. Off to the depths with your party to kill some monsters, grab some loot, get sick, go insane, and stress out, then back to town to recover, heal, relax and level. The town portion has a relaxed sports management game vibe, while the dungeon crawls can be tense and challenging. Each phase is short enough though that there's always interesting strategic decisions to make.
+Unlike XCom style games though, even a party wipe doesn't crush your progress, because there's always more characters on the development mill. Sooner or later something WILL go wrong - that's RNG. ;) It is a grind, but a fun interesting grind which ensures you shift focus at regular intervals, and it is nice to play a game full of neurotic characters who's best option may well be to run away to fight another day. For the first hour it will punish you and you will hate it, but soon morbid fascination will seduce you to its bleak and withering charms. :)
+Edit: Ps. If you don't like games with punishing RNG (e.g, you hate Blood Bowl), you don't like games with strict loops (eg. Stardew Valley) or get bored with procedurally generated Rogue inspired games then you won't like this.
+Posted: December 6, 2021
+By no means am I saying this is a bad game by posting this review. It's a great game, for the right person. But I've come to the conclusion that it really isn't for me, and I want to warn you just in case it's not for you either.
+I've been so hooked all this time by the fantastic art style, the wonderful narration, and overall the genuine perfection of how this game captures the feelings it sets out to evoke: desperation, dismay, triumph and heartbreak.
+But after yet another night of realising I've been playing the game for hours, forgetting my household chores and grinding my teeth as my party is beat into a pulp after the real-world hours I have poured into them, I've come to the conclusion that I am wasting my time on this game. I can "waste" hours on other games and come away feeling fulfilled - I might have experienced a great story, or engaged myself in some other way.
+I come away from Darkest Dungeon tired and angry, resentful and unhappy. It's not a hard game, I understand it well enough to play it just fine. But as a consequence of its intent - to convey this lovecraftian nightmare of dark fantasy through game mechanics - it, by necessity, endlessly resists your attempts to beat it.
+Some people are going to find that incredibly fun. They aren't wrong. But if you're like me, and you want to come away from playing a game satisfied... don't choose this one.
+Posted: June 24, 2021
+Darkest Dungeon is one of those rare games I buy reluctantly on sale and later wish I had paid more for it.
+It's a game that players will either love or hate, generally citing the same reasons, neither party being incorrect.
+Obviously I'm of the "love it" party, but any pro for one person may be a con for another with this game.
+I was skeptical about the game and put off playing it for quite a long time, but eventually picked it up and found it wasn't half as harsh as its reputation would suggest(until it is), while being every bit as gratifying as I'd heard.
+The game is actually far more casual than I'd expected. Not exactly inviting to a casual audience, but while fights are brutal and can turn on their head with a single bad idea or coin flip, almost nothing is a permanent loss. Despite often being regarded as a "rogue-like", there is no fail state unless you're playing on the hardest difficulty(don't, it's for loonies). Losing battles can be abandoned, recovered from and attempted later. Lost equipment can be reclaimed. Lost heroes can be replaced, but never forgotten.
+Like any moderately difficult game, failure is an important part of success, and as such you probably need a good sense of humor about cascade failure and getting screwed over to properly enjoy this game.
+Over time you'll form strategies to effectively counter the painful RNG.
+RNG is present in most any RPG, but in most cases it's fairly easy to ignore.
+In Darkest Dungeon, it's an emotional rollercoaster and one of the greatest dividers of opinion, because combat is fast(as a turn-based game can be) and harsh, victory never assured even with the best odds.
+The game tells you right away that it's about making the best of bad situations, and that is it exactly.
+There is no describing the feeling of missing an 80% accuracy swing for the third turn in a row, being crit'ed to 0 HP(not death, by the way) and for the healer to then crit heal for 0 HP.
+Leper and Occultist for life.
+Personally this makes the game for me.
+This is far from being the kind of RNG where you just hit the same button repeatedly until it works. Strategy is very important and very satisfying. The game is long and repetitive, however, and this controlled chaos means that fighting the same enemies with the same party for the fiftieth time could result in any number of wild cards demanding improvisation.
+On that note, the other divisive part of the game is grindiness.
+I actually don't regard it as very grindy, though it's probably a mentality thing.
+I hate grind. I have finished a whopping one JRPG in my life because of it.
+The difference here is that the combat is the whole point of Darkest Dungeon, whatever progress that comes with it being a secondary motivator. Most of the time I hardly care if I get the items I need for the thing or whatever, and just want to do another run to see how this new formation holds up in different situations.
+It is far from succinct, though. A full playthrough on the standard difficulty can easily take over 100 weeks(1 quest = 1 week) if you take your time with learning and building up resources.
+Sound is also worth a mention.
+The music and narrator can get slightly old over time, being a little dramatic for situations that grow increasingly familiar, but that time sure doesn't come fast.
+The music is distinctive and heightens the anxiety when the going gets rough, my favorite part being that it changes, growing louder and with new sounds mixed in as your torch starts to go out.
+The narrator, voiced by Wayne June, is unforgettable. He's done a lot of good work on audiobooks, including Lovecraft stories, and he brought all that good juice in for his deliveries of the strange and dire lines about mortality and cosmic horrors.
+Dumb footnote, but it probably improved my opinion a bit that it's a game from this decade that I can run on my trash laptop.
+It's very light on requirements.
+tl;dr(wouldn't blame you, pardon the rambles)
+Very recommended, but consider what you're personally willing to put up with.
+Posted: December 29, 2020
+D&D with depression
+Posted: February 20, 2019
+Remind yourself that overconfidence is a slow and insidious killer.
+Posted: March 26, 2018
+Year 2018 resolution; review for each game completed!
+What's there to love?
++Plenty of ways to die aside from the monsters; the mechanism/idea is evil. PURE evil. Your heroes can and WILL die from wonderful life-like reason such as starvation, stressed till madness/heart-attack, and even just for attempting to clear an obstacle. They even give you achievements for it lol.
++Plenty to play for; variety of hero classes, monster bosses that you gotta grind the level for, treasures/loot to improve/save the town and team, last dungeon that will slaughter you a lot till you learn).
++The narration/voice acting is just perfect (even if it is at night and you have two babies sleeping like mine, don't tur on the screen-blocking subtitles).
++Tactical (almost each step forces you to consider if it is wise to continue) and I had to consider who/what to bring, what to do, and how to fight for every single quest/dungeon run. There's always a pro and con to each item/hero/move, choose wisely or the cemetary will get larger.
++Story is decent albeit short unless you concentrate on what narrator is talking all the time; I actually was interested enough to go read up the story to understand more on the ancestor and narrator.
+What's there to hate?
+-DAMNED RNG. I know you can plan for ♥♥♥♥ but RNG lords can always throw a frigging wrench to your plans. One missed attack = one dead hero/party. It happens, and you gotta learn to live with it else you will rage often *pray that your virtue holds lol*.
+-At times (often in my case) requires checking guide and ideas online on how to work through certain bosses. It is do-able to skip it and learn based on tips and experience but if you love your team as much as I do, to hell with dignity muahahaha.
+-Grinding...to make it worse, once you sent your best against Darkest Dungeon, they get stressed to go again (on higher difficulty, they don't even agree to go back). While you can still use them, you just lost probably your best team and I hope you have a good back-up team in mind already. Cause I didn't. ?@!#$%&*!?!
+-Reversing to clear other areas will be a pain in the arse as it forces you to reverse the all over the map at times.
+Summary:
+*Allows you to play at your own pace (you don't move, they won't too - perfect if you need to run around IRL).
+*Well-worth the money and time especially when you finally reached the last dungeon despite how bloody painful it was. That one moment of glory; priceless.
+*Must have time and patience for this too else don't bother. RNG lords will torture you and if stuff like missing 5 times in a row is not acceptable, don't stress yourself over this game, move on.
+Posted: April 17, 2018
+First of all, I must say this: after my one and only full run (all bosses, DD quests completed, no DLCs) in the Darkest (Normal) difficulty at week 110, the game is really not as hard as people make it out to be. It's mostly a resource-management game, where your resources are your heroes and your cash. The game was created to make you struggle on keeping them both in the positive, thus more than half of the experience is planning ahead, measuring the risk and the potential reward, then deciding if it's worth it.
+This isn't a deep, turn-based RPG where you create a party and build them in dozens of different ways to overcome anything. Your options are limited, your heroes have very powerful strengths but most of these are very situational, and that's the weakness everyone shares in this game along with stress. And yes, I also mean you, the player.
+You will want to retreat to a safe spot. You will create a party that you think can overcome anything and once you do it, you'll want to stick with it. And in so doing, you'll lose sight of the reality of your situation. And disaster will come with it. And if you look everywhere and everyone to blame for your misdoings, then you'll be doomed to repeat your mistakes. And when you keep doing them, at one point you'll probably come here, leave a negative review justifying your short-sightedness by blaming the RNG and never, ever touch this great game again.
+To succeed, you need experience. It will give you the knowledge to know which heroes work best in all dungeons, which work best in the Darkest Dungeon quests and which work best for certain bosses. It can only come by making risks that will drive your party to an early grave or succeeding by a breath's hair, then trying again. You can read guides to see which combinations work where, what tools for which dungeon, etc. The wiki is extremely generous in this regard. The RNG *will* ruin you and bring you to the verge of mental collapse because it's supposed to. Plans aren't perfect, everything can go south real fast and you need to have a contingency plan and adapt or forfeit the fight. If you continue to fight against the odds, then don't act surprised that the game tires you when you lost one-too-many heroes due to your decisions.
+Take it slow, have patience. You can come back, do it all over again. Failure is an option, but you decide how big of a consequence it will have on you. Your enemies are powerful, ruthless, merciless and fight on familiar grounds. So become all of that, re-discover your heritage and use your collected wisdom to adapt to the situation. Steel yourself, think nothing of defeat, or lose all hope at the sight of the endless onslaught brought forth by the horrifying nightmares... of the Darkest Dungeon.
+Posted: May 25, 2022
+Don't really like the fact that you instantly win the game when you put the torch in the red altar, due to the ridiculous loot it gives you. Other than that great game.
+Posted: November 10, 2017
+reading all the reviews on this game i feel like i should write my own. People have commented on the RNG of the game, how the deck feels stacked against you and how your adventurers don't feel like 'heroes' but skittering madmen and how quickly things can get out of control and the grind of recovering your loses. Yes the game 'can' get grindy at times and yes there are times when an encounter will scale so far out of control and you lose some or all adventurers, but despite what some might think this is the minority and most times it is players gambling or pushing their luck.
+Darkest dungeon is set almost like in a lovecraftian story, its not about heroes fighitng monsters and smiting their way to victory, it is about clawing and scrambling in an attempt to win a losing battle. The characters or adventures you hire aren't heroes, they are the dredges of the world who are either suicidal or mad enough to venture in. The first time you play you will be blind and as such you will be beaten many times, the bosses in particular are terrifying not so much because they hit hard or have a lot of health (though it doesn't help), but because the way they act or behave is so different to what you have expereinced previously in the game. You will lose characters in this game (it says it right on the box when the game loads), but you learn from your mistakes and you come back with the knowledge of your failed attempts and you succeed and that i think is one of the true enjoyments of the darkest dungeon. Its about surviving the dungeons long enough to find what holds and to exploit your foes with your new knowledge. Its like a combination of Dark souls and the game Risk, the game isn't unfair it's just not lenient and a large portion is simply knowing when to cut your losses and retreat from a dungeon instead of losing characters.
+For those interested but concerend about the reviews concerning grinding or mechanics/difficulty, the game allows you to change and adjust many of its aspects. Radiant mode keeps the difficulty which speeds up adventurer XP gain, reduces gold costs and many other changes which act to reduce the grind as well as slaken some of their strict rules and in the options menu you can change other aspects as well and craft it to how you wish to play the game. Its only on the harder difficulty settings when you are forced to play by the designers rules and even then i find it more enjoyable because it adds a sense of urgency by placing you under a timer (limits how many adventures you can go on and how many adventurers can die) and makes you have to deal with unfavorable circumstances while in the other difficulty settings there is no timer and you simply need time to recover from ANY situation. This game is not for everyone and that is fine, but with the different modes, the ability to customise some mechanics you can tune it to how you wish to enjoy it. This game has always been a 10/10 for me and the Crimson Court DLC made it an easy 12/10.
+Posted: March 16, 2022
+This game will teach you 3 things:
+Patience; what it truly feels like to lose an old companion for good; and - most importantly - THAT OVERCONFIDENCE IS A SLOW AND INSIDIOUS KILLER.
+Posted: September 20, 2019
+Overconfidence is a slow and insidious killer
+Posted: March 13, 2023
+These creatures can be felled, they can be beaten!
+Posted: June 20, 2017
+I'm going to recommend this game, but it does come with caveats. If you're the sort of person who cannot handle loss of any kind, who decries their every death in a game as ♥♥♥♥♥♥♥♥, you may find this a little testing. But stick with it, learn to take a hit, and you'll find a pretty nice and cheaply priced game with fantastic aesthetics, tense duels, and a tale behind every hero.
+This is a game dripping with atmosphere, the narrator grimly pronouncing the doom your heroes are charging towards, every inch of dungeon tinged with malice, and every treasure you find a possible liability down the line. The art style is fantastic, rolling with a grim aesthetic to support the grim tasks you assign to the men and women who are drawn to your banner.
+The biggest issue people have with the gameplay is the RNG, but I would argue that this is misplaced. The larger issue is a lack of player agency. I’m a big fan of XCOM, and it works well as a comparison. When I play XCOM, I am given a huge amount of choices, from where to position, who to move first, which alien to target primarily, which cover to destroy, whether to get in close and shock the enemies into incompetence or to force the enemies to move to me and wear them down in a long-range engagement. In Darkest Dungeon, my options are far more limited. Each character can only have 4 abilities at any time, and it’s a lucky day when all four are available for use. And equally, the path most likely to succeed is rarely difficult to figure out. This isn’t an easy problem to fix; it’s a structural issue with the gameplay. But the limited options make it far easier for people to believe that they were simply screwed over by RNG. With more experience and time spent on a campaign, your options become more based on preparation for a mission, how much money you are willing to spend to upgrade your heroes, and which trinkets you are willing to risk to provide them with an extra edge. Even so, tactically the game degenerates into pure dice-rolling more than most would like.
+This level of RNG can be enjoyable in its own way, if you choose to interpret it as individual's heroes performance. There'll always be the one front-line brawler who always crits when it's time to get serious, or a healer who insists on rolling low and sabotaging your run from the inside. There's always going to be the beaten occultist, focused down by every enemy, who finally hits 100 stress but chooses to stand tall in the face of adversity, and inspires the party to drive the beasts back. But still, for those less narratively inclined, the feeling of a run being doomed by simple chance is a hard thing to simply take in stride.
+Still, the game doesn’t suffer greatly for that flaw. The game is not about coming home alive every week. The one resource you cannot exhaust is fresh meat to grind against the darkness, so a death is practically part and parcel of scratching your way through the game. In fact, in one campaign that has been remarkably devoid of deaths, I have found it difficult to make room for all the new blood I needed to conquer earlier bosses. Just remember that any losses you take are no more than temporary setbacks, and there will always be more travellers ready to carry the torch further. If you pick up this game, one thing I would suggest is picking up the expanded roster mod at some point. I don’t think the roster has been expanded to handle the new classes that have been added over the game’s life, and a somewhat frustrating feature is that characters will refuse to enter lower-levelled content. It'll technically make the game slightly easier, but I'd say the trade-off is worth it to give you the ability to choose the quest you go on.
+Good luck and enjoyment to all those who choose to buy the game. In radiance, may you find victory.
+Posted: January 17
+Overconfidence is a slow and insidious killer
+Posted: January 24
+I picked up a game to help rid me of stress after work. It did not work. 10/10
+Posted: June 19, 2017
+Reviewers blaming this game's RNG for their failures is frankly embarrassing... especially when they say "the game is not hard, but the RNG is unfair." RNG management is the game. It's like saying "golf isn't a hard game, but it's unfair that I'm expected to get the ball in the cup."
+Darkest Dungeon is a great game; don't let people who are bad at adapting and/or assessing their skill level deter you from getting it. I'm no slouch at these kinds of games, but I've had zero full party wipes in 150+ hours, and one-shotted the final two dungeons going in blind on my first playthrough. In short: "These nightmarish creatures can be felled! They can be beaten!"
+Posted: June 27, 2017
+Darkest Dungeon is a perfect title for this game, and not just because of the torch mechanic with in it. This game is dark because of the invetitable end that your characters will meet, and because of the very well illustrated miserable enemies that dwell in the dungeons.
+This game is not for the faintest of heart and it will test your will to succeed in the Hamlet that acts as a 'base' where you can recruit & replace new champions to fight for you, send your champions to relax at a brothel or spend time in a sanitarium, and it's also where you can upgrade armor and champion skills.
+Hard is the name of this game and if you don't like games that can sometimes seem impossible it is not a buy for you, but if you like a bleak atmosphere, inescapable death, dreary music, and a narrarator that sounds like the announce from Disneyland's Haunted Mansion then it's a must buy.
+Posted: February 10, 2017
+Ah.. Darkest Dungeon... I kept myself from writing a review until I was able to finish the whole game. And now that I finally did it, im ready for this. The question is: are you?
+There's a lot to discuss about this piece. You maybe ask yourself : why so much negative reviews about with 100+ hours of gameplay? There is a clear answer (if you haven't read the other reviews, of course) but I'll explain it later. This is gonna be long, I can feel it. Take a cup of coffee and take your time to digest all the information im gonna give you:
+>Atmosphere
+Surely the most interesting point of the game. The art style, as you can clearly see is amazing, fabulous. I could even marry it. The characters, environments and enemies are pieces of art incredibly well done. Music rocks too. Narrator is so cool.
+>Before going into the combats themselves, I'm concerned I should explain what's everything about in a short way: old rich man living in a town, wow such hookers and alcohol everything is amazing but oh wait my mansion has some kind of dark sorcery stuff better waste all my money in expeditions to find what's all this about. Oh monsters I could never expect this etc etc etc so now the man is broken and needs the help of weirdos that come to the town with the promise of money (more or less like mercenaries, as I see it). Got it? Yep that explanation sucks. But the lore is cool and is better to discover while playing.
+>In Darkest Dungeon City Simulator 2420 you have some buildings that must be upgraded in order to be useful. It will take a long to have the Town at its fullest but you know, take it easy. Everytime you do a mission with a party a week passes in the game, and between weeks you can prepare the next expeditions, upgrade buildings, check the lore or cry for the hero "Trump420blazeit" that you lost in the last mission.
+>RNG: means Random Number Generator, and can be your best friend or worse than Hitler forcing you to eat broccoli. Basically im talking about luck. Darkest Dungeon depends a lot on RNG, is one of the points that people seems to complain about more. I agree with them, because at a certain point of the game your skill does not matter as far as It should. Pray at your god, will be more effective.
+>Combats are very well executed and give you the feeling of the battle, but I would like to point the STRESS. It's gonna be your worst nightmare. Your dear ''heroes'' will suffer it a lot when fighting, and when the number reachs 100, you're f****d because it triggers an event. This implies your hero getting totally mad or emerging victorious and becoming the hero of the heroes. Much luck involved again. However, watching your hero becoming the boss of the world among the chaos of the battlefield is amazing. But if he gets mad, he will refuse to be healed or swap position with others, so get ready for the worse. Maybe it sounds obvious, but if a hero dies we won't be able to fight more. Can't bring him to a Pokémon Center, you know. Anyway if you're lucky there's some events in town that could... Help you.
+> I Tend to call them heroes but they aren't. This is important. They can die. Anytime. Even from a crit of the weakest enemy of the game. But more will come, and after losing your most loved characters a few times you will understand what's all this about. This is about decisions. Every one counts, and can make you achieve a precious victory or lose your entire party when the boss is at 5 hp. Consider when to play safe or take risks, because Darkest Dungeon is excellent at one thing: making you regret your mistakes. (Oh, I still miss Carlos IV).
+>Bosses: of course a game of this class must have bosses! Every boss appears 3 times, so you have to beat it in aprentice, veteran and champion. Champion is the real ♥♥♥♥ and I have to take several pills in order to talk about it without crying, full detail later. (This review is starting to lose the point but I'm actually enjoying it). As I was saying, bosses are extremely difficult without preparation and knowledge about them, so It's on you if checking guides or not. I won't blame you. Nobody will because we all did it after losing an entire party vs the Brigade Pounder ( ͡° ͜ʖ ͡°) But anyway they are very rewarding, in loot and in the feeling of victory.
+>Curios: basically furniture and stuff that can be interacted with objects, and can give lots of cash or bleed/blight/diseases/etc If you risk touching them without protection. I suggest checking the wiki in order to not waste many resources, as they are very limited.
+>As i pointed a moment ago, the quests of Champion difficulty are crearly unbalanced. Enemies have sick amounts of dodge and critical %, and minibosses appear very often in the rooms you explore. In these missions is where RNG shines a lot, and if you didn't take interest in understanding how curios and positioning works you'll fail miserably. Or not. Who knows?
+NOW LET'S FACE THE REAL ♥♥♥♥
+YOU THOUGHT PEOPLE ONLY COMPLAIN ABOUT RNG? OOH POOR FOOL
+Only if you're ready I'll proceed to explain what made me hate the game as much as I love it.
+>The fact is... Well... The last scenario is the Darkest Dungeon (no spoilers, chill) and consists of 3 missions + the final boss itself. To complete this missions you'll need to farm a lot. But a lot. I mean send parties and parties of low level just to get loot, die and be replaced to use this money to enforce the best members of the roaster. Because you'll spend an indecent quantity of money in replacing quirks, curing diseases, upgrading armors and weapons and curing stress. Then you'll have an entire party at It's maximum and all of them will die in the mission of the last scenario :D Because this is it huahauah I'm not even mad but It happened to me and FeelsBadMan it hurted more than my father's belt.
+> I completed the game (including all the bosses) in 280 weeks aprox, but I took my time. The most sick players do it in like 22 weeks but trust me is a suicide. Just take your time and enjoy the game. There's no rush and It's hard to get used of it.
+>The developers seem to take care of their game, because are nowadays upgrading free content, events, new quirks and even enemies. The patch had some major bugs and were fixed in less than an hour so hey! I appreciate that. On the other hand, a DLC is coming soon and still can't tell much about it. For now I only know I'll go back to Stardew Valley in a journey to forget everything I saw in Darkest Dungeon. Too much feels, too much emotions.
+>For now, this is It. I don't know if someone will even reach this point of the review but if you did thanks for reading! Hope it helped you. I completely recommend the game if you're looking for a challenge in your Steam library. Even after all the bad moments Darkest Dungeon gave to me, I'm still gonna hit the ''Yes'' button of recommendation.
+"Sucess so clearly in view... Or is it merely a trick of the light?"
+Edit: wow guys thx for the good comments :) You all are awesome with this positive feedback!
+I'm today running a reviews website, so any time you want to spare with it it's greatly welcome!
+https://grindtowinreviews.wordpress.com/
+Cheers!
+Posted: October 17, 2022
+Remind yourself that overconfidence is a slow and insidious killer.
+Posted: March 28, 2015
+EARLY ACCESS REVIEW
+This game is a lot of fun. The graphical style is awesome and the music, ambient sound and narrator dialogue are all near perfect. But what I love about this game is that it feels like a finished game, and for an early access game that is a great achievement. It manages to deliver a polished, playable and (above all else) fun gaming experience. Big game publishers should take note: This game is in a better state than many triple A titles are at release. And it is early access!
+This is how early access should be done. See my full review :
+YouTube™ Video:  
+Views: 0
+Posted: November 27, 2020
+Lovecraft would approve
+The term 'Lovecraftian' gets bandied arouund a lot these days but this is one of the few that touches on the sheer essence of Lovecraftian Horror. This games will twist even the noblest mindset into a cold, calculating fiend.
+The game is a Rogue-lit dungeon crawler with a rather basic set up. YOu recruit heroes, send them into dungeons on mission and hope they survive. The missions and layouts of the dungeons are more or less randomized as are their contents. Death is permanent. And that will be counted as a mercy.
+The unique mechanic of this game is the Stress (not sanity) meter, the afflictions/virtues, and quirks. Mental health is just as important as physical health and as your heroes areexposed to the terrible eldrich horros and abominations that make mockery of flesh and form, they will slowly but surely go insane. Once a hero takes a certain amount of stress damage they will become afflicted by varuiouus conditions. This can have varying effects from causing erratic statuses, actions, and in somecases causing them to attack other heroes.
+After missions your heroes will develop quirks. Some beneficial that ad bonuses, but most will be negative that make heroes weaker. The more missions a hero goes on the more experience and levels they gains but also the more of these quirks they pick up. Stress and these quirks can be treated of course, for a hefty fee.
+Tough choices will have to be made.
+One of the best things is that the devs do regullarly return to add new content. Teh most recent being the Butcher CIrcus which adds PVP.
+The Good
+Unique artstyle befiting a graphic novel, or motion comic.
+Challenging gameplay base less around mastery and more about making the best of horrible situations.
+Satisfyingly strategic Combat
+Atmospheric Dread, and despair reinforced by the mechanics.
+An active and talented Mod community along with a load of interesting workshop content to spice up your game.
+Devs still tweaking and adding stuuff.
+The Bad
+Gameplay can feel repetitive after a while.
+Game can be ruthlessly unfair at times.
+The Horror...
+The narration is Elder God-tier
+Conclusion
+The game is solid, well made and while not perfect will scratch that Lovecraft itch perfectly. Its a shining example of what happens when the Aesthetics, The Narrattive, and Mechanics of a game all work to enhance and reinforce the over arching Themes. The world of the game feels more alive than many Open world slogs out there and I highly recommend this. Even if you're not a lovecraft fan, even if you're not a horro fan, this game will likely have something tto keep you coming back.
+Posted: May 6, 2020
+yea good game
+Occultist: *heals 0*
+*heals 1*
+*heals 0 with bleed*
+I let my Occultist die of heart attack after that
+Posted: December 4, 2022
+Remind yourself that overconfidence is a slow, and insidious killer.
+Posted: April 22, 2016
+A Realm of Death and Madness
+After a successful battle the haunting voice of the narrator of Darkest Dungeon speaks to me, stating that “overconfidence is a slow and insidious killer”. Before I might have shrugged this off, assuming it was simply clever writing done to help set an ominous tone. But I’ve played enough of this game to know that this is more than just a line, it’s a warning.
+Darkest Dungeon is a fantastically illustrated roguelike dungeon crawler with a sense of style unlike any game I’ve ever seen before. The gothic-inspired visuals are extremely appealing and are paired perfectly with a haunting soundtrack as well as one of the best narrating voices I’ve ever heard in a game. Beyond this impeccable atmosphere and great writing there lies a game that is incredibly fun and addicting.
+Gameplay
+The premise of the game is simple; you have inherited the estate of a deceased relative and now must enlist the aid of various adventurers to help you explore the dungeons that lie below your land. In order to do so you must build up a network of these heroes and send them into the dungeons, four at a time, to complete various tasks. Achieving the quest at hand requires a bit of thought as you must take into account various aspects which your success hinges on. This includes your heroes, their mental and physical well-being, their equipment, and the supplies they are carrying to help aid them and keep them alive.
+There are a variety of classes of heroes to choose from, each with their own unique abilities that bring a different advantage to your group. Your heroes travel through the dungeon in a line, and their placement in that line dictates what abilities they can use and what positions they can attack in the enemy’s line. You must ensure that you are using heroes that are best suited for the dungeon and/or boss you are about to face and have them arranged in a way where their abilities will not be hindered.
+Perhaps the most important aspect of Darkest Dungeon is the affliction system, which dictates the psychological state of your heroes. Every hero has a stress bar which displays their current stress level. If their stress level gets too high, they will respond physically to their emotional state. In rare cases this might actually give them a bonus, but in most cases it will cause a penalty which will negatively affect your chances of making it out of the dungeon alive. The stress system is not something to be ignored, and doing so will cause you to witness your otherwise healthy heroes to suffer heart attacks and die before your eyes.
+Preparation is Key
+Before even setting foot in a dungeon you must go through the provisions screen, where you will have the option to buy items to aid your heroes in that dungeon. It is important to pay attention to what dungeon you are going into; as certain dungeons will contain enemies that focus on a particular type of damage. By paying attention to these things you can better equip your heroes with supplies that will prove useful while saving your hard earned gold. It is worth noting that the items bought here do not carry over if you are left with a surplus at the end of the dungeon. This might be an annoyance to some, but I think it adds a bit more strategy to the game as it forces you to find a balance in how you handle your money.
+A Difficult Journey
+With the game saving automatically as you go along, there’s no ability to fall back on save-scumming to avoid disastrous situations. A mistake in planning can prove to be fatal, causing you to lose not only your heroes that you spent precious time leveling, but also the rare trinkets you had them equipped with. In order to avoid this heartache you will likely find yourself consulting outside sources for information about the boss you are about to face. Making an effort to think ahead and plan can help get you through some of the most difficult encounters. Progressing past the more difficult fights gives an immense feeling of success that I believe only comes with games that actually challenge you.
+My Verdict
+I truly love this game and can’t recommend it enough to those who will not let death deter them but will instead soldier on to the next darkest dungeon.
+Posted: June 14, 2022
+god i hate this game so much
+Posted: February 19, 2019
+One of the best games I've ever played. Especially if you like Lovecraftian themes and turn based strategy gameplay.
+Definitely the best narration in any game I've played.... ever.
+Posted: June 28, 2017
+UPDATE: Scroll down for the DLC (Crimson Court/Shieldbreaker) reviews.
+You will buy Darkest Dungeon. You will carefully assemble your team. You will curse loudly when they die.
+You've probably heard this game be compared to Dark Souls at some point, but that doesn't really capture the whole picture. Darkest Dungeon is a game where you manage a GROUP of Dark Souls players--you'll organize them, prepare them, set the ball in motion with commands, but the burden of success lies at least partially with them. Out of your hands. As with real players, your characters will have a margin for error. You can minimalize it with planning, trinkets, and practice, but it will be there. Sometimes they will surprise you, somehow surviving certain death. And sometimes, everything will go wrong.
+If you're still with me after that description, I can't recommend this game enough. I bought it in Early Access and my only regret is that I didn't find it earlier on Kickstarter so I could have backed it. Darkest Dungeon is packed with a character all its own, from the stress/affliction system, to the art, to the compelling narration of Wayne June as the Ancestor. The story is satisfying and as Lovecraftian as you would hope.
+If you're on the fence about buying, it's worth the price of admission. Much more so if you catch it on sale. I bought the DLC and will update this review once I've finished it.
+-------------------------------
+DLC: Crimson Court
+-TL;DR I bought it, it was fun and neat, I'd buy it again and maybe a third time.
+Good: New content, new bosses, plenty of narrator voice acting, swathes of new awesome loot, tons of cool monsters, chance to have vampires working for you.
+Bad: Intense difficulty spikes throughout the DLC, may be compeletely overpowering for new players, Crimson Curse is hard to deal with, RNG remains your God.
+WARNING - This DLC directly increases the difficulty of the base game. If that's not something you want, you might be frustrated with this DLC.
+I was hesitant to buy this DLC, I'll be honest. The core story was already polished and whole, and it felt like additions would be forced and possibly trite. Furthermore, there are few horror genres as tired and overdone as the Vampire. Still, I gave it a chance and, whew, what a ride. Where to start?
+To begin with, the Crimson Court integrates itself into the game seamlessly and quickly. With the DLC active, you get a lead into this new side of the game as early as the first embarked mission (beyond the tutorial). Afterwards, you quickly tumble into a tempting new area, gated by a hidden challenge, that unleashes a new, and very immediate, peril upon the Hamlet. As is typical of Darkest Dungeon, when I say "peril" I mean that your heros can (and probably will) die of this new problem - The Crimson Curse.
+What's more, progressing through the DLC produces a taut, but pleasing, tension as the stakes grow higher and the need for the next goal accomplished becomes more immediate. For each of the three Expedition tiers (Apprentice, Veteran, and Champion), there is a story arc is told through normal expeditions, events in the Hamlet, narration, and in the Courtyard itself. After each tier, there is a break in which you can progress the normal game.
+Possibly the most fun part for me was the Trinket Sets. The art and flavor text on them are great, giving us hints at the origins of the various heroes of Darkest Dungeon, as well as providing interesting or powerful bonuses that set them apart from other trinkets. After collecting each and every set, I found it was definitely worth doing so, but I did not feel that the trinkets were required. In many cases, normal trinkets were far superior.
+I'll also say that the story of the Crimson Court was surprisingly satisfying. The extra cutscenes and narration made it feel like money well-spent. I will say, though, that it's easy to put yourself in a completely untenable position by opening the "Pandora's Box" too soon. You will need to learn how to deal with the Crimson Curse fast, and dedicate time and effort to resolving the story of the DLC or risk losing valuable heroes to the thirst.
+--------------------------------------
+DLC: Shieldbreaker
+-TL;DR She's awesome. Definetly worth 4 bucks on her own, and she comes with story, new enemies, and new goodies.
+The Good: No impact on difficulty, new expendable item that has a unique effect, Shieldbreaker is a badass with unique skills that make her fun and useful, breathes new life into Mark teams, additional blight support, unique counter for guard/PROT, her story is exciting to unravel.
+The Bad: Compared to Crimson Court, there's not really much here. Three new enemies, an handful of trinkets, and a new hero.
+After the Crimson Court, I would have bought any DLC for this game. My first thought was that the Shieldbreaker DLC is mostly for diehards, but after giving it a chance, I was very excited at the relatively lengthy revelation of the Shieldbreaker's tale, told through normal gameplay. I can't say too much without major spoilers, but I will tell you that her special events do NOT happen in Crimson Court expeditions, so if you're trying to explore the Shieldbreaker's content, focus on the main areas of the game.
+Posted: November 7, 2018
+DARKWST DUNGEON IS NOT A DUNGEON COMBAT GAME, it is a MANAGEMENT game. (Skip to the end if you want tl;dr)
+I noticed a lot of reviews citing the game as ‘too hard’ or ‘all about rng’ and I can tell you exactly why: those players were expecting a generic dungeon crawler where you can kerbstomp every boss with high level and super gear, and the managerial risk mitigation required in Darkest Dungeon (DD) is foreign and alien to them.
+All the RPG nowadays features the player as this, omnipotent chosen one who is out to save the world single handly, DD subverts that 100%. Your team sports heros with mortal characteristics of strength and weakness, vices and fears that is nothing like the “chosen one out to save the world”.
+That is fine, we have seen that in lores before but here is the kicker - You got to manage those flaws in DD! In fact, if you have worked in a corporate environment DD will be a piece of cake for you, since it is all about risk assessment and human resource (HR) management.
+What about the rng?
+Let's cover the risk assessment: to put it simply, you look at the LIKELIHOOD (rng) and CONSEQUENCE of a RISK to get a risk score, and you assign CONTROLS to reduce the two aforementioned factors.
+Say if my vestel is highly prone to stress in dark due to quirks, we have “RISK” of her getting psyched out and become incapable to heal. The “CONSEQUENCE” of that would be wiping and losing the juicy trinkets your squad has (catastrophic) and the chance of me having no torch may occur in long dungeons (possible).
+So now, the typical gamers have two response : Vestel heal is weak, or negative quirks are too strong. They look at problems NOT solutions.
+To a thinking gamer, a CONTROL will be applied.
+I can reduce the likelihood (rng) by
+-Curing the quirk (if time permits)
+-Bring more torches
+-Have a man of arms to guard her
+-Have ranged damage that can wipe out stressors on round 1, IE dogs and highwayman
+To reduce the consequence by
+-Strict retreat protocol- if the healer is not coping, escape combat
+-Have a crusader that can reduce stress
+-Have stress reduction camping skills
+-Have self heal on dps to reduce healer workload
+Now we have applied control, we have reduced the likelihood (rng) of healer getting psyched out from possible to unlikely level. And even if the healer does get psyched out we have controls to reduce the consequences from catastrophic to minor (if they retreat they go to town have a break no biggie).
+It is understandable that risk management skill do not exist in the immature adults or children who have been fed with hero complex and unable to accept compromise, it is easier to just blame it on rng.
+While the game does have certain shortfalls like slow combat animation, overall it has pioneered a new type of dungeon crawler that's a fresh breeze compared to the old and outdated ‘grind to max level and save the world’ model.
+In Conclusion:
+Not saying you have to like the game or agree to the review, but this is just not the typical game where god gear will win you 100% of the games, and if challenging games isn't your thing, you may need to reconsider purchasing it. However if you do enjoy real challenges like me, you are in for helluva treat!
+Posted: January 20, 2016
+With all the negative reviews lamenting the changes made since the game was originally put on Early Access, I feel like I need to throw some positivity into the mix, because this game is amazing.
+I've been playing on and off since it was first put on Steam, and am aware of the various changes which have been made throught each iteration of the game. To summarize, Darkest Dungeon used to be significantly easier. Before the devs bumped up the difficulty I only had a handful of characters die, and I knew people who managed to get characters up to their highest rank without ever suffering a death.
+The changes the devs made are not unfair. New mechanics were added to prevent players exploiting situations to fully heal every battle, and existing mechanics were changed to better fit the original vision—your characters are not heroes. No matter how powerful they become, being hurt is always something you want to avoid, overwhelming stress is not something you can ever just ignore, and manipulating the formation of both your party and the enemy party is crucial to winning each battle.
+Back before the changes, dungeon runs required significantly less forethought, and most runs could be completed relatively painlessly. Combat took only slightly more strategy than the typical random encounter in a Final Fantasy. Now each fight is a struggle for your life, and while this certainly makes the game more challenging, that kind of challenge is what was intended from the beginning. No doubt I'll get a half dozen angry messages berating me about something or other, but oh well.
+TL;DR: The game used to be much easier and full of ways to manipulate the system to breeze through even the hardest dungeons. Now people are upset that it was changed to punish people for trying to use cheap exploits. It's a very challenging game, and RNG can kick your butt, but you can ALWAYS avoid permanent death by cutting your losses and abandoning a mission. You are in control. Greed and overconfidence will be your downfall.
+As for an actual review, I'll be brief: the overall aesthetic is wonderfully dark, and the whole game reflects the same sinister feeling of vain hope, of struggling towards an impossible goal and clawing your way forward. Success is short-lived and defeat is painful, but the journey is fantastic. Classes are all well balanced and monsters are varied and unique. Bosses will push you to your limits. There is some aspect of grind, and leveling up a large roster of characters can be time consuming, but I enjoyed myself the whole time.
+If you're on the fence with the one, the best thing you can do is stop reading reviews and watch some live streams to see if it looks like something you would enjoy. It's not for everyone, and there are a lot of different things to manage which can get tedious if you're not into that sort of thing. Still, I recommend this game to everyone I know, and it gets a big thumbs up here.
+Posted: August 18, 2015
+EARLY ACCESS REVIEW
+I have to say probably the best purchase I have ever made , and yes I still say it post Corpse and Hound. I picked this game up right after its release and unlike most people I like it now more than I did before, allow me to explain why this game is easily worth the $20.
+First of all you won't like this game if you fit into the following two categories:
+If you don't like turn based games or RPGs this game isn't for you, pretty strait forward.
+If you don' like a challenge, and I mean a real challenge, if you put most of your games you play on easy and then prance through them congratulating yourself on a stellar job this game will bury your pride along with your party of heroes pretty fast. Its hard.
+Why do I like this game (the pros):
+The narrator is great. fits the mood so well and makes everything come to life with the expansive vocabulary and deep timbre.
+The artwork. Its superb, every review out there whether positive or negative will say it. It has the best art of any game I have seen a long time and like the narrator it helps the world come to life. The animation, though minimalist, is beautiful and powerful and really helps you feel the game. The sound is also great and helps build mood as it changes depending on how dark it is in the dungeon. At pitch blackness you hear the squeals, groans, shouts, or other sounds of the dungeon enemies off in the distance and during battle the music is louder and more ecstatic, making everything so much more tense. The aesthetics of this game alone make it work and suck you in, but that's not even the tip of the iceberg.
+The gameplay (I said it, and I'll talk about why other people be hating later). I have always loved tactical turn based and this game is the cream of the crop. There are so many options when it comes to how to defeat your opponents. The enemy monsters are varied and that determines the tactical choices you make. It is brutally unforgiving and thus it takes actual planning to get a good hero lineup and execute with top efficiency; however no hero, ability, trinket or consumable is overpowered (some people say monsters are overpowered... but I'll get to that later). and there are so many ways and lineups to be used to clear dungeons. The tactical battles and overall strategy (the economy, stress heal, and leveling up) go hand in hand.
+So why are other people not suggesting the game?
+You can scroll through all the negative reviews but you only really need to read one to read all it basically: "the patch ruined everything." But yet I don't buy into that train of thought and I will explain why:
+Pre-corpse and hound patch the game way simply too easy, it was all over the forums too. "This game is too easy its boring" or "after early game its a walk in the park" were the complaints. Unlike currently there was an "overpowered" strat where they would take a crit loaded team with two powerful front line hitters and two back line supports into a dungeon, snuff the torch, and then go ham destroying the front line enemies thus exposing the back line enemies while the supports buffed them up to hit even harder. Battles could be over in two turns. Heroes that didn't work into that formula were never used, like the grave robber, plauge doctor, crusader and bounty hunter. Yes every hero was viable but nothing could clear dungeons like a crit loaded dark run (they also gave you the most gold because as the dungeons get darker the more gold you can find).
+The Corpse and the hound added two unique mechanics that threw off the crit loaded dark runs. The first was corpses. Now when you kill and enemy his corpse remains, meaning that the weaker back line enemies can stay safely in the back line and keep throwing their stuff at you. This screwed over the crit-dark runs because now you had to hack through an enemy and then hack through his corpse to clear a path the back lines, making the battle go longer and thus their crit-dealing heroes took more damage.
+The second mechanic added was PROT or protection to enemies, heroes had always been able to get PROT by the means of a trinket but it was never that big a deal (why would you get a PROT trinket when you could just get a trinket that would boost your crit chance for your crit-dark runs?) PROT basically mitigates damage taken, and now that enemies had it (some had very high amounts) it took the crit-dark run damage dealers a few turn to hack through what used to be an instant kill. Both these additions made battles last longer but also opened the space for new mechanics and strategies. now dark runs were much more risky because of the amount of damage you could rack up (in the dark monsters hit harder and more accurately). But an added mechanic was the DoTs (damage over time affects) like poison and bleed completely ignored PROT and if you killed an enemy with DoTs it didn't drop a corpse. The heroes that had DoT's were the heroes that were considered useless before the patch, they didn't become super overpowered they simply became an actual option that could work.
+Basically "the patch" made the game harder and that cause a lot of long time players that had forgotten difficulty and were (to use game analogy) "fattened by decadence and luxury" to rage because they were unable to adapt. People say things like "This game used to be a gem and now I would recommend it to ANYONE!" the unfortunate thing is that if the game had had these mechanics since the beginning everyone would have loved it due to the difficulty. And even if you are scared by all the "the patch ruined everything" reviews, know that the developers knew this would happen. In the corpse and hound patch notes they said at the end that "we will be tweaking these mechanics because we won't know the exact results until after implementation" and they have as of 8/18 nerfed enemy protection and made corpses weaker.
+Final thoughts
+I love this game, and the devs, Its only gotten better for me. I encourage anyone looking for a challenging game that will pull them into the lore and world to look past the negative reviews that all say the same thing. I wrote this review because I feel obligated to let everyone know why some people are mad. At the end of the day, despite the "patch" or PROT I thoroughly enjoy this game and recommend it to anyone remotely interested.
+10/10 would go stalwart again.
+Posted: November 26, 2017
+Remind yourself that overconfidence is a slow and insidious killer.
+Posted: December 10, 2019
+My dude died from stress because he read a book.
+10/10 very realistic
+Posted: October 1, 2015
+EARLY ACCESS REVIEW
+Games like this are the reason why I really wish Steam's "do you recommend" question had more than just two options. Here's why: because I would very, very highly recommend this game... to a certain breed of gamer. Let me explain.
+First, the good.
+Darkest Dungeon is a masterfully crafted game. The artwork is beautifully grotesque and animation is smooth. The game is balanced fairly well, even if it is balanced towards the "hard" end of the spectrum. Even in early access there is nothing about this game that feels sloppy or poorly considered.
+The stress mechanic, in which your characters accumulate stress which can affect them in various negative (and sometimes even positive) ways, is a really interesting idea and something that you don't really see a whole lot in video games. The only place I've seen anything like this before would be the Cthulhu games, and I honestly feel like it's handled a lot better here.
+Oh, and the fact that it's constantly auto-saving, while intended to prevent save-scumming, also has the effect of allowing you to quit and pick back up whenever you want without losing progress, great for people who don't have a lot of time to sit down and play a game.
+The game wasn't my cup of tea (I'll get to why in a minute) but I can't honestly call it bad just because of that. It's not bad. In fact...
+KR Rating: [5] GREAT
+But wait, don't stop reading yet, because now it's time for the bad. As I said before, Darkest Dungeon is a hard game.
+Well, no, that's not really accurate. Etrian Odyssey is hard. That's why I like that series, and it's why I thought I would like this game too. Darkest Dungeon is not hard, it's unfair.
+See, you can be riding high one minute, dominating every encounter and getting a ton of good items from the various chests and cupboards (called "curios" in the game) that litter the dungeons. Then you get into that one battle. You know the one I mean. It's the one that doesn't even seem like it should be all that hard. It's the same enemies you've been wasting with ease this whole time. Except this time you do nothing but miss your attacks over and over, while they stack critical hit upon critical hit. Before you can even click the "retreat" button half your force is at Death's Door... or through it. It's a little like Dark Souls in a way.
+And the thing is, that's not an accident. I said this game was masterfully crafted and it honestly is. This isn't poor game balance, it's the entire point. It's the underlying design philosophy of the game.
+The developers never intended this to be a game where you train up max level badasses and retake the estate. There are no badasses in the Darkest Dungeon. There are no heroes.
+No, this is a game where you recruit expendable idiots by the wagon-load (literally) and send them to die for the greater good. (This is also why there are so few levels of upgrades for your characters: so that restarting when your top character dies is easier.)
+That's why I say, I really wish that Steam allowed more options than just "recommend" or "not recommend." Because, on the one hand, the game is very well made. It has become exactly what I feel the developers wanted it to be. It is a GREAT GAME.
+But "great" and "universally enjoyable" are not the same thing. A lot of people don't like hard games. I do like hard games and even I was turned off by the unfairness and the inability to properly take care of my people.
+If I really had to choose (and for the purposes of the Steam version of this review I kind of do) I would say that I don't recommend the game, if only because I think the number of people who would enjoy it are in the minority.
+That said, if you're the type who thinks you might enjoy that then by all means buy the game right now. It's only $19.99 USD on Steam right now, and for that you get one Hell of a solid classic-style RPG with an interesting twist.
+If you're more like me and you get attached to your characters and don't want to see them die (or if you just don't like hard games) then skip this one.
+(Read the review on Knight's Reviews by clicking here.[knightlyreviews.blogspot.com])
+Posted: November 22, 2021
+Overconfidence is a slow and insidious killer.
+
+Posted: June 15, 2023
+Remind yourself that overconfidence is a slow and insidious killer
+Posted: May 21, 2016
+This game rewards the chicken-hearted. Stubbornly trying to finish a dungeon that's gone badly from the start leads to a deathmarch.
+This game rewards the detail-minded. Did you remember to unequip your trinkets? Did you re-equip them? Did you check to see if that monster is going to easily resist that attack? Dude, did you even make a provisions checklist?
+This game rewards the heartless. Sometimes the best thing to do with a syphilic, boozed-up "hero" with a bad case of nerves is to fire her. Sometimes deciding to let her die of a heart attack gets you a shiny.
+This game rewards the persistent. Not giving up after a humiliating party wipe is more of a key to success than flashes of tactical brilliance. Completing the game in less than 99 weeks (each week is a dungeon run that takes up to half an hour) is considered fast and gets you an achievement.
+This game rewards the flexible. Sometimes you don't have a lot of choices. Your healers are all too diseased and crazy this week. Your tank went AWOL, and your barbarian needs to have a pesky trait removed. Can you scrape together a viable party? Or maybe your tactics went well only up to a point. Will you come up with new ones or will you pack it in, mumbling bitterly about the unfairness of it all?
+It's not for everybody.
+Posted: October 9, 2022
+Darkest Dungeon is a turn based combat game where your party of heroes has to go into deep dark dungeons and defeat the horrifying creatures that lurk within. Not only do you have to deal with the physical dangers but also the stress and horrors of these dungeons.
+This is what makes this game so unique. Normally in most games you take a health potion and heal your character but here you need to manage their stress as well. And that is not easy.
+Pros
+- Amazing setting (atmospheric).
+- Probably the best narration in a game.
+- Very nice 2D art and music.
+- Lots of heroes giving you plenty of options for team dynamics.
+- Endless replayablity with multiple difficulties and classes and the random nature of dungeons.
+Cons
+- Very Difficult (You will need a few guides to get the hang of things).
+- Very Difficult (You will lose heroes frequently).
+- Very Difficult (RNG will ruin your deathless runs regularly).
+- Very Difficult (Just when you think everything is going well one room in a dungeon will mess things up).
+This is a game I keep coming back to regularly. Easily in my list of the greatest games ever made. This game is for those who get satisfaction from overcoming a difficult and challenging game. Has no respect for your time. Permadeath means you could lose a levelled up hero after dozens of hours upgrading their gear and stats. But as they say you wouldn't appreciate happiness if you didn't experience sorrow.
+Did I mention the game is very difficult ?
+Here is a tutorial I made for New Players to get started(Hope it helps) :
+YouTube™ Video:  
+Views: 0
+Posted: August 23, 2021
+When I bought this game quite a few years ago, someone wrote: "This is a great game, but ultimately the RNG and the difficulty is what makes it unplayable". Naturally, I dismissed it, thinking that I'm going to do better. 150 hours later, I'll say this instead: This is a great game, with some design choices which accentuate the futility of the fight against the unspeakable. In other words, your carefully trained and equipped heroes will die - inglorious, meaningless deaths. That's what it means to stand against the eldritch.
+"Big deal", you probably think. "The game clearly states in its trailer: all that awaits you is madness and death. What did you expect? Also, how is it any different from any other hard game where you die a lot?" Fair point. Let me explain, but let's take a look at something else first.
+Venerable opulence
+The first thing you see when you look at this game is the general feel. And let me tell you: it gets much, much better than that. The symphony of the look, the music and the narration is mesmerising. The way it compliments and reacts to the gameplay is nothing short of fantastic. The battle music changes depending on your torch level, which is a self-imposed risk-reward mechanic (the darker it gets, the more violent and dangerous the fight is, but you get better loot). The narrator reacts to almost everything that happens, either foretelling your upcoming doom, congratulating your character on a crit, reminding you to not get too cocky. Wayne June is doing Elder God's work - his voice acting is easily 30-40% of the game's appeal. On an unrelated note, check out his readings of Lovecraft.
+What I'm saying here is: the game excels at luring you in. You want to explore, you want to cleanse, you want to find more riches to expand your town, strengthen your heroes and to go fight nastier and nastier abominations. And so you continue.
+Triumphant pride
+After a while, you get good at it. You start understanding how positioning works, how stats interact, which classes work well together. You begin to understand which classes compliment each other and what team compositions work against which areas and enemies. You will probably lose a few dear heroes. But that's alright, every death is a lesson learned. You know which situations call for pressing on, and which situations are unsalvageable and demand retreat. Risk management is a constant companion here.
+You use your newfound skills to cleanse the areas of the game. To defeat bosses, which are interesting and unique, if challenging, encounters. You'll probably hit roadblocks, will be forced to rethink your strategy. Sometimes you will lose just because fate (RNG) said so. But this is all acceptable. Eventually, you push through, and emerge victorious.
+Dizzying fall
+At this point I should mention that in order to level your characters you need two things: gold and experience. Gold buys you better gear - which is mandatory later on, as it also affects things like dodge or accuracy - and experience, well, levels your guys up. Characters at certain levels can only go on expeditions suited to their level. If it's too easy for them, they will flat out refuse to go. If it's too hard, they will gain additional stress and probably get massacred anyway. As such, you have to constantly keep teams of people available and have high-level reserves, because if someone needs to recover from an expedition or, worst case, dies, you must plug the hole somehow.
+Point is: levelling people is hard. It's a very grindy process. High level champion with gear is worth their weight in gold. Which is why the final dungeon is such a stab in the heart.
+Darkest Dungeon
+There are three things to note about the final expedition. First, it contains completely new, original, and very difficult enemies. You need to learn to fight them. You will lose just by virtue of trial and error, and even fully powered heroes feel underlevelled. Second, once a hero has entered the dungeon once, they will never again be able to enter due to sheer terror. As such, you have to make every expedition count. Third, there is no escape. Up until now retreat was always an option, but here if you try to escape one of your heroes will randomly die to cover for the rest.
+Combine this with the fact that every single hero that is even allowed to enter must have maxed out level and stats and maybe you can begin to see the sheer magnitude of grind required to even "git gud", much less succeed - as stated before, sometimes you just can't win because of circumstances. And that's okay, or at least it would've been if the price of failure wasn't so exorbitant.
+The end, such as it is
+It's such a shame. I really loved this game. Even while writing this my heart races as I think of the great expeditions I had. But in the end I decided I simply do not have the patience, time, or will to grind out yet another batch of fodder for the final expedition. I like to think that this is the point the game set out to make - you can't fight the eldritch. I am sure there are people who have succeeded. In the end, with patience and luck you probably can beat the game. But I can't.
+I have descended into madness instead.
+
+Posted: August 23, 2020
+"Wounds to be tended; lessons to be learned." This is a comment the Narrator of Darkest Dungeon may make to you the first time you lead a party to failure in your quest to combat evil and corruption. Any heroes that manage to return from a failed expedition to the dilapidated hamlet may carry back some treasures, but also diseases, stress, afflictions of both mind and body. And hopefully, while they have gained injury, as a player you will have gained knowledge to improve the next expedition in this fantastic tactical RPG.
+Darkest Dungeon is a punishing game, one that expects you to fail and learn from those failures. Heroes that rally to your desperate cause are a motley assortment of already damaged men and women, each implied to be seeking redemption or to atone from some dark past of their own. In the hamlet, you can spend money to upgrade these skills of these adventurers, upgrade their equipment, or send them to heal from the stresses of facing horrors with meditation, prayer, booze, or the brothel. While your hit points are automatically healed after each mission (if they come back -- deaths are permanent), the stresses endure, and maintaining the mental health of your roster is vital to long-term success. Thankfully, if heroes die -- and die they will -- more can always be recruited.
+With your party healed, you send them in again, to both defeat the horrors that surround the hamlet, and to bring back the treasure and items needed to slowly upgrade the hamlet and give you slight advantages. Combat is turn-based, with both your party and enemies standing in rows of four. This positioning makes up a large part of the tactical decisions of the game. Characters have four abilities, each of which can only be used in certain positions and can hit certain rows. Additionally, many abilities are complimentary. The Occultist can mark enemies, for example, while the Arbalest gains a bonus to marked targets. Learning how to build parties that build on each other's skills -- and attempt to compensate for weaknesses -- is another large part of the tactics you learn. Your roster levels up as you learn these mechanics, as well as the strengths and weaknesses of the varied enemies you face. Eventually, you may even be brave enough to send your heroes to combat the evil in the manor itself.
+In addition to the satisfying tactical combat, the game has a fantastic Lovecraftian aesthetic and theme in story, art, sound design, and animation. This is most evident in the Narrator, who comments on events as you play with a rich, dramatic delivery that might be almost camp, if it were not so skillfully done. If you heal a party member back from the brink of death, the might say, "Death cannot be escaped -- but it can be postponed." Kill a large, powerful enemy, and he might tell you, "Prodigious size alone does not dissuade the sharpened blade."
+Darkest Dungeon is punishing at every turn, forcing you to learn, to refine your tactics, to push to the edge of success or failure over and over. This can be frustrating at times -- complaints of "grind" in this game do have some merit -- but I found the gameplay loop consistently fun, even when it was punishing my failures. As the Narrator might say, "Where there is no peril in the task, there can be no glory in its accomplishment."
+Posted: November 25, 2019
+Played it a little, not bad.
+Posted: January 27, 2018
+Remind yourself that overconfidence is a slow and insidious killer.
+Posted: July 4, 2016
+Here's why people are giving negative reviews: because they want everyone to be alive in their roster. Because they spent so much gold removing negative quirks and whatnot.
+You WILL die in this game, whether you like it or not.
+Confident that your party is able to take on a particular dungeon because they are now higher level? Nope. Not happening. Random Collector spawns and kicks your party's ass.
+This is not about RNG, it's about complacency. If you go into this game thinking that you want all your characters to be perfect and nice, rainbows and glitters everywhere, then this is not the game for you. If your party makes it through alive at the end, you should thank your ancestors.
+If you are a perfectionist, this will be a very hard game for you. Your characters are essentially cannon fodder, disposable like daily contact lenses. Occasionally, you buy monthly ones, but you don't use them forever. They all have a 'shelf life'. At some point, they will become redundant or die. Nothing lasts forever.
+Posted: September 25, 2018
+I frickin hate this game and get irritated in just about every fight.
+Oh sure, I guess we just all happen to miss our attacks all on the same turn. Yeah that's fair.
+Great. You just critted my healer and put her on death's door before i even get a turm. Thanks for that.
+Unfortunately the best narration since Bastion, and the spot-on sound effects, the reactive music, and the most expressive tweened animations I've ever seen, all within a pervasive atmosphere of fear and hopelessness, do not make the game any less upsetting.
+Yet, I also frickin love it. It isn't a fair game, I don't even know if it's a 'fun' game but one is compelled to persist nonetheless. I'm playing it like a mini-game where I just do a dungeon run or two per session and I'm slowly; slowly learning what's important. And that is the key to this game- pay attention, accept the setbacks and persist.
+Everyone should try it, provided they can tolerate the hostility. I am not typically one with a lot of patience for gotcha machanics and bullet sponges and underpowered characters, but this game pulls it off. It isn't that the game is hard, It's that you're dealing with a very hostile situation. It's pretty much the only game I've played that I can accept this and keep going without it feeling like a time sink.
+Make no mistake though, calling it 'fair' is, in my opinion, a stretch. But that's what is so impressive- it's a total d1ck of a game but still so highly playable and entertaining. That's a rare feat for any game, and even more amazing when you consider how simple the game's mechanics are.
+One important thing - if you dislike the aesthetics, I doubt you will enjoy the game. They are a big part of the game's appeal, so unless you really like underpowered dungeon crawls you will probably get tired of them. That said I dont know how anyone could not adore the aesthetics.
+Buy this game and get ready to rage. You'll hate every minute, and love it all the same.
+Posted: April 22, 2023
+i've lost friends, family, pets... yet this game is still the best lesson in letting go i've ever had in my life.
+rip marescot you were the real g.
+Posted: October 8, 2023
+I tried uncovering the secrets of my ancestors and all I got was severe mental illness. 101/10, would lose self to madness again.
+Posted: November 12, 2021
+I hate this game. It frustrates me. It angers me. It makes me want to break into someones house and unwrap all the bread in the cupboard, toast it and then put it back in the cupboard. That is the mark of a good game. Buy this game.
+Posted: June 24, 2017
+After reading all of the reviews for this game I feel obligated to say how I feel.
+This is one of my favorite games. The way the game makes you feel about both the enemys and your own heroes is freaking amazing. You want your heroes to live, and when they die it is heartbreaking. You will feel damn near depressed at the thought of it. Notice how I said AND and not IF your heroes die. That's because at some point they will and it is also why I felt I needed to say something about it.
+I see to many people complaining about this game being to much rng and when they lose apart of their "dream squad" that the game needs to change.
+This is the most wrong thing I think I have ever seen for two reasons.
+1. This is a Lovecraftian horror game. The whole point is to create a sense of helplessness and how much you do not matter in this world of ungoldy abominations.
+2. One of the main conflicts of this game is dealing with the crap that comes you way. One of the first paragraphs you read on the title screen says :
+"Darkest Dungeon is about making the best of a bad situation. Quests will fail or must be abandoned. Heroes will die. And when they die, they stay dead. Progress autosaves constantly, so actions are permanent."
+"The game expects a lot out of you. How far will you push your adventurers? How much are you willing to risk in your quest to restore the Hamlet? What will you sacrifice to save the life of your favourite hero?"
+This sense of helplessness is also what makes winning feel so good when you know that you overcame what seemed to be impossible obsticles and become stronger throughout he game.
+So please, do not judge this game about being so rng when it is trying to share a good lesson: You must press on.
+Posted: March 3, 2021
+**Before reading this review, please keep in mind that this is MY opinion and shouldn't affect how other people view this game**
+So, this review seems a bit overdue. I wasn't planning on playing over 100 hours of the game before making a review. I had originally planned to write it before, but my boyfriend encouraged me to wait until I beat the game or at least until I tried a serious run on the Darkest Dungeon. That is why it took me so long to write this.
+I got this game as a gift from boyfriend a couple of years ago, though even before that I had already seen him play the game quite a bit, and I really enjoyed it. There was just something about the dark nature of the game that just drew me in, so I was so happy when I got this game. And with all the hours I have put into the game, there are definitely some aspects I like, feel mixed about, and don't like, which is why I am going to make a review on it. Just keep in mind, I haven't finished the game completely. The most I have done is to do a serious attempt on the Darkest Dungeon once, so with that in mind, don't think there will be anything regarding the ending.
+So, let's begin with the review!
+(Also, just for the record, this will probably be a long review, so bear with me)
+Things I like about the game:
+1. The different characters one can play as (and all the combinations for teams): So, one thing I really liked from the beginning was just how many different classes there were and how many different builds one could make. I feel like it gives you the ability to put your own style of gaming into the team you create. If you want a more damage dealing team, you can do it. If you wanna focus on evasion, you can do that too. And the amount of different styles is so fun. Whether it be damage, stress, glass cannon, evasion, prot, etc. It's just really fun to tinker around with them, and seeing what combination works best.
+2. The Narrator: Oh my god. I think most people who have played this game (Or well, at least the people I have known who also have this game) have commented on the narrator and his quotes. And honestly, that just makes the game so much more entertaining. Like, that voice and those lines just...have a way of sticking on you. To the point, my boyfriend, a friend of ours, and I just sometimes quote the narrator out of nowhere. So yes, I had to add that as something I like xD
+3. The music: So, I am usually the type of person who let's the music speak for the game in a lot of cases and Darkest Dungeon is no exception to that. Though there are many occasions I don't play with music in this game (for whatever reason), I do really like the music in the game. I think it speaks a lot about what is going on in the game, especially when it comes to all the stress and darkness that is occurring.
+4. The enemies/bosses (how diverse they can be): Now, while I was thinking of putting this in the mixed section of this review (because some enemies can just be absolutely tedious to deal with), I just love how original the designs are. Like, especially when one goes into the harder dungeons, I like how disturbing the enemies look and it's just so....amazing. The bosses are also pretty cool in regards to their looks (though some of them can be extremely annoying to face, which comes from me who swore to defeat all bosses before going into the Darkest Dungeon).
+5. How the dungeons map change every time you go in: I don't think I need to explain this much further. I just feel it adds a sense of difference each time you go into a dungeon.
+6. The mods: To be honest, this is the first game I have ever played while using mods, and oh my god. Do they add to the experience. So, when I first saw my boyfriend play Darkest Dungeon for me, I didn't know he was using mods (since a lot of the character just blend in so well with the entire game). This got me into using some of those mods, as well. And I will tell you, it makes such a difference. The mods that fit in so well with the game that you don't even realize they are mods and just the different types of characters that are added with those mods is just so fun and amazing.
+Now, that I've mentioned some of the things I like, time to bring up things I am more mixed about.
+1. The difficulty: Now, I wasn't really certain on where to put this, as it is something that adds a lot of charm to the game and a lot of satisfaction when one succeeds. However, there are just some things that I find just...so difficult that it makes me go crazy. Now I played this game on Radiant, and you would think, it would be a walk in park. It isn't and I knew that. But just seeing some of the things my boyfriend has experienced in harder difficulties, and what I experienced in the Darkest Dungeon (and that's excluding what I have faced in regular dungeons) and it's like....How's one supposed to beat that? So yeah, I needed to put this in mixed feelings.
+2. How certain items you interact with can do barely any good: So, for people who have played this, it's hard not to mention the different items you can interact with on your way through a dungeon. And while I am not against putting both good and bad items in the game, I will say that some items...it's like there isn't even a point to interact with them cause all they do is bad. Like, with other items, there are percentages and it's up to you if you want to take the risk or not of interacting with them, but then there are just some that immediately you should steer clear from. And it's...a very mixed feeling I have on that.
+3. The length of some dungeons: You know, I won't go into too much detail on this. All I will say, is that (1) I am just happy that I can choose what type of dungeon I can go through (from short to long) and (2) I think I have only done a long run in a dungeon once, because I felt it was so tedious to do the long ones. Like I am okay with camping once, camping more than that....ehhh. Yeah.
+4. The inventory size: Oh boy, I am surprised this didn't end up on the dislike side of this review. But you know, it's very mixed. On one side, I can kind of understand why the inventory is so small (especially on a game where supplies should feel a bit more limited), it can get kind of annoying at times. Like sometimes I just wish that as you progressed, you could get more inventory size. But, overall, it's nothing too bad that it ruins my experience.
+And those are the things I feel mixed about. When it comes to things I dislike about the game, I couldn't really think of any except well...the collector! Because he just annoys me, especially when he pops out of nowhere to ruin my run) and well, sometimes the whole equipping trinkets and upgrading gear can get quite tedious, but that's just more because I forget to do it (and my bf and our friend wonder how I am able to progress without doing that).
+Overall, I really love this game. Despite it's downfalls and things I feel mixed about, I really love this game and would even go so far as to say it is one of my favorite games right now. There's just soo much to do and so many hours you can put into this game. It's so fun! I would recommend it to anybody who likes these dark types of games with turn-based strategy. And well, that's all I have to say for this review.
+PS: It took me a bit over an hour to write this, so there are probably some things I forgot, but overall this review gives my point of view on the game as well as I possibly could.
+
+Posted: February 3, 2015
+EARLY ACCESS REVIEW
+Full disclosure: review copy provided by developer/publisher!
+“What, you'd like to know my story? There's not much to tell, I'm sorry to say. I came here, same reason as you – for glory, for gold. And not one man can fault me with cupidity, no. I tempted good friends, capable friends, spewing that very promise, HA, and don't let them tell you, CONVINCE YOU, that their hands were forced. They came willingly, yes.
+“Like pigs to the slaughter.
+“The first month was uneventful at the estate. Harried heroes came and went, but my friends and I were heartier fare. We spent what treasures we pilfered on libation, often causing a ruckus in the tavern. New adventurers would swagger in, cocksure, and we'd put them right in place. We'd usually frighten the greener ones off... the rest would perish, often crying out – for God, for their mother, for the sweet release of death. Fools.
+“My friends and I, we don't adventure anymore. We tend the estate, greet would-be heroes such as yourself, to give fair warning. All your skills, all your learning, all your experiences past mean nothing here. You will die, likely alone and raving in the dark. Death is all that you can count on. Death is all you will know.
+“What, my necklace? No, these are no ordinary charms, child. These are my friends, you see. I carry them with me still, even after death. They quiet my mind, when the dark comes, you see. It was the least I could do; their bodies gave me sustenance – their bodies give me sustenance, HA, and don't let them tell you, CONVINCE YOU, that their hands were forced. They came willingly, yes.
+“And so will you.”
+Darkest Dungeon is an RPG turn-based roguelite dungeon crawler – and yes, I've written this phrase so much it autocorrects genres without prompting. I've named my dog “RPG turn-based roguelite dungeon crawler” and he hates me. But I digress. Story is that your wealthy relative has died, not before sending you a letter, urging you to come to the ancestral ♥♥♥♥ hole to spruce things up and purge the ancient, unknowable evil that lurks, broods, and taints up the place like an unruly teenager. The game starts off with a neat little tutorial, explaining some of the nuances of gameplay: tactical placement of characters, attacks, effects, etc. These are all standards we've come to know and love in the genre, nothing out of the ordinary. But there are a few twists that set Darkest Dungeon apart.
+When you set out on a journey you'll select your adventurers, and there are a lot to choose from. Some are tanks, some are roguish, some are healers, and some suck (stupid damn plague doctor I HATE YOU SO MUCH). You can select your character order as well, and right clicking on a portrait provides insight into their ideal placement. Different heroes provide different bonuses, like scouting ahead to spot traps and treasure. After you pick your team you'll need provisions, a risk and reward proposition... are you detecting a pattern? You'll need food for characters, particularly on the longer treks (there's even a camping/survival mechanic to replenish health and stress for such undertakings), or they're liable to starve. You'll need torches to light the way and keep characters from intermittently having nervous breakdowns. And you'll need various health items to keep bleed and blight effects in check. Does this sound like a lot to juggle? Because I am not doing the death-defying, chainsaw spinning, greased up, foot juggling spectacle justice, I assure you. There aren't enough words. After your quest these provisions don't carry on to the next journey, unfortunately. So do you risk spending too much, or spending too little? Both carry consequence.
+But there's more.
+Every hero and heroine has a stress bar beneath their health. With each enemy encounter, trap, and the act of WALKING, the adventurers will accrue stress. This is countered by killing blows, critical hits, and some support abilities. Inevitably someone will reach their breaking point after one too many knock knock jokes and one of two things will happen: they'll rally courageously, lowering their stress and everyone elses, or become afflicted. This affliction, whether it be cowardice, masochism, irrationality (and more!), means you won't always be in control of that hero, often to their detriment and the team's.
+After you clear (or flee) a dungeon you return to the estate, a hub where your weary adventurers can get some much needed R&R. Mirroring the core gameplay, your decisions in the hub world are deeply tactical. Some characters are religious, and will only be willing to visit the abbey to relieve stress. Others will happily drink and gamble their sorrows away. And as less savory quirks develop (buffs and debuffs gained through adventuring and R&R, separate from affliction), you can send them to the sanitarium, where presumably all the fun is. All of this is costly in time and money, and you'll have to manage carefully. Fresh heroes and heroines are wheeled into town after every adventure, but they are newbly in nature. With each subsequent successful quest, estate properties unlock, providing you the ability to upgrade abilities, armor and weapons, survivor traits, and more (you can upgrade your town's buildings to improve their respective output). Expect to spend a lot of booty.
+After enough victories more procedural dungeon locales unlock, bosses become available to fight, and the game gets tougher. I'm not joking when I suggest that YOU, the player, will experience every quirk, affliction, and solace your characters do. I was paranoid. I was stalwart. I was masochistic. I was even hagiophobic (the last time a game introduced me to such cool vocabulary was Eternal Darkness). That is an accomplishment. And it was all worth it, every second of crawling, creeping madness, to play this game.
+It's only February 2015 and this will easily be a contender for GOTY, of that I have no doubt. The art direction is spectacular; beautiful and visceral at the same time, like an old, dusty, medieval anatomy book. The turn-based attacks are so cool, so varied. The enemies are bizarre, terrifying, and menacing. The heroes and heroines are flawed, heroic, almost real. The dungeon crawling is rewarding, the victories are often bittersweet, and the office cooler conversation potential of this game is off the charts with so many variables. But the narration, sweet tap dancing Allfather, Allmother, and every Allrelative in between, the narration is amazing. It's omnipresent, in the hub and dungeons, raising hopes and dashing them in dulcet tones. It's like Vincent Price and Paul Frees' (Disney's Haunted Mansion) voices got married and Cthulhu officiated.
+I have a few teeny, tiny criticisms. The game can be unrelentingly punishing at times, unfair even. And while there is no fail state per se, things can get so bad that you'll want to just restart. I'd like the option to play a game in which I can save. XCOM has a save mode AND an Ironman mode, and I'd prefer that option here as well. There are also little technical glitches here and there, grammatical and spelling errors occasionally. That's about it. That's the sum of my complaints. I'd like to be able to save and there are a few little errors. And this title is in Early Access, which means we can anticipate lots of fine tuning and HOPEFULLY some cool additions as well. But what's already here, what's already been done, is spectacular.
+It would be a grave crime against the Elder Gods to pass this up, and madness will surely follow.
+Posted: June 22, 2017
+Remind yourself that overconfidence is a slow and insidious killer.
+Posted: December 1, 2022
+you can just. turn up your brightness settings to make it Dark Dungeons.
+Posted: March 16, 2023
+My whole team died
+Posted: February 12, 2023
+My man survived 4 death blows and 3 heart attacks during a boss fight, only to step on a trap and die after.
+10/10
+Posted: March 5, 2023
+One of my characters relentlessly berated another inducing a heart attack, which then caused the rest of the team to be overwhelmed by fish demons 10/10
+Posted: June 5, 2015
+EARLY ACCESS REVIEW
+Imagine you're playing Dungeons and Dragons with H.P. Lovecraft as the DM with dice that were carved in the universe of Dark Souls.
+Thats Darkest Dungeon.
+Prepare to cry.
+Posted: January 21, 2019
+What an amazing kickstartered game
+So this is a "challenging gothic roguelike RPG", you are invited to an old state whose owner has fallen into disgrace, he has a very dark background and now he's trying to clease the evil from his land.
+This game has a very dark/gohtic environment, every single thing from the art style to narrator voicelines are extremely dark. you managed the state now, so you have to choose the heroes and use them appropriately in each region, they are updates, trinkets, diseases and quirks, there is also stress which affects your heroes in a positive or negative way (mostly negatively)
+The game is very highly addictive also very difficult some times but it worths the effort.
+The DLCs are very good too
+The color of madness
+adds a new game mode, where you have to destroy foe after foe, and beat the new two bosses. After you defeat the last one you'll grain access to an endless mode.
+The Crimson Court
+adds a new vampire based region with a huge map, you have to defeat three main bosses. This DLC adds some difficulty to the game, because the crimson curse afters the heroes out of the Courtyard so you'll have to collect "The blood" for all your affected heroes or they'll die. The crimson curse also give them a bonus and with this DLC you can collect very useful trinkets.
+Shieldbreaker and Musketeer
+are both very useful heroes if you take them with the right party to the right places.
+ Accidently Reviewed
+Was this review helpful or maybe even not helpful? Either way join this group for more. Free Keys and Reviews weekly!
+ Steam Group: AccidentlyReviewed
+Posted: August 10, 2021
+I'm just gonna go ahead and tell the tale of my doomed band of flawed heroes and let you decide whether you should get the game or not;
+A man and his dog, a warrior nun, an antiquarian, and a blind, diseased man start off to obliterate a giant hag located in the haunted weald.
+They appear to be very well synchronized and successfully clear areas one by one without taking major injuries and maintain their sanity...
+As they lay their eyes on the hag's hideout in the distance, the band decides to set a camp and get prepared for the horrors of tomorrow...
+The diseased man, also known as the Leper, wears hefty, crude armor and a mask to cover his deteriorating skin and rotten face; as he sat down to rest, he takes his mask off to let the cold, fetid air soothe his burning eyes. Others, became immediately uncomfortable and decide to look away and thank their gods for their functional sight and intact skin, in silence.
+The houndmaster pets his dog for the final time before sleep and whispers: "Don't worry Duke, you're a good dog. if I ever die tomorrow, you go and find Alice back in home; she needs you."
+The antiquarian rummages through her bag of baubles and trinkets and reaches for her "lucky" ring. She notices a small crack on it, but ignores it.
+And finally, the warrior nun finishes her prayers and meditation; closes her holy book and soon after, her eyes aswell.
+In the weald's foggy dawn, the group wakes up and prepares for their final battle.
+The frontline member of the band, the Leper, guided by others eyes, slowly opens the front gate of the hideout. the gate's rusted metal screams as it chafes against it's hinge and breaks the silence...
+Behind a huge uncanny pot laid in the field, rises a bigger monster, hungry for a feast.
+The hag has been awoken. "To Arms!" - screams the houndmaster.
+The band quickly reorganizes it's formation and readily hold their weapons.
+"Get her Duke!" - the houndmaster shouts and Duke rushes towards the hag; despite the monster's size and big belly, the hag strikes her hand at the charging dog and throws him meters away; leaving him concussed by the unimaginable impact.
+In response, the warrior nun casts a spell and holds her holy mace high in the air; light and energy channel through her mace to the skies and fall deliberately on the hag's fiendish head.
+Unfazed by the light, the hag shrugs it off and reaches for the houndmaster and grabs him by the waist and throws him into the boiling pot!
+Not so long after the initial, deafening screams of the houndmaster, fear and agony surges into everyone;
+Even the Leper, not being able to see the horrors, shakes out of fear by hearing the screams of pain...
+"STRIKE THE POT!" - shouts the antiquarian while pointing her antique, crude knife at the pot.
+The Leper, guided by the screams of the houndmaster, locates the pot and lifts his heavy Zweihander and strikes the pot.
+The pot falls and spits the half-boiled houndmaster onto the ground...
+The antiquarian quickly reaches for a homemade powder to soothe the unfathomable pain of the houndmaster;
+"Stay Back!" - the Leper nervously warns the others, as he feels something worse is about to happen...
+"RUN!" - the antiquarian screams as the hag reaches for a gigantic utensil and prepares for a strike!
+Everyone ran for cover, until an excruciating blow was delivered to the weakest link of the group...
+The houndmaster's skull was smashed. his blood and disintegrated brain littered the ground around him.
+As the others with eyes lay their sight on the horrendous turn of event, fear strikes their souls and leaves them stunned, silenced.
+The Leper, confused and feared, hears his armor and rib cage getting crushed. The hag had tightly grabbed him.
+It was his turn to be thrown into the pot.
+"Nooo!" - hopelessly the nun and the antiquarian shout.
+- "We have to leave, NOW!" - the antiquarian screams out of fear.
++ "NO! we shan't leave the poor being in the pot!" - the nun responds.
+- "He can't feel a thing for gods sake! If we stay, we die too!"
++ "But, this, this is not right!"
+- "HE WON'T FEEL A THING!" - the antiquarian grabs the nun's hand and the stunned dog; they soon flee the area.
+The Leper, although senseless and not being able to feel any pain, died the moment he was thrown into the pot. Fear had shattered his poor heart. He is now free. His soul is no longer bound to meaty, senseless flesh.
+Only one returned to the Hamlet. The antiquarian had disappeared on her way back; rumors have it she was in fact, a kleptomaniac.
+As the Hamlet's residents see the sight of the returning nun, they quickly scramble around her and ask her about the others.
+"hE wOn'T FeEl a ThiNg RigHT?!!"
+"HE WON'T RIGHT?!!"
+the nun had gone completely mad.
+She was immediately sent to the sanitary.
+Duke, unbothered and ignored by the residents, howls and grieves for a short moment.
+He then leaves the Hamlet to find his home. The good dog was loyal to the very end.
+Posted: October 14, 2019
+Tip number 1: Don't have favourites, they'll die.
+Tip number 2: If you're thinking of doing one more dungeon or sleep, go to sleep, or you won't get any.
+Tip number 3: Use mods, only after you finished default game.
+Tip number 4: You don't already own this game? What are you waiting for?
+(Edit)
+Here we go again...
+Posted: September 11, 2018
+Darkest Dungeon is one of the best games ever made! A true vision come together as the music, narraration, story, and gameplay all do wonders at immersing you into the dark and otherworldly themes the game presents. A fantastically well rounded game that has as much excitement and tension in the first dungeons as well as the last. This is a great game for people interested in tense turn-based combat as well as dungeon crawling and treasure collecting. I found the party building to be my favorite part (I would spend hours thinking how different groups of heroes would play together and more work out well than you'd think). The more you put into this game the more you get out.
+Posted: February 2, 2021
+this game revealed how little luck I truly have, and opened my eyes to the joys of suicide. 8.5/10, beautiful experience.
+Posted: October 24, 2018
+You may not like the gameplay.
+You may not like the game.
+You may not like the story.
+But everyone likes the narrator.
+Posted: December 14, 2021
+Missed then had a Heart Attack
+Posted: November 23, 2022
+I hate this game, you should play it.
+Posted: May 11, 2019
+Do you like death?
+Do you like stress?
+Do you want to die?
+If yes then this the game for you trust me.
+10/10
+Posted: February 8, 2015
+EARLY ACCESS REVIEW
+If HP Lovecraft ran a D&D game for people and wanted to torture them by slowly destroying their characters with sanity rending disadvantages, it would be like Darkest Dungeons. So challenging, but loads of fun. Cool graphics style and great voice acting. And lots of dead heroes.
+
+Posted: February 25, 2015
+EARLY ACCESS REVIEW
+Most depressing game? Quite possibly.
+Darkest Dungeon is a game I only recently discovered, and I'm very glad I did.
+An incredibly punishing game that should please masochists the world over - Darkest Dungeon combines a variety of gameplay elements spanning several genres, and heavy influence from Lovecraftian mythos with dark gothic themes.
+Playing as somewhat of an RPG/DnD/adventure/roguelike hybrid, the game focuses upon building a party and completing quests through side-scrolling exploration riddled with turn-based strategy for combat. This may sound fairly stock-standard, but the added element of "stress" adds a layer of depth unlike any I've seen in a game.
+Each character has a set amount of HP. Simple? Yes.
+Each character has a set level of stress at any given point in time. Simple? Not quite.
+Actions while questing, fighting, resting and returning to town in-between quests will all have an impact on a character's stress; this is what turns an otherwise fairly simple RPG into a challenging, punishing experience of a game. Once stress level on a character hits 100, they turn insane: acting irrational, spreading stress among party members, attacking of their own accord in battles. This is exactly what you want to avoid.
+I could go on about Darkest Dungeon for several pages, but that would simply be detracting from the amount of time you could be spending actually playing it. Though early access (at this moment), it's easily worth the purchase and will have you cursing for hours on end as your party members trudge through dungeons, are faced with insanity and eventually perish.
+Buy this game.
+Posted: August 22, 2016
+TL;DR? See Conclusion
+INTRODUCTION:
+Darkest Dungeon is a grimdark dungeon crawling, side scrolling, mixed turn-based combat and real time adventure, rogue-like game developed and self-published by Red Hook Studios.
+The game boasts several unique features, the most prominent of which is the Stress system which may cause your heroes to either panic or rally depending on the situation. If a hero panics, said hero may become 'afflicted' or become 'virtuous,' becoming either a liability or a benefit to your current expedition.
+This game was made possible through crowd funding via Kickstarter, as well as Early Access.
+PLOT (No Spoilers):
+The player takes on the role of an unnamed 'Heir' of a powerful and wealthy family. After being called back to his ancestral home by an enigmatic figure known as 'The Ancestor' who awoken a sleeping evil within the depth of the family Manor, the Heir must now use what remains of the family fortune to gather a rag tag group of adventurers to explore, cleanse, reclaim, and rebuild his family's estate from the evil that now inhabits it.
+“Women and men... soldiers and outlaws... fools and corpses. All will find their way to us now that the road is clear.” - The Ancestor
+PROS:
++ AMAZING grimdark 2D artstyle
++ Very good narration and voice acting
++ Very good sound design and music that matches with the game's theme
++ Numerous and versatile classes – there is a certain joy in experimenting with different classes, parties and skill compositions
++ Very good and unique gameplay mechanics such as:
+Torch and light levels that directly affects gameplay
+Stress levels (Heroes can panic and become less effective if stress goes to high)
+Quirk System (Adds certain positive or negative effects to your heroes)
++ Skill customization for the heroes – this makes them relevant even with different party compositions and tactical situations
++ Harsh but manageable difficulty levels – mandatory autosave and no reloads with permanent hero deaths
++ Good overall presentation
++ Good replayability
++ Lengthy game time
++ Interesting back story and lore
+CONS:
+- Limited number of dungeons – to be fair, the dungeons are procedurally generated.
+- Sudden and unexpected difficulty spikes – specially when transitioning from Veteran to Champion
+- Limited visual customization for both town and heroes – mods[www.nexusmods.com] are available if you want to change hero skins
+- Resources (other than gold) becomes irrelevant late game, specially once the town is fully upgraded
+- Limited number of trinkets (equipment and accessories)
+- Occational graphic glitch
+- One or two crashes here and there
+NEUTRAL:
++/- The back story and lore is nice, but the game's story itself boils down to “kill the boss” – you can skip all other bosses and the back story with it.
+CONCLUSION:
+GREAT GAME for any dungeon crawler and turn-based tactics fan. Featuring a good back story backed up with amazing artstyle, Darkest Dungeon brings to the player the tactical challenge of XCOM, the grimdarkness of Dark Souls, and the joy of exploration of a Dungeons & Dragons campaign, all in one package.
+WORTH IT?
+I can easily RECOMMEND Darkest Dungeon at its full price of $24.99 USD (or your regional equivalent). With good replayability from the unique classes and the relatively unpredictable combat results, the game can last you for at least 20 hours or more.
+---------------------------------------------------------
+Like my Reviews? Follow my Curator's Page:
+Miyumi's Review Corner (MIRECO)
+Posted: April 13, 2018
+If you're on the edge of buying this game and are worried it might be too hard, it's not. Yes, the game is hard, but it's easy to learn for the most part. It's a very tough game if you go in completely blind though, but if you're tough enough to go in blind, you're already ready for the adventures that await you.
+However, if you want to be prepared, studying your hirelings abilities and what each the stats does and what each indiviual hireling may need or benefit from helps a ton. Trinkets should be easy to understand, Resistances play a big role in this game, don't underestimate them.
+Dying isn't the end of the game, you can always send in the weekly (each dungeon = week) 4+ lvl0 hirelings to an easy dungeon and make back ur money and get back on your feet easily. Attaching emotion to a hireling should be avoided, but it's also quite inevitable to feel attached to some that you think of as children. They can be taken away from you with a couple of mistakes and rng no in your favor.
+But whatever you do in this game, please, seriously understand that...
+overconfidence is a slow and insidious killer.
+Posted: September 29, 2020
+I made the mistake of naming all my goons after my friends. I have never experienced such raw emotion before. Please send help. My mind is worn, my body is weary, and my friends are giving me weird looks. They cannot fathom the horrors I have seen them face or the dangers I have seen them escape.
